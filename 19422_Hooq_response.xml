@@ -1,0 +1,318 @@
+<VAST version="2.0">
+<Ad id="447488921">
+<InLine>
+<AdSystem>DCM</AdSystem>
+<AdTitle>In-Stream Video</AdTitle>
+<Error>
+<![CDATA[
+https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMI-86VhZXf4wIVEO-PCh1veAXXEAAYACD-ptg4;met=1;ecn1=1;etm1=0;eid1=200015;
+]]>
+</Error>
+<Impression id="pokkt_impression">
+<![CDATA[
+https://sg-tracker.pokkt.com/api/VideoEventTracker?country=indonesia&device_model=Warp+Elite&pt_fp=3.0&app_bundle_name=tv.hooq.android&latitude=34.0007&swidth=640&pt_bp=5.0&language=en&platform=android&device_name=android&eap=13.0&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=557&ml_cache=ML_CACHE&carrier_name=Telkomsel&brand=ZTE&campaign_id=8509&timestamp=1564576334596&longitude=-81.0348&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=114.125.204.53&limitedTracking=1&advertisingID=f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&offer_id=19422&token=9103b18835e2d8999259a5200cead824&utp=0&track_id=fd63c9ac-85c4-4813-8646-b5350b0c81e2&marketing_name=Warp+Elite&channel_id=8197&sheight=360&encodedPubParams=&event=6&
+]]>
+</Impression>
+<Impression id="pokkt_impression_3">
+<![CDATA[
+https://secure-gl.imrworldwide.com/cgi-bin/m?ca=nlsn176518&cr=crtve&ce=pokkt&pc=tv.hooq.android&ci=nlsnci1722&am=4&at=view&rt=banner&st=image&r=1564576334&c9=devid,f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&c13=asid,P463FA8F6-16F1-4E80-9280-5BD465041825&uoo=true
+]]>
+</Impression>
+<Impression id="pokkt_impression_2">
+<![CDATA[
+https://secure-gl.imrworldwide.com/cgi-bin/m?ca=nlsn172691&cr=crtve&ce=pokkt&pc=pokkt_plc0001&ci=nlsnci1407&am=3&at=view&rt=banner&st=image&r=1564576334&c9=devid,f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&c13=asid,P463FA8F6-16F1-4E80-9280-5BD465041825&uoo=true
+]]>
+</Impression>
+<Impression>
+<![CDATA[
+https://googleads4.g.doubleclick.net/pcs/view?xai=AKAOjsuohejE5gF_iwjzXM4bvtuY3OsoEtRjWci1jo0hL-cR-O7zmzIxZJNcZKkEdQ1eKCCc0ZtJuZTGdusTECeEZIXwe_1MQqHe_d4b2rTIBRbhLkW8zNen&sig=Cg0ArKJSzFY1j0Q844ZdEAE&urlfix=1&adurl=
+]]>
+</Impression>
+<Impression id="pokkt_impression_1">
+<![CDATA[
+https://adrta.com/i?clid=pkt&paid=pkt&dvid=v&avid=557&caid=8509&plid=19422&publisherId=38d46af7090f2689e227f40a7ddfe7b4&lineItemId=&kv1=320X50&kv4=114.125.204.53&kv11=156457633454575478544&kv18=tv.hooq.android&kv16=34.0007&kv17=-81.0348&kv19=f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&kv23=Telkomsel&kv26=android&kv25=HOOQ%253A%2BWatch%2BMovies%252C%2BTV%2BShows%252C%2BLive%2BChannels%2B%2526%2BNews&kv27=Mozilla%252F5.0%2B%2528Linux%253B%2BAndroid%2B5.1%253B%2BN9518%2BBuild%252FLMY47O%253B%2Bwv%2529%2BAppleWebKit%252F537.36%2B%2528KHTML%252C%2Blike%2BGecko%2529%2BVersion%252F4.0%2BChrome%252F60.0.3112.116%2BMobile%2BSafari%252F537.36&kv24=Mobile_InApp_Video
+]]>
+</Impression>
+<Creatives>
+<Creative id="118887294" sequence="1">
+<Linear>
+<Duration>00:01:00</Duration>
+<TrackingEvents>
+<Tracking event="inAppPurchase">
+<![CDATA[
+https://sg-tracker.pokkt.com/api/VideoEventTracker?country=indonesia&device_model=Warp+Elite&pt_fp=3.0&app_bundle_name=tv.hooq.android&latitude=34.0007&swidth=640&pt_bp=5.0&language=en&platform=android&device_name=android&eap=13.0&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=557&ml_cache=ML_CACHE&carrier_name=Telkomsel&brand=ZTE&campaign_id=8509&timestamp=1564576334596&longitude=-81.0348&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=114.125.204.53&limitedTracking=1&advertisingID=f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&offer_id=19422&token=9103b18835e2d8999259a5200cead824&utp=0&track_id=fd63c9ac-85c4-4813-8646-b5350b0c81e2&marketing_name=Warp+Elite&channel_id=8197&sheight=360&encodedPubParams=&event=24&
+]]>
+</Tracking>
+<Tracking event="creativeView">
+<![CDATA[
+https://sg-tracker.pokkt.com/api/VideoEventTracker?country=indonesia&device_model=Warp+Elite&pt_fp=3.0&app_bundle_name=tv.hooq.android&latitude=34.0007&swidth=640&pt_bp=5.0&language=en&platform=android&device_name=android&eap=13.0&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=557&ml_cache=ML_CACHE&carrier_name=Telkomsel&brand=ZTE&campaign_id=8509&timestamp=1564576334596&longitude=-81.0348&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=114.125.204.53&limitedTracking=1&advertisingID=f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&offer_id=19422&token=9103b18835e2d8999259a5200cead824&utp=0&track_id=fd63c9ac-85c4-4813-8646-b5350b0c81e2&marketing_name=Warp+Elite&channel_id=8197&sheight=360&encodedPubParams=&event=31&
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMI-86VhZXf4wIVEO-PCh1veAXXEAAYACD-ptg4;met=1;ecn1=1;etm1=0;eid1=960585;
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://sg-tracker.pokkt.com/api/VideoEventTracker?country=indonesia&device_model=Warp+Elite&pt_fp=3.0&app_bundle_name=tv.hooq.android&latitude=34.0007&swidth=640&pt_bp=5.0&language=en&platform=android&device_name=android&eap=13.0&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=557&ml_cache=ML_CACHE&carrier_name=Telkomsel&brand=ZTE&campaign_id=8509&timestamp=1564576334596&longitude=-81.0348&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=114.125.204.53&limitedTracking=1&advertisingID=f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&offer_id=19422&token=9103b18835e2d8999259a5200cead824&utp=0&track_id=fd63c9ac-85c4-4813-8646-b5350b0c81e2&marketing_name=Warp+Elite&channel_id=8197&sheight=360&encodedPubParams=&event=3&
+]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[
+https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMI-86VhZXf4wIVEO-PCh1veAXXEAAYACD-ptg4;met=1;ecn1=1;etm1=0;eid1=11;
+]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[
+https://sg-tracker.pokkt.com/api/VideoEventTracker?country=indonesia&device_model=Warp+Elite&pt_fp=3.0&app_bundle_name=tv.hooq.android&latitude=34.0007&swidth=640&pt_bp=5.0&language=en&platform=android&device_name=android&eap=13.0&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=557&ml_cache=ML_CACHE&carrier_name=Telkomsel&brand=ZTE&campaign_id=8509&timestamp=1564576334596&longitude=-81.0348&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=114.125.204.53&limitedTracking=1&advertisingID=f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&offer_id=19422&token=9103b18835e2d8999259a5200cead824&utp=0&track_id=fd63c9ac-85c4-4813-8646-b5350b0c81e2&marketing_name=Warp+Elite&channel_id=8197&sheight=360&encodedPubParams=&event=7&
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMI-86VhZXf4wIVEO-PCh1veAXXEAAYACD-ptg4;met=1;ecn1=1;etm1=0;eid1=16;
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://sg-tracker.pokkt.com/api/VideoEventTracker?country=indonesia&device_model=Warp+Elite&pt_fp=3.0&app_bundle_name=tv.hooq.android&latitude=34.0007&swidth=640&pt_bp=5.0&language=en&platform=android&device_name=android&eap=13.0&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=557&ml_cache=ML_CACHE&carrier_name=Telkomsel&brand=ZTE&campaign_id=8509&timestamp=1564576334596&longitude=-81.0348&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=114.125.204.53&limitedTracking=1&advertisingID=f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&offer_id=19422&token=9103b18835e2d8999259a5200cead824&utp=0&track_id=fd63c9ac-85c4-4813-8646-b5350b0c81e2&marketing_name=Warp+Elite&channel_id=8197&sheight=360&encodedPubParams=&event=26&
+]]>
+</Tracking>
+<Tracking event="skip">
+<![CDATA[
+https://sg-tracker.pokkt.com/api/VideoEventTracker?country=indonesia&device_model=Warp+Elite&pt_fp=3.0&app_bundle_name=tv.hooq.android&latitude=34.0007&swidth=640&pt_bp=5.0&language=en&platform=android&device_name=android&eap=13.0&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=557&ml_cache=ML_CACHE&carrier_name=Telkomsel&brand=ZTE&campaign_id=8509&timestamp=1564576334596&longitude=-81.0348&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=114.125.204.53&limitedTracking=1&advertisingID=f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&offer_id=19422&token=9103b18835e2d8999259a5200cead824&utp=0&track_id=fd63c9ac-85c4-4813-8646-b5350b0c81e2&marketing_name=Warp+Elite&channel_id=8197&sheight=360&encodedPubParams=&event=14&
+]]>
+</Tracking>
+<Tracking event="playButtonClick">
+<![CDATA[
+https://sg-tracker.pokkt.com/api/VideoEventTracker?country=indonesia&device_model=Warp+Elite&pt_fp=3.0&app_bundle_name=tv.hooq.android&latitude=34.0007&swidth=640&pt_bp=5.0&language=en&platform=android&device_name=android&eap=13.0&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=557&ml_cache=ML_CACHE&carrier_name=Telkomsel&brand=ZTE&campaign_id=8509&timestamp=1564576334596&longitude=-81.0348&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=114.125.204.53&limitedTracking=1&advertisingID=f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&offer_id=19422&token=9103b18835e2d8999259a5200cead824&utp=0&track_id=fd63c9ac-85c4-4813-8646-b5350b0c81e2&marketing_name=Warp+Elite&channel_id=8197&sheight=360&encodedPubParams=&event=11&
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMI-86VhZXf4wIVEO-PCh1veAXXEAAYACD-ptg4;met=1;ecn1=1;etm1=0;eid1=15;
+]]>
+</Tracking>
+<Tracking event="loaded">
+<![CDATA[
+https://sg-tracker.pokkt.com/api/VideoEventTracker?country=indonesia&device_model=Warp+Elite&pt_fp=3.0&app_bundle_name=tv.hooq.android&latitude=34.0007&swidth=640&pt_bp=5.0&language=en&platform=android&device_name=android&eap=13.0&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=557&ml_cache=ML_CACHE&carrier_name=Telkomsel&brand=ZTE&campaign_id=8509&timestamp=1564576334596&longitude=-81.0348&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=114.125.204.53&limitedTracking=1&advertisingID=f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&offer_id=19422&token=9103b18835e2d8999259a5200cead824&utp=0&track_id=fd63c9ac-85c4-4813-8646-b5350b0c81e2&marketing_name=Warp+Elite&channel_id=8197&sheight=360&encodedPubParams=&event=95&
+]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[
+https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMI-86VhZXf4wIVEO-PCh1veAXXEAAYACD-ptg4;met=1;ecn1=1;etm1=0;eid1=19;
+]]>
+</Tracking>
+<Tracking event="fileError">
+<![CDATA[
+https://sg-tracker.pokkt.com/api/VideoEventTracker?country=indonesia&device_model=Warp+Elite&pt_fp=3.0&app_bundle_name=tv.hooq.android&latitude=34.0007&swidth=640&pt_bp=5.0&language=en&platform=android&device_name=android&eap=13.0&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=557&ml_cache=ML_CACHE&carrier_name=Telkomsel&brand=ZTE&campaign_id=8509&timestamp=1564576334596&longitude=-81.0348&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=114.125.204.53&limitedTracking=1&advertisingID=f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&offer_id=19422&token=9103b18835e2d8999259a5200cead824&utp=0&track_id=fd63c9ac-85c4-4813-8646-b5350b0c81e2&marketing_name=Warp+Elite&channel_id=8197&sheight=360&encodedPubParams=&event=13&
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://sg-tracker.pokkt.com/api/VideoEventTracker?country=indonesia&device_model=Warp+Elite&pt_fp=3.0&app_bundle_name=tv.hooq.android&latitude=34.0007&swidth=640&pt_bp=5.0&language=en&platform=android&device_name=android&eap=13.0&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=557&ml_cache=ML_CACHE&carrier_name=Telkomsel&brand=ZTE&campaign_id=8509&timestamp=1564576334596&longitude=-81.0348&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=114.125.204.53&limitedTracking=1&advertisingID=f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&offer_id=19422&token=9103b18835e2d8999259a5200cead824&utp=0&track_id=fd63c9ac-85c4-4813-8646-b5350b0c81e2&marketing_name=Warp+Elite&channel_id=8197&sheight=360&encodedPubParams=&event=1&
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMI-86VhZXf4wIVEO-PCh1veAXXEAAYACD-ptg4;met=1;ecn1=1;etm1=0;eid1=960584;
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMI-86VhZXf4wIVEO-PCh1veAXXEAAYACD-ptg4;met=1;ecn1=1;etm1=0;eid1=18;
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://sg-tracker.pokkt.com/api/VideoEventTracker?country=indonesia&device_model=Warp+Elite&pt_fp=3.0&app_bundle_name=tv.hooq.android&latitude=34.0007&swidth=640&pt_bp=5.0&language=en&platform=android&device_name=android&eap=13.0&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=557&ml_cache=ML_CACHE&carrier_name=Telkomsel&brand=ZTE&campaign_id=8509&timestamp=1564576334596&longitude=-81.0348&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=114.125.204.53&limitedTracking=1&advertisingID=f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&offer_id=19422&token=9103b18835e2d8999259a5200cead824&utp=0&track_id=fd63c9ac-85c4-4813-8646-b5350b0c81e2&marketing_name=Warp+Elite&channel_id=8197&sheight=360&encodedPubParams=&event=2&
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMI-86VhZXf4wIVEO-PCh1veAXXEAAYACD-ptg4;met=1;ecn1=1;etm1=0;eid1=149645;
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://sg-tracker.pokkt.com/api/VideoEventTracker?country=indonesia&device_model=Warp+Elite&pt_fp=3.0&app_bundle_name=tv.hooq.android&latitude=34.0007&swidth=640&pt_bp=5.0&language=en&platform=android&device_name=android&eap=13.0&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=557&ml_cache=ML_CACHE&carrier_name=Telkomsel&brand=ZTE&campaign_id=8509&timestamp=1564576334596&longitude=-81.0348&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=114.125.204.53&limitedTracking=1&advertisingID=f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&offer_id=19422&token=9103b18835e2d8999259a5200cead824&utp=0&track_id=fd63c9ac-85c4-4813-8646-b5350b0c81e2&marketing_name=Warp+Elite&channel_id=8197&sheight=360&encodedPubParams=&event=27&
+]]>
+</Tracking>
+<Tracking event="playError">
+<![CDATA[
+https://sg-tracker.pokkt.com/api/VideoEventTracker?country=indonesia&device_model=Warp+Elite&pt_fp=3.0&app_bundle_name=tv.hooq.android&latitude=34.0007&swidth=640&pt_bp=5.0&language=en&platform=android&device_name=android&eap=13.0&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=557&ml_cache=ML_CACHE&carrier_name=Telkomsel&brand=ZTE&campaign_id=8509&timestamp=1564576334596&longitude=-81.0348&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=114.125.204.53&limitedTracking=1&advertisingID=f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&offer_id=19422&token=9103b18835e2d8999259a5200cead824&utp=0&track_id=fd63c9ac-85c4-4813-8646-b5350b0c81e2&marketing_name=Warp+Elite&channel_id=8197&sheight=360&encodedPubParams=&event=12&
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMI-86VhZXf4wIVEO-PCh1veAXXEAAYACD-ptg4;met=1;ecn1=1;etm1=0;eid1=13;
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://sg-tracker.pokkt.com/api/VideoEventTracker?country=indonesia&device_model=Warp+Elite&pt_fp=3.0&app_bundle_name=tv.hooq.android&latitude=34.0007&swidth=640&pt_bp=5.0&language=en&platform=android&device_name=android&eap=13.0&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=557&ml_cache=ML_CACHE&carrier_name=Telkomsel&brand=ZTE&campaign_id=8509&timestamp=1564576334596&longitude=-81.0348&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=114.125.204.53&limitedTracking=1&advertisingID=f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&offer_id=19422&token=9103b18835e2d8999259a5200cead824&utp=0&track_id=fd63c9ac-85c4-4813-8646-b5350b0c81e2&marketing_name=Warp+Elite&channel_id=8197&sheight=360&encodedPubParams=&event=4&
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://sg-tracker.pokkt.com/api/VideoEventTracker?country=indonesia&device_model=Warp+Elite&pt_fp=3.0&app_bundle_name=tv.hooq.android&latitude=34.0007&swidth=640&pt_bp=5.0&language=en&platform=android&device_name=android&eap=13.0&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=557&ml_cache=ML_CACHE&carrier_name=Telkomsel&brand=ZTE&campaign_id=8509&timestamp=1564576334596&longitude=-81.0348&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=114.125.204.53&limitedTracking=1&advertisingID=f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&offer_id=19422&token=9103b18835e2d8999259a5200cead824&utp=0&track_id=fd63c9ac-85c4-4813-8646-b5350b0c81e2&marketing_name=Warp+Elite&channel_id=8197&sheight=360&encodedPubParams=&event=5&
+]]>
+</Tracking>
+<Tracking event="closeLinear">
+<![CDATA[
+https://sg-tracker.pokkt.com/api/VideoEventTracker?country=indonesia&device_model=Warp+Elite&pt_fp=3.0&app_bundle_name=tv.hooq.android&latitude=34.0007&swidth=640&pt_bp=5.0&language=en&platform=android&device_name=android&eap=13.0&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=557&ml_cache=ML_CACHE&carrier_name=Telkomsel&brand=ZTE&campaign_id=8509&timestamp=1564576334596&longitude=-81.0348&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=114.125.204.53&limitedTracking=1&advertisingID=f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&offer_id=19422&token=9103b18835e2d8999259a5200cead824&utp=0&track_id=fd63c9ac-85c4-4813-8646-b5350b0c81e2&marketing_name=Warp+Elite&channel_id=8197&sheight=360&encodedPubParams=&event=5&
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[
+https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsuohejE5gF_iwjzXM4bvtuY3OsoEtRjWci1jo0hL-cR-O7zmzIxZJNcZKkEdQ1eKCCc0ZtJuZTGdusTECeEZIXwe_1MQqHe_d4b2rTIBRbhLkW8zNen&sig=Cg0ArKJSzICF1Eim0IA7EAE&urlfix=1&adurl=https://m.sk-ii.co.id/id-ID/Products/facial-treatment-essence%3Futm_source%3Dpok%26utm_medium%3Dvideo%26utm_term%3Dpreroll%26utm_content%3DEp14JamesNaomiHugeFan60s%26utm_campaign%3Did_skii_fte_ivideo_jul19%26dclid%3DCPvOlYWV3-MCFRDvjwodb3gF1w
+]]>
+</ClickThrough>
+<ClickTracking>
+<![CDATA[
+https://sg-tracker.pokkt.com/api/VideoEventTracker?country=indonesia&device_model=Warp+Elite&pt_fp=PT_FP&app_bundle_name=tv.hooq.android&latitude=34.0007&swidth=640&pt_bp=PT_BP&language=en&platform=android&device_name=android&eap=PT_EAP&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=557&ml_cache=ML_CACHE&carrier_name=Telkomsel&brand=ZTE&campaign_id=8509&timestamp=1564576334596&longitude=-81.0348&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=114.125.204.53&limitedTracking=1&advertisingID=f16d6841-5ea4-4779-ab8d-b76c2cdacfbd&offer_id=19422&token=9103b18835e2d8999259a5200cead824&utp=UTP&track_id=fd63c9ac-85c4-4813-8646-b5350b0c81e2&marketing_name=Warp+Elite&channel_id=8197&sheight=360&encodedPubParams=&event=9&
+]]>
+</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="progressive" type="video/mp4" bitrate="396" width="640" height="360" scalable="0" maintainAspectRatio="0">
+<![CDATA[
+https://gcdn.2mdn.net/videoplayback/id/f1593c625fd41b6a/itag/18/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3707627505/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/71636D8F8B9425C83A295B21FC2A75DD17EEB307.1D3B4263702A2BA2A7BEA62932284BDF0A4296DC/key/ck2/file/file.mp4
+]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" bitrate="1994" width="1280" height="720" scalable="0" maintainAspectRatio="0">
+<![CDATA[
+https://gcdn.2mdn.net/videoplayback/id/f1593c625fd41b6a/itag/22/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3707627529/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/8448166A6CE3984EBEAE04B664B769F01BF15C46.B3916FC1D4EC4E1D405F64BA51410AA5485CD7A1/key/ck2/file/file.mp4
+]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" bitrate="4004" width="1920" height="1080" scalable="0" maintainAspectRatio="0">
+<![CDATA[
+https://gcdn.2mdn.net/videoplayback/id/f1593c625fd41b6a/itag/37/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3707627543/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/6F071DF1AA222500EACE26BA428D117402D1A790.503ED6F86C458951A98F923E136B2C0AEE985857/key/ck2/file/file.mp4
+]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" bitrate="716" width="854" height="480" scalable="0" maintainAspectRatio="0">
+<![CDATA[
+https://gcdn.2mdn.net/videoplayback/id/f1593c625fd41b6a/itag/59/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3707627525/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/A6007105778E43FEAEB00914F51C697ABB7CB2DA.450DCB243A47FB7D5A1CA5206E3F4D1CC42E26D0/key/ck2/file/file.mp4
+]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" bitrate="396" width="480" height="270" scalable="0" maintainAspectRatio="0">
+<![CDATA[
+https://gcdn.2mdn.net/videoplayback/id/f1593c625fd41b6a/itag/342/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3707627562/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/B3DD0E273054C15F94C6DA3DE0B9A441A462E02C.9966C2E999D810147C42E3487182939EFB06B0DC/key/ck2/file/file.mp4
+]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" bitrate="992" width="640" height="360" scalable="0" maintainAspectRatio="0">
+<![CDATA[
+https://gcdn.2mdn.net/videoplayback/id/f1593c625fd41b6a/itag/343/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3707627522/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/6A8F1BFE68B10EA386EB6955D145483D0D567367.493E00F54686E2379545C1FB69F1C3F4624795E5/key/ck2/file/file.mp4
+]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" bitrate="1498" width="640" height="360" scalable="0" maintainAspectRatio="0">
+<![CDATA[
+https://gcdn.2mdn.net/videoplayback/id/f1593c625fd41b6a/itag/344/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3707627520/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/4D17282802C7691B42F205DF91ED626126265D26.4EB51D86C2D7EEF3CC0E9AFF70A06D6542249DE0/key/ck2/file/file.mp4
+]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" bitrate="299" width="640" height="360" scalable="0" maintainAspectRatio="0">
+<![CDATA[
+https://gcdn.2mdn.net/videoplayback/id/f1593c625fd41b6a/itag/345/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3707627532/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/7CABA31E9DDBBBE348E6B89B690653E13C7A5AD5.B260BD8729DDFD9F466E8EDD7220C6DEEEFCAA68/key/ck2/file/file.mp4
+]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" bitrate="486" width="720" height="406" scalable="0" maintainAspectRatio="0">
+<![CDATA[
+https://gcdn.2mdn.net/videoplayback/id/f1593c625fd41b6a/itag/346/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3707627521/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/39473B266D82D7DB63DCA02DA2205C12E87D60F2.33CCC084926C856D241BCC60F5B93DF7E74BAF55/key/ck2/file/file.mp4
+]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" bitrate="841" width="1024" height="576" scalable="0" maintainAspectRatio="0">
+<![CDATA[
+https://gcdn.2mdn.net/videoplayback/id/f1593c625fd41b6a/itag/347/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3707627524/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/4346D978DA03E2BFDFEB18FF733C42D20C086332.1075C7D9C65A9A796FD7313AB0AB8AA60620527C/key/ck2/file/file.mp4
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions>
+<Extension xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="geo">
+<Country>SG</Country>
+<Bandwidth>3</Bandwidth>
+<BandwidthKbps>1800</BandwidthKbps>
+</Extension>
+<Extension xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="dart">
+<AdServingData>
+<DeliveryData>
+<GeoData>
+<![CDATA[ ct=SG&st=&city=0&dma=0&zp=&bw=3 ]]>
+</GeoData>
+</DeliveryData>
+</AdServingData>
+<CustomTracking>
+<Tracking event="skip">
+<![CDATA[
+https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMI-86VhZXf4wIVEO-PCh1veAXXEAAYACD-ptg4;met=1;ecn1=1;etm1=0;eid1=1208655;
+]]>
+</Tracking>
+<Tracking event="engagedView">
+<![CDATA[
+https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMI-86VhZXf4wIVEO-PCh1veAXXEAAYACD-ptg4;met=1;ecn1=1;etm1=0;eid1=1208656;
+]]>
+</Tracking>
+</CustomTracking>
+</Extension>
+<Extension type="AdVerifications">
+<AdVerifications>
+<Verification vendor="moat.com-omsdkpokktinappwebviewvideo965523861580">
+<JavaScriptResource apiFramework="omid" browserOptional="1">
+<![CDATA[
+https://z.moatads.com/omsdkpokktinappwebviewvideo965523861580/moatvideo.js
+]]>
+</JavaScriptResource>
+<TrackingEvents>
+<Tracking event="VerificationNotExecuted"/>
+</TrackingEvents>
+<VerificationParameters>
+<![CDATA[
+{"moatClientLevel1":"557", "moatClientLevel2": "8509", "moatClientLevel3": "19422", "moatClientLevel4": "", "moatClientSlicer1": "38d46af7090f2689e227f40a7ddfe7b4", "moatClientSlicer2": "screen"}
+]]>
+</VerificationParameters>
+</Verification>
+</AdVerifications>
+</Extension>
+<Extension>
+<Pokkt>
+<SkipOffset>00:00:00</SkipOffset>
+<isOMIDEnabled>1</isOMIDEnabled>
+<PubPageRedirect/>
+<Cards/>
+<NielsenKey/>
+<NielsenUrl/>
+<NielsenCI/>
+<NielsenCA/>
+<NielsenPlacementId/>
+<NielsenCreativeId/>
+<ViewabilityAction>0</ViewabilityAction>
+<ExtraActions/>
+<InvalidCachedOfferIds/>
+<GratificationInfo/>
+<GratificationTime>0</GratificationTime>
+<WebViewBaseUrl>
+<![CDATA[ https://vdo.pokkt.com ]]>
+</WebViewBaseUrl>
+<ComscoreCampaignId/>
+<ComscoreCreativeId/>
+<ComscorePlacementId/>
+<CoppaEnabled>false</CoppaEnabled>
+<VideoPlacementType/>
+<ImaTracking>false</ImaTracking>
+<AdditionalWebSettings>
+<canZoom>false</canZoom>
+<canOpenExternal>false</canOpenExternal>
+<canAutoPlay>true</canAutoPlay>
+<canScroll>false</canScroll>
+<shouldAskPermission>true</shouldAskPermission>
+</AdditionalWebSettings>
+</Pokkt>
+</Extension>
+</Extensions>
+</InLine>
+</Ad>
+</VAST>
