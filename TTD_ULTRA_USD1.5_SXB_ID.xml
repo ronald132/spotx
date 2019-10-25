@@ -1,0 +1,233 @@
+<VAST version="3.0">
+<Ad id="ux9tg3mc-3c0e6.7b3d4.d1da">
+<Wrapper>
+<AdSystem version="1.0">SpotXchange</AdSystem>
+<VASTAdTagURI>
+<![CDATA[
+https://bs.serving-sys.com/Serving/adServer.bs?c=23&cn=display&pli=1075026994&ord=984171
+]]>
+</VASTAdTagURI>
+<Impression>
+<![CDATA[
+https://sin01-event.spotxchange.com/vast/impression?_x=WzE1NzE5MzUxOTMsImU3N2ZjNDNlZjY3YzExZTliMzcwMTg1MmRmZWMwMDA3IiwiMjQ2Mjk1IiwiM2MwZTYuN2IzZDQuZDFkYSIsIjcwMjgiLCIzYzBlNi43YjNkNC5kMWRhIiwidXg5dGczbWMiLCI2YTRhYThhNi1mNjVkLTExZTktYjhkNi0xMmEzZDc3MDAwMDciLHRydWUsbnVsbCxbIjI0NTk5MCIsIjI0NjI5NSIsIjcwMjgiLCIyMDQ1IiwidHYuaG9vcS5hbmRyb2lkIiwxMDAsWyJ1bmlsZXZlci5jb20uc2ciXSwxNTAwMCwxNTAwMCwxMzIwMCwxMzIwMCwwXSwxNTAwMCwiTSIsImU3OGIyMGMzZjY3YzExZTliMzcwMTg1MmRmZWMwMDA3Il0mc2V0ZWM9WXpObE5qWmhOak5qWVRGa04yRTJNek5sTm1Kak1UbGhNVEJtT1RJeE1XWT0~
+]]>
+</Impression>
+<Error>
+<![CDATA[
+https://search.spotxchange.com/exception?_a=246295&_p=3c0e6.7b3d4.d1da&_z=1&_m=eNpdTU1rwkAQnf6VPcs6sx%2BuG%2BjNHgQjFBJKcpGY3bRGMTaNbdD629vVIJTOMDO8N%2FPeKI4IAKQNWalDgTemKpX01cSURN6upUGaauEqXyKiAaEmwmqYz0Cg4FPkghQXmmB93Ludj8bj7pO%2FNc07L%2FaubTYOluliEWTaWoSHAd0awU8I0Ap7iTLAG3tmVROcWNS1Rz9irugKFp3Z4L7ahAX794CNWHE4rD66ph0O1ED8lRChIUGWXS7359fE77h%2B6uP6VcZJprMk7fMk38b1bpvV8SmfPffL63yZf2Wn9PEXNj1X0w%3D%3D&_l=eNp1jl1LwzAUhvNbci3lJGmaZeCFsBth6xh21u6mpOlxqzZb6VrRzv13MzpBETkfF%2B%2F7nA9GGJG%2BGPEpLGAUqEKUYVCy0vwV7mcESImm9vSJCjo90aIq6ZRCAMAkvaGN%2BTj03bciuJeODe5%2FM31RVzbHd7sz%2By3mz4hXG8Dbtm9Nh2XuTPuKXVMbi%2F%2ByTYuu6t1Fzm3jLhY9n0m8ns%2FH5h99aA7d0zhO%2Bn1V4xu2gT244LglwC1YkBOFVgjGtI5ARYZFWinfuSAK%2BIRIxYUmHEI5LuWh1Bp%2BXAEfXIP2LPncpGu5mO1elslqiIeNi5NMZummipO7IUtqt0wWsEwf63hY3X4BwGZosw%3D%3D&_t=eNpdUV1z2jAQ9E%2FJ6JmAMaGAZ%2Frglo9pC5hJDAwpHY0snbEGf2gkQSC0%2F70nJ81D%2FbAn7WqluzVcOCgr68qDwTANfN7LPg14twujtDfwu8N%2BIDLgvu8PPJ4zWXm1PrBKcg8%2BjDeSAuN1Re1VAQnJh0JaRBXsamXp6C5uz1JATc%2BskIJmUhtLM80aFUUmqLkaCyUJb0Tb1BX026zWJUURPTkzOQmrU1G0iOE5NNZN9JQE6M8ABD3pAqncWhXuO%2FuOkdV9KsW9UbW9tJkw%2BqzbOMK%2Bg2wDAjQec7LrT0kS%2FiSbVfRtjNum0u9PuFysHhCn8w3idvJlgSWKvjZUUxarnsOHCDGeOXyMf6yxJBv0%2F8J2T0rV2pq3SUho9QlahBcSKks1mLo4Y%2FsvmikF2vynG8yNhP6fFhHMMhwwyeEu0UzA3RjM0XWOJhc55tz2CR40wDTPqVHAmyCZC9o2V9%2BIgLPk4FZwsa40AdA3mmIL7%2F%2FSJY13lbWA4l%2FutXnn8fM8fM33luv53AtG%2FigY%2Fl4my3z3urvE48Ml3k6CeDY9LmaLfjybvMbbx%2BK5nB53wbr%2FPD58%2FgtT1c%2B8&_b=eNozZfAL9fFBI2r8QzxNolwiK%2FxDkkF0VZS7W5ZfladJZJavkV94VK6%2Fi6exX4hTpr97qC0AcfcToA%3D%3D&beacon_type=exception&exception%5Bid%5D=%24EXCEPTION_ID&exception%5Bdata%5D=%24EXCEPTION_DATA&exception%5Btrace%5D=%24EXCEPTION_TRACE&syn%5Btiming%5D=%24TIMING_DATA
+]]>
+</Error>
+<Impression>
+<![CDATA[
+https://sin01-search.spotxchange.com/beacon?_a=246295&_p=3c0e6.7b3d4.d1da&_z=1&_m=eNpdTU1rwkAQnf6VPcs6sx%2BuG%2BjNHgQjFBJKcpGY3bRGMTaNbdD629vVIJTOMDO8N%2FPeKI4IAKQNWalDgTemKpX01cSURN6upUGaauEqXyKiAaEmwmqYz0Cg4FPkghQXmmB93Ludj8bj7pO%2FNc07L%2FaubTYOluliEWTaWoSHAd0awU8I0Ap7iTLAG3tmVROcWNS1Rz9irugKFp3Z4L7ahAX794CNWHE4rD66ph0O1ED8lRChIUGWXS7359fE77h%2B6uP6VcZJprMk7fMk38b1bpvV8SmfPffL63yZf2Wn9PEXNj1X0w%3D%3D&_l=eNp1jl1LwzAUhvNbci3lJGmaZeCFsBth6xh21u6mpOlxqzZb6VrRzv13MzpBETkfF%2B%2F7nA9GGJG%2BGPEpLGAUqEKUYVCy0vwV7mcESImm9vSJCjo90aIq6ZRCAMAkvaGN%2BTj03bciuJeODe5%2FM31RVzbHd7sz%2By3mz4hXG8Dbtm9Nh2XuTPuKXVMbi%2F%2ByTYuu6t1Fzm3jLhY9n0m8ns%2FH5h99aA7d0zhO%2Bn1V4xu2gT244LglwC1YkBOFVgjGtI5ARYZFWinfuSAK%2BIRIxYUmHEI5LuWh1Bp%2BXAEfXIP2LPncpGu5mO1elslqiIeNi5NMZummipO7IUtqt0wWsEwf63hY3X4BwGZosw%3D%3D&_t=eNpdUV1z2jAQ9E%2FJ6JmAbD4MYvpAS5JJWwcmITChdDSyfcZqbMsjCQql%2FPee7DzVD7d3e7fy6hSDSFTlQTiOA5r0s1GY%2BD5M4n5I%2FfEwSDNIKKWhl%2BRCVp7Se1HJxItb1YW0CbfnGggjxgptSYfUhThbWTrKx%2FIoU1D8KAqZ8kxqY3mmRdPFpki5ORsLJWEXom3sAPU2U7rk2ERNLkxOWHUoig4xSQ6NdD17WQWozwBSftAFUrm1Ndv1dj0jq9tYpremVvbUFanRR91F77sesk1IQeOYazt%2FtSTsB1kvZ49zLBvkX18wjZYDjPff1xg3d58jhNnsS0M1EC37Lg5mGBcPLj4vvr0irNao%2F4l2D3WttDXtTQiz%2BgAdkhQSKss1GFUc0f5vLeoatPmvb3BvhNFrh6TCCrzgKoeblRYp3MzBvDvnKJKqcnvuUoKDBoROcm5qSJpFCrdo2xx9ISkcZQIug5N10CyAtzRHCx%2FvGOBBpUoBdzroEIXa4RU%2Fz8OfUE%2BwIbsYNmKkVvjgBZk2RTDqh2PfFQNGEmnPZCpZS7YDGvbOKrI%2BHQ%2F6H%2By%2BULE7QzKKRIhSdaisPrdzdHr1ggmdBOO%2Fb3%2Fu36PNuow2z%2BXTKi%2B389fg6eHttJjnxXaOdflIt5vIj37dffoH40zlvA%3D%3D&_b=eNozYPAL9fFBI2r8qiINfbNCDSOr%2FHJ8s7IrI41CTXyNIk0jQ5LLI7MCjf3cA6v8w8OyfXMDbQF9gxRO&beacon_type=start&aid=6a4aa8a6-f65d-11e9-b8d6-12a3d7700007&syn%5Btiming%5D=%24TIMING_DATA
+]]>
+</Impression>
+<Impression>
+<![CDATA[
+http://sg2-bid.adsrvr.org/bid/feedback/spotx?iid=36f0af18-b74f-467f-90a2-fbbd2b291acf&crid=ux9tg3mc&wp=0.8401&aid=1&wpc=USD&sfe=fe953d9&puid=&tdid=&pid=pfvg03w&ag=6vxj5tb&sig=93CsvtiyQsJbCCD-Vsv12bKUsAdLe9rC_NyA5KTKu6U.&cf=1072398&fq=0&td_s=tv.hooq.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=ozy32nacui&uhow=119&agsa=&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&svbttd=1&dt=Mobile&osf=Android&os=Android60&br=Chrome&rlangs=en&mlang=&svpid=245990&did=3c0e6.7b3d4.d1da&rcxt=InApp&lat=-6.174100&lon=106.829600&tmpc=26.59&daid=40cc88d5-356e-4ee3-ab2f-55ad609709e7&vp=1&osi=&osv=&bv=1&bp=1.78545922011141&mk=Vivo&mdl=1606&vpb=PreRoll&c=MAM4AUgAUAE.&dur=ClUKB2pjaWMzeWQQ42kiEAiIoeZrEglkYTI1YWF0cmsiEAiIoeZrEglkcjI1YWxpa2UiEAj0uuprEglkYTI1YWF0cmsiEQiZl692EgpkcjM5bXdhbGxhEONp&crrelr=&pcm=1&cx=57755509988780499&said=e77fc43ef67c11e9b3701852dfec0007&ict=Unknown&auct=3
+]]>
+</Impression>
+<Impression>
+<![CDATA[
+https://pixel.adsafeprotected.com/?anId=930223&advId=lhzsji1&campId=8gl5s6t&pubId=spotx&chanId=6vxj5tb&placementId=ux9tg3mc&dealId=3c0e6.7b3d4.d1da&adsafe_par&bidurl=tv.hooq.android
+]]>
+</Impression>
+<Impression>
+<![CDATA[
+http://insight.adsrvr.org/enduser/video/?ve=start&imp=36f0af18-b74f-467f-90a2-fbbd2b291acf&ag=6vxj5tb&crid=ux9tg3mc&cf=1072398&fq=0&td_s=tv.hooq.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=ozy32nacui&sv=spotx&uhow=119&agsa=&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=245990&rlangs=en&mlang=&did=3c0e6.7b3d4.d1da&rcxt=InApp&tmpc=26.59&vrtd=14,15&osi=&osv=&daid=40cc88d5-356e-4ee3-ab2f-55ad609709e7&dnr=0&vpb=PreRoll&c=MAM4AUgAUAE.&dur=ClUKB2pjaWMzeWQQ42kiEAiIoeZrEglkYTI1YWF0cmsiEAiIoeZrEglkcjI1YWxpa2UiEAj0uuprEglkYTI1YWF0cmsiEQiZl692EgpkcjM5bXdhbGxhEONp&crrelr=&npt=&svscid=246295&mk=Vivo&mdl=1606&pcm=1&ict=Unknown&said=e77fc43ef67c11e9b3701852dfec0007&auct=3&sfe=fe953d9&vp=1&ast=[ASSETURI]
+]]>
+</Impression>
+<Impression>
+<![CDATA[
+http://b.scorecardresearch.com/b?c1=1&c2=6272977&c3=246295&cv=1.3&cj=1
+]]>
+</Impression>
+<Impression>
+<![CDATA[
+https://sb.scorecardresearch.com/p?c1=2&c2=6272977&ns_ap_sv=2.1511.10&ns_type=hidden&ns_st_it=a&ns_st_sv=4.0.0&ns_st_ad=1&ns_st_sq=1&ns_st_id=1571935193256164&ns_st_ec=1&ns_st_cn=1&ns_st_ev=play&ns_st_ct=va&ns_st_cl=0&ns_st_pt=0&c3=246295&c4=3c0e6.7b3d4.d1da&c6=7028&ns_ts=1571935193256164
+]]>
+</Impression>
+<Impression>
+<![CDATA[
+https://tps30.doubleverify.com/visit.jpg?ctx=484047&cmp=2228897&sid=593588&plc=iqmapp&num=&adid=&advid=484048&adsrv=15&tagtype=&dvtagver=6.1.img&DVP_CHANNELID=246295&DVP_DEALID=3c0e6.7b3d4.d1da&DVP_CMPID=3c0e6.7b3d4.d1da&turl=https%3A%2F%2Fwww.hooq.tv&DVPX_SX_UID=6a4aa8a6-f65d-11e9-b8d6-12a3d7700007&DVPX_SX_MID=e77fc43ef67c11e9b3701852dfec0007&DVPX_IP=202.80.214.251&DVPX_UA=Dalvik%2F2.1.0+%28Linux%3B+U%3B+Android+6.0.1%3B+vivo+1606+Build%2FMMB29M%29&DVP_DEVICETYPE=4&DVP_BUNDLE=tv.hooq.android&DVP_MAKE=Vivo&DVP_MODEL=1606&DVP_OS=5&DVP_OSV=6.0.1&DVP_APPNAME=HOOQ+-+Watch+Movies%2C+TV+Shows%2C+Live+Channels%2C+News&DVPX_STOREURL=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dtv.hooq.android%26hl%3Den%26gl%3Dus&DVP_PUBLISHERID=245990&DVP_PUBNAME=Hooq
+]]>
+</Impression>
+<Creatives>
+<Creative sequence="1">
+<Linear>
+<Duration>00:00:01</Duration>
+<TrackingEvents>
+<Tracking event="complete">
+<![CDATA[
+https://event.spotxchange.com/vast/complete?_x=WzE1NzE5MzUxOTMsImU3N2ZjNDNlZjY3YzExZTliMzcwMTg1MmRmZWMwMDA3IiwiMjQ2Mjk1IiwiM2MwZTYuN2IzZDQuZDFkYSIsIjcwMjgiLCIzYzBlNi43YjNkNC5kMWRhIiwidXg5dGczbWMiLCI2YTRhYThhNi1mNjVkLTExZTktYjhkNi0xMmEzZDc3MDAwMDciLHRydWUsbnVsbCxbIjI0NTk5MCIsIjI0NjI5NSIsIjcwMjgiLCIyMDQ1IiwidHYuaG9vcS5hbmRyb2lkIiwxMDAsWyJ1bmlsZXZlci5jb20uc2ciXSwxNTAwMCwxNTAwMCwxMzIwMCwxMzIwMCwwXSwxNTAwMCwiTSIsImU3OGIyMGMzZjY3YzExZTliMzcwMTg1MmRmZWMwMDA3Il0mc2V0ZWM9WXpObE5qWmhOak5qWVRGa04yRTJNek5sTm1Kak1UbGhNVEJtT1RJeE1XWT0~
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://event.spotxchange.com/vast/25?_x=WzE1NzE5MzUxOTMsImU3N2ZjNDNlZjY3YzExZTliMzcwMTg1MmRmZWMwMDA3IiwiMjQ2Mjk1IiwiM2MwZTYuN2IzZDQuZDFkYSIsIjcwMjgiLCIzYzBlNi43YjNkNC5kMWRhIiwidXg5dGczbWMiLCJlNzhiMjBjM2Y2N2MxMWU5YjM3MDE4NTJkZmVjMDAwNyJdJnNldGVjPU1XUmlaR05rTVRZME0ySTBNRFUzTXprM1pHTTRNR0kzWXpVek1UZG1ZV009
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://event.spotxchange.com/vast/50?_x=WzE1NzE5MzUxOTMsImU3N2ZjNDNlZjY3YzExZTliMzcwMTg1MmRmZWMwMDA3IiwiMjQ2Mjk1IiwiM2MwZTYuN2IzZDQuZDFkYSIsIjcwMjgiLCIzYzBlNi43YjNkNC5kMWRhIiwidXg5dGczbWMiLCJlNzhiMjBjM2Y2N2MxMWU5YjM3MDE4NTJkZmVjMDAwNyJdJnNldGVjPU1XUmlaR05rTVRZME0ySTBNRFUzTXprM1pHTTRNR0kzWXpVek1UZG1ZV009
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://event.spotxchange.com/vast/75?_x=WzE1NzE5MzUxOTMsImU3N2ZjNDNlZjY3YzExZTliMzcwMTg1MmRmZWMwMDA3IiwiMjQ2Mjk1IiwiM2MwZTYuN2IzZDQuZDFkYSIsIjcwMjgiLCIzYzBlNi43YjNkNC5kMWRhIiwidXg5dGczbWMiLCJlNzhiMjBjM2Y2N2MxMWU5YjM3MDE4NTJkZmVjMDAwNyJdJnNldGVjPU1XUmlaR05rTVRZME0ySTBNRFUzTXprM1pHTTRNR0kzWXpVek1UZG1ZV009
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://search.spotxchange.com/beacon?_a=246295&_p=3c0e6.7b3d4.d1da&_z=1&_m=eNpNjd1qwkAQhedZ9lrCzP64ruCFYCiCSW8U2dxITDa0RV2NUWusr952ayh4hhk438xhZIQIAKQ0GaFCg9O6KqRwVV8XRM6shUYaKF5WrkBEDVz2uVEwnYRcMMoYhO%2BHIF3MZt0g%2BAkCJfFToAj2QW%2Bs8qddyYZNfXI9VuZNzoY3tg5s41bvYcGac%2FTm%2FSHKd2XtA%2BmxfL9fHRtfdweyA88RItTEybD7%2Ff%2F5X%2BGX5TGm3HLbFpfX5aJN5tNrto0v2TLbpJNEJS%2B2tR9xa%2Bfj0S%2B%2Bgk%2Fj&_l=eNp1j11LwzAUhvNbci3lJGmcGXhXkMEWmUykVyVNjv3MDLUF7dx%2FN2UK7kLOx8XzvBfnMMKIjMNIbCDCAt4mq1K4NHHMGbLJInVo%2BqhPVND1iZaNo2sKCQCT9IYG8%2Fk2jb9E8IjeAx6vM1PZN7bAD1ubY4XFK%2BKPBojaToMZ0RXeDB2OoTcW%2F82GAX0z%2BQUXNvhF0fOZ6Oft9rKWV0g8Wq64UIRDKi%2Bcp1Ip%2BBOEWFyB4neEfOm5rnVWCd1WbOf3sz50c%2F6i%2B3zu0t2Dbh4PT63O9jxvN%2FffgRZR7A%3D%3D&_t=eNpdUV1z2jAQ9E%2FJ6JmAbEgBz%2FSBNiRDCphJDBlSOhpZOmMFf40knBDa%2F96TSV%2Fqh73TnlZarRPgoio9GI6SgIp%2B%2BmUofB%2FGSX9I%2FdFNIFMQlNKhJzKuSq%2FSe14q4SUX1ZlcGmZPNZCQaBBHrVW5Jx1S5%2FxkVeFoH5eNklCxhudKslRpY1mqeTvFIZfMnIyFgoRnom3iCuptWumC4RA1GTcZCctjnneIERm00s3kKQ5QnwJIdtQ5Upm1dbjr7XpGldeJktemrux7l0ujG91F%2F7sesi1I0LjNjZ2%2FWpHwJ9msJrNbXLaVPTxhu1gNEO%2FmG8Tn6bcFlsnke0u1ZbHqOxxMEKN7h4%2FRjzWWeIP6X2j3WNeVtubyEhJafYQOEbmC0jINpsobtP%2BmeV2DNv%2FNDeZGQvqnQyS3HB8YZ3AVay7h6hbMwTlHkapKl3OXEtxogGuRMVODaIPkLmjbHn0mEholwHXwbl1pA2AXmqGFz3%2FpksazikpC%2Fi%2F3ynzy%2BHke3ka95Xo%2B94IxHQej38ti6kfPd4cont1sX6cf22L9tg0e1OJj5kfxfvByvzksXwV9KRZf%2FwJ6Isz4&_b=eNozYfAL9fFBI2r8w12NI3N9TfyyHE39QzKyorIcDfxcko19qxxNfF2CsiOznDL9XPyyfatCbQFnrxOe&beacon_type=recurring&view_percent=75
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://search.spotxchange.com/beacon?_a=246295&_p=3c0e6.7b3d4.d1da&_z=1&_m=eNpNjd1qwkAQhedZ9lrCzP64ruCFYCiCSW8U2dxITDa0RV2NUWusr952ayh4hhk438xhZIQIAKQ0GaFCg9O6KqRwVV8XRM6shUYaKF5WrkBEDVz2uVEwnYRcMMoYhO%2BHIF3MZt0g%2BAkCJfFToAj2QW%2Bs8qddyYZNfXI9VuZNzoY3tg5s41bvYcGac%2FTm%2FSHKd2XtA%2BmxfL9fHRtfdweyA88RItTEybD7%2Ff%2F5X%2BGX5TGm3HLbFpfX5aJN5tNrto0v2TLbpJNEJS%2B2tR9xa%2Bfj0S%2B%2Bgk%2Fj&_l=eNp1j11LwzAUhvNbci3lJGmcGXhXkMEWmUykVyVNjv3MDLUF7dx%2FN2UK7kLOx8XzvBfnMMKIjMNIbCDCAt4mq1K4NHHMGbLJInVo%2BqhPVND1iZaNo2sKCQCT9IYG8%2Fk2jb9E8IjeAx6vM1PZN7bAD1ubY4XFK%2BKPBojaToMZ0RXeDB2OoTcW%2F82GAX0z%2BQUXNvhF0fOZ6Oft9rKWV0g8Wq64UIRDKi%2Bcp1Ip%2BBOEWFyB4neEfOm5rnVWCd1WbOf3sz50c%2F6i%2B3zu0t2Dbh4PT63O9jxvN%2FffgRZR7A%3D%3D&_t=eNpdUV1z2jAQ9E%2FJ6JmAbEgBz%2FSBNiRDCphJDBlSOhpZOmMFf40knBDa%2F96TSV%2Fqh73TnlZarRPgoio9GI6SgIp%2B%2BmUofB%2FGSX9I%2FdFNIFMQlNKhJzKuSq%2FSe14q4SUX1ZlcGmZPNZCQaBBHrVW5Jx1S5%2FxkVeFoH5eNklCxhudKslRpY1mqeTvFIZfMnIyFgoRnom3iCuptWumC4RA1GTcZCctjnneIERm00s3kKQ5QnwJIdtQ5Upm1dbjr7XpGldeJktemrux7l0ujG91F%2F7sesi1I0LjNjZ2%2FWpHwJ9msJrNbXLaVPTxhu1gNEO%2FmG8Tn6bcFlsnke0u1ZbHqOxxMEKN7h4%2FRjzWWeIP6X2j3WNeVtubyEhJafYQOEbmC0jINpsobtP%2BmeV2DNv%2FNDeZGQvqnQyS3HB8YZ3AVay7h6hbMwTlHkapKl3OXEtxogGuRMVODaIPkLmjbHn0mEholwHXwbl1pA2AXmqGFz3%2FpksazikpC%2Fi%2F3ynzy%2BHke3ka95Xo%2B94IxHQej38ti6kfPd4cont1sX6cf22L9tg0e1OJj5kfxfvByvzksXwV9KRZf%2FwJ6Isz4&_b=eNozZvAL9fFBI2r8srJN%2FENcjf1cnHIjQ6Jyo3J9q6LC%2FbJ9XVwrfKu8cn1dQg0ic%2F2AMNQWAHwnFGs%3D&beacon_type=recurring&view_percent=50
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://search.spotxchange.com/beacon?_a=246295&_p=3c0e6.7b3d4.d1da&_z=1&_m=eNpNjd1qwkAQhedZ9lrCzP64ruCFYCiCSW8U2dxITDa0RV2NUWusr952ayh4hhk438xhZIQIAKQ0GaFCg9O6KqRwVV8XRM6shUYaKF5WrkBEDVz2uVEwnYRcMMoYhO%2BHIF3MZt0g%2BAkCJfFToAj2QW%2Bs8qddyYZNfXI9VuZNzoY3tg5s41bvYcGac%2FTm%2FSHKd2XtA%2BmxfL9fHRtfdweyA88RItTEybD7%2Ff%2F5X%2BGX5TGm3HLbFpfX5aJN5tNrto0v2TLbpJNEJS%2B2tR9xa%2Bfj0S%2B%2Bgk%2Fj&_l=eNp1j11LwzAUhvNbci3lJGmcGXhXkMEWmUykVyVNjv3MDLUF7dx%2FN2UK7kLOx8XzvBfnMMKIjMNIbCDCAt4mq1K4NHHMGbLJInVo%2BqhPVND1iZaNo2sKCQCT9IYG8%2Fk2jb9E8IjeAx6vM1PZN7bAD1ubY4XFK%2BKPBojaToMZ0RXeDB2OoTcW%2F82GAX0z%2BQUXNvhF0fOZ6Oft9rKWV0g8Wq64UIRDKi%2Bcp1Ip%2BBOEWFyB4neEfOm5rnVWCd1WbOf3sz50c%2F6i%2B3zu0t2Dbh4PT63O9jxvN%2FffgRZR7A%3D%3D&_t=eNpdUV1z2jAQ9E%2FJ6JmAbEgBz%2FSBNiRDCphJDBlSOhpZOmMFf40knBDa%2F96TSV%2Fqh73TnlZarRPgoio9GI6SgIp%2B%2BmUofB%2FGSX9I%2FdFNIFMQlNKhJzKuSq%2FSe14q4SUX1ZlcGmZPNZCQaBBHrVW5Jx1S5%2FxkVeFoH5eNklCxhudKslRpY1mqeTvFIZfMnIyFgoRnom3iCuptWumC4RA1GTcZCctjnneIERm00s3kKQ5QnwJIdtQ5Upm1dbjr7XpGldeJktemrux7l0ujG91F%2F7sesi1I0LjNjZ2%2FWpHwJ9msJrNbXLaVPTxhu1gNEO%2FmG8Tn6bcFlsnke0u1ZbHqOxxMEKN7h4%2FRjzWWeIP6X2j3WNeVtubyEhJafYQOEbmC0jINpsobtP%2BmeV2DNv%2FNDeZGQvqnQyS3HB8YZ3AVay7h6hbMwTlHkapKl3OXEtxogGuRMVODaIPkLmjbHn0mEholwHXwbl1pA2AXmqGFz3%2FpksazikpC%2Fi%2F3ynzy%2BHke3ka95Xo%2B94IxHQej38ti6kfPd4cont1sX6cf22L9tg0e1OJj5kfxfvByvzksXwV9KRZf%2FwJ6Isz4&_b=eNozYvAL9fFBI2p8qxwNIrOyK6JCUnL8XUIr%2FEIyMiOz0iv83X0rfLOyTX2rko38XVwrIqsibQGT7hUz&beacon_type=recurring&view_percent=25
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://search.spotxchange.com/beacon?_a=246295&_p=3c0e6.7b3d4.d1da&_z=1&_m=eNpNjd1qwkAQhedZ9lrCzP64ruCFYCiCSW8U2dxITDa0RV2NUWusr952ayh4hhk438xhZIQIAKQ0GaFCg9O6KqRwVV8XRM6shUYaKF5WrkBEDVz2uVEwnYRcMMoYhO%2BHIF3MZt0g%2BAkCJfFToAj2QW%2Bs8qddyYZNfXI9VuZNzoY3tg5s41bvYcGac%2FTm%2FSHKd2XtA%2BmxfL9fHRtfdweyA88RItTEybD7%2Ff%2F5X%2BGX5TGm3HLbFpfX5aJN5tNrto0v2TLbpJNEJS%2B2tR9xa%2Bfj0S%2B%2Bgk%2Fj&_l=eNp1j11LwzAUhvNbci3lJGmcGXhXkMEWmUykVyVNjv3MDLUF7dx%2FN2UK7kLOx8XzvBfnMMKIjMNIbCDCAt4mq1K4NHHMGbLJInVo%2BqhPVND1iZaNo2sKCQCT9IYG8%2Fk2jb9E8IjeAx6vM1PZN7bAD1ubY4XFK%2BKPBojaToMZ0RXeDB2OoTcW%2F82GAX0z%2BQUXNvhF0fOZ6Oft9rKWV0g8Wq64UIRDKi%2Bcp1Ip%2BBOEWFyB4neEfOm5rnVWCd1WbOf3sz50c%2F6i%2B3zu0t2Dbh4PT63O9jxvN%2FffgRZR7A%3D%3D&_t=eNpdUV1z2jAQ9E%2FJ6JmAbdICnukDbdpMUsxHQmCS0tHI0jkWCEsjCQil%2Be85mfSlftg77Wml1boAxnUdQa9fpDHvlp97PElgUHR7cdL%2FlIoSeBzHvYhXTNaRti%2BsljwqzqoTOTfUHw2QjHC9NQo8kBYxih293AY2weVeCtB0z5QUtJTWeVpa1kxxyAR1R%2BdhS7ITsb4IBfW%2B1HZLcYiairmKZPVOqRZxvIJGuhg%2BzFPUlwCC7qxCqvLeZKvOquNkfVlIcemM9q9tJpzd2zbaX3WQbUCAxW1hHPwZSbJfZDEd3l7jsqn07gHbfHqF%2BGO0QFx%2B%2F5pjGQ6%2FNVRT8mk34NUQcXIT8H7y8xHLfIH632h3Z4y23p1fQjJvd9AiXEmoPbXgtNqj%2FYNlxoB1%2F80d5kay%2BK1FBPMMHziv4GJumYCLa3Cb4BxFUtch53ZMcKMDZnlFnQHeBMlC0L45%2BkQE7CWH0MGrD6UJgJ5pihY%2BfmVIGs%2FaagHqX%2B7affD4RRHeFkfjx9EoSgfxIO3%2FfV7PkvHyvsrTp2O%2BXqjJXG3Gy9mfPL09PC3vNvn65TC5yY%2FPy9mXd20BzTU%3D&_b=eNozZPAL9fFBI2ois8Iy%2FN2DcvyqPCsjq7KN%2FKqSjaNy3TKjXMIy%2FLKyTfyyXMsjszyNfLN8bQGSHxTj&beacon_type=complete
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+http://insight.adsrvr.org/enduser/video/?ve=midpoint&imp=36f0af18-b74f-467f-90a2-fbbd2b291acf&ag=6vxj5tb&crid=ux9tg3mc&cf=1072398&fq=0&td_s=tv.hooq.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=ozy32nacui&sv=spotx&uhow=119&agsa=&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=245990&rlangs=en&mlang=&did=3c0e6.7b3d4.d1da&rcxt=InApp&tmpc=26.59&vrtd=14,15&osi=&osv=&daid=40cc88d5-356e-4ee3-ab2f-55ad609709e7&dnr=0&vpb=PreRoll&c=MAM4AUgAUAE.&dur=ClUKB2pjaWMzeWQQ42kiEAiIoeZrEglkYTI1YWF0cmsiEAiIoeZrEglkcjI1YWxpa2UiEAj0uuprEglkYTI1YWF0cmsiEQiZl692EgpkcjM5bXdhbGxhEONp&crrelr=&npt=&svscid=246295&mk=Vivo&mdl=1606&pcm=1&ict=Unknown&said=e77fc43ef67c11e9b3701852dfec0007&auct=3&sfe=fe953d9&vp=1
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+http://insight.adsrvr.org/enduser/video/?ve=firstQuartile&imp=36f0af18-b74f-467f-90a2-fbbd2b291acf&ag=6vxj5tb&crid=ux9tg3mc&cf=1072398&fq=0&td_s=tv.hooq.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=ozy32nacui&sv=spotx&uhow=119&agsa=&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=245990&rlangs=en&mlang=&did=3c0e6.7b3d4.d1da&rcxt=InApp&tmpc=26.59&vrtd=14,15&osi=&osv=&daid=40cc88d5-356e-4ee3-ab2f-55ad609709e7&dnr=0&vpb=PreRoll&c=MAM4AUgAUAE.&dur=ClUKB2pjaWMzeWQQ42kiEAiIoeZrEglkYTI1YWF0cmsiEAiIoeZrEglkcjI1YWxpa2UiEAj0uuprEglkYTI1YWF0cmsiEQiZl692EgpkcjM5bXdhbGxhEONp&crrelr=&npt=&svscid=246295&mk=Vivo&mdl=1606&pcm=1&ict=Unknown&said=e77fc43ef67c11e9b3701852dfec0007&auct=3&sfe=fe953d9&vp=1
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+http://insight.adsrvr.org/enduser/video/?ve=thirdQuartile&imp=36f0af18-b74f-467f-90a2-fbbd2b291acf&ag=6vxj5tb&crid=ux9tg3mc&cf=1072398&fq=0&td_s=tv.hooq.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=ozy32nacui&sv=spotx&uhow=119&agsa=&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=245990&rlangs=en&mlang=&did=3c0e6.7b3d4.d1da&rcxt=InApp&tmpc=26.59&vrtd=14,15&osi=&osv=&daid=40cc88d5-356e-4ee3-ab2f-55ad609709e7&dnr=0&vpb=PreRoll&c=MAM4AUgAUAE.&dur=ClUKB2pjaWMzeWQQ42kiEAiIoeZrEglkYTI1YWF0cmsiEAiIoeZrEglkcjI1YWxpa2UiEAj0uuprEglkYTI1YWF0cmsiEQiZl692EgpkcjM5bXdhbGxhEONp&crrelr=&npt=&svscid=246295&mk=Vivo&mdl=1606&pcm=1&ict=Unknown&said=e77fc43ef67c11e9b3701852dfec0007&auct=3&sfe=fe953d9&vp=1
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+http://insight.adsrvr.org/enduser/video/?ve=complete&imp=36f0af18-b74f-467f-90a2-fbbd2b291acf&ag=6vxj5tb&crid=ux9tg3mc&cf=1072398&fq=0&td_s=tv.hooq.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=ozy32nacui&sv=spotx&uhow=119&agsa=&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=245990&rlangs=en&mlang=&did=3c0e6.7b3d4.d1da&rcxt=InApp&tmpc=26.59&vrtd=14,15&osi=&osv=&daid=40cc88d5-356e-4ee3-ab2f-55ad609709e7&dnr=0&vpb=PreRoll&c=MAM4AUgAUAE.&dur=ClUKB2pjaWMzeWQQ42kiEAiIoeZrEglkYTI1YWF0cmsiEAiIoeZrEglkcjI1YWxpa2UiEAj0uuprEglkYTI1YWF0cmsiEQiZl692EgpkcjM5bXdhbGxhEONp&crrelr=&npt=&svscid=246295&mk=Vivo&mdl=1606&pcm=1&ict=Unknown&said=e77fc43ef67c11e9b3701852dfec0007&auct=3&sfe=fe953d9&vp=1
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+http://insight.adsrvr.org/enduser/video/?ve=mute&imp=36f0af18-b74f-467f-90a2-fbbd2b291acf&ag=6vxj5tb&crid=ux9tg3mc&cf=1072398&fq=0&td_s=tv.hooq.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=ozy32nacui&sv=spotx&uhow=119&agsa=&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=245990&rlangs=en&mlang=&did=3c0e6.7b3d4.d1da&rcxt=InApp&tmpc=26.59&vrtd=14,15&osi=&osv=&daid=40cc88d5-356e-4ee3-ab2f-55ad609709e7&dnr=0&vpb=PreRoll&c=MAM4AUgAUAE.&dur=ClUKB2pjaWMzeWQQ42kiEAiIoeZrEglkYTI1YWF0cmsiEAiIoeZrEglkcjI1YWxpa2UiEAj0uuprEglkYTI1YWF0cmsiEQiZl692EgpkcjM5bXdhbGxhEONp&crrelr=&npt=&svscid=246295&mk=Vivo&mdl=1606&pcm=1&ict=Unknown&said=e77fc43ef67c11e9b3701852dfec0007&auct=3&sfe=fe953d9&vp=1
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+http://insight.adsrvr.org/enduser/video/?ve=unmute&imp=36f0af18-b74f-467f-90a2-fbbd2b291acf&ag=6vxj5tb&crid=ux9tg3mc&cf=1072398&fq=0&td_s=tv.hooq.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=ozy32nacui&sv=spotx&uhow=119&agsa=&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=245990&rlangs=en&mlang=&did=3c0e6.7b3d4.d1da&rcxt=InApp&tmpc=26.59&vrtd=14,15&osi=&osv=&daid=40cc88d5-356e-4ee3-ab2f-55ad609709e7&dnr=0&vpb=PreRoll&c=MAM4AUgAUAE.&dur=ClUKB2pjaWMzeWQQ42kiEAiIoeZrEglkYTI1YWF0cmsiEAiIoeZrEglkcjI1YWxpa2UiEAj0uuprEglkYTI1YWF0cmsiEQiZl692EgpkcjM5bXdhbGxhEONp&crrelr=&npt=&svscid=246295&mk=Vivo&mdl=1606&pcm=1&ict=Unknown&said=e77fc43ef67c11e9b3701852dfec0007&auct=3&sfe=fe953d9&vp=1
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+http://insight.adsrvr.org/enduser/video/?ve=pause&imp=36f0af18-b74f-467f-90a2-fbbd2b291acf&ag=6vxj5tb&crid=ux9tg3mc&cf=1072398&fq=0&td_s=tv.hooq.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=ozy32nacui&sv=spotx&uhow=119&agsa=&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=245990&rlangs=en&mlang=&did=3c0e6.7b3d4.d1da&rcxt=InApp&tmpc=26.59&vrtd=14,15&osi=&osv=&daid=40cc88d5-356e-4ee3-ab2f-55ad609709e7&dnr=0&vpb=PreRoll&c=MAM4AUgAUAE.&dur=ClUKB2pjaWMzeWQQ42kiEAiIoeZrEglkYTI1YWF0cmsiEAiIoeZrEglkcjI1YWxpa2UiEAj0uuprEglkYTI1YWF0cmsiEQiZl692EgpkcjM5bXdhbGxhEONp&crrelr=&npt=&svscid=246295&mk=Vivo&mdl=1606&pcm=1&ict=Unknown&said=e77fc43ef67c11e9b3701852dfec0007&auct=3&sfe=fe953d9&vp=1
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+http://insight.adsrvr.org/enduser/video/?ve=rewind&imp=36f0af18-b74f-467f-90a2-fbbd2b291acf&ag=6vxj5tb&crid=ux9tg3mc&cf=1072398&fq=0&td_s=tv.hooq.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=ozy32nacui&sv=spotx&uhow=119&agsa=&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=245990&rlangs=en&mlang=&did=3c0e6.7b3d4.d1da&rcxt=InApp&tmpc=26.59&vrtd=14,15&osi=&osv=&daid=40cc88d5-356e-4ee3-ab2f-55ad609709e7&dnr=0&vpb=PreRoll&c=MAM4AUgAUAE.&dur=ClUKB2pjaWMzeWQQ42kiEAiIoeZrEglkYTI1YWF0cmsiEAiIoeZrEglkcjI1YWxpa2UiEAj0uuprEglkYTI1YWF0cmsiEQiZl692EgpkcjM5bXdhbGxhEONp&crrelr=&npt=&svscid=246295&mk=Vivo&mdl=1606&pcm=1&ict=Unknown&said=e77fc43ef67c11e9b3701852dfec0007&auct=3&sfe=fe953d9&vp=1
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+http://insight.adsrvr.org/enduser/video/?ve=resume&imp=36f0af18-b74f-467f-90a2-fbbd2b291acf&ag=6vxj5tb&crid=ux9tg3mc&cf=1072398&fq=0&td_s=tv.hooq.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=ozy32nacui&sv=spotx&uhow=119&agsa=&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=245990&rlangs=en&mlang=&did=3c0e6.7b3d4.d1da&rcxt=InApp&tmpc=26.59&vrtd=14,15&osi=&osv=&daid=40cc88d5-356e-4ee3-ab2f-55ad609709e7&dnr=0&vpb=PreRoll&c=MAM4AUgAUAE.&dur=ClUKB2pjaWMzeWQQ42kiEAiIoeZrEglkYTI1YWF0cmsiEAiIoeZrEglkcjI1YWxpa2UiEAj0uuprEglkYTI1YWF0cmsiEQiZl692EgpkcjM5bXdhbGxhEONp&crrelr=&npt=&svscid=246295&mk=Vivo&mdl=1606&pcm=1&ict=Unknown&said=e77fc43ef67c11e9b3701852dfec0007&auct=3&sfe=fe953d9&vp=1
+]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[
+http://insight.adsrvr.org/enduser/video/?ve=fullscreen&imp=36f0af18-b74f-467f-90a2-fbbd2b291acf&ag=6vxj5tb&crid=ux9tg3mc&cf=1072398&fq=0&td_s=tv.hooq.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=ozy32nacui&sv=spotx&uhow=119&agsa=&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=245990&rlangs=en&mlang=&did=3c0e6.7b3d4.d1da&rcxt=InApp&tmpc=26.59&vrtd=14,15&osi=&osv=&daid=40cc88d5-356e-4ee3-ab2f-55ad609709e7&dnr=0&vpb=PreRoll&c=MAM4AUgAUAE.&dur=ClUKB2pjaWMzeWQQ42kiEAiIoeZrEglkYTI1YWF0cmsiEAiIoeZrEglkcjI1YWxpa2UiEAj0uuprEglkYTI1YWF0cmsiEQiZl692EgpkcjM5bXdhbGxhEONp&crrelr=&npt=&svscid=246295&mk=Vivo&mdl=1606&pcm=1&ict=Unknown&said=e77fc43ef67c11e9b3701852dfec0007&auct=3&sfe=fe953d9&vp=1
+]]>
+</Tracking>
+<Tracking event="skip">
+<![CDATA[
+http://insight.adsrvr.org/enduser/video/?ve=skip&imp=36f0af18-b74f-467f-90a2-fbbd2b291acf&ag=6vxj5tb&crid=ux9tg3mc&cf=1072398&fq=0&td_s=tv.hooq.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=ozy32nacui&sv=spotx&uhow=119&agsa=&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=245990&rlangs=en&mlang=&did=3c0e6.7b3d4.d1da&rcxt=InApp&tmpc=26.59&vrtd=14,15&osi=&osv=&daid=40cc88d5-356e-4ee3-ab2f-55ad609709e7&dnr=0&vpb=PreRoll&c=MAM4AUgAUAE.&dur=ClUKB2pjaWMzeWQQ42kiEAiIoeZrEglkYTI1YWF0cmsiEAiIoeZrEglkcjI1YWxpa2UiEAj0uuprEglkYTI1YWF0cmsiEQiZl692EgpkcjM5bXdhbGxhEONp&crrelr=&npt=&svscid=246295&mk=Vivo&mdl=1606&pcm=1&ict=Unknown&said=e77fc43ef67c11e9b3701852dfec0007&auct=3&sfe=fe953d9&vp=1
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://sb.scorecardresearch.com/p?c1=2&c2=6272977&ns_ap_sv=2.1511.10&ns_type=hidden&ns_st_it=a&ns_st_sv=4.0.0&ns_st_ad=1&ns_st_sq=1&ns_st_id=1571935193256164&ns_st_ec=2&ns_st_cn=1&ns_st_ev=end&ns_st_ct=va&ns_st_cl=0&ns_st_pt=0&c3=246295&c4=3c0e6.7b3d4.d1da&c6=7028&ns_ts=1571935193256164
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickTracking>
+<![CDATA[
+http://insight.adsrvr.org/track/clk?imp=36f0af18-b74f-467f-90a2-fbbd2b291acf&ag=6vxj5tb&sfe=fe953d9&sig=93CsvtiyQsJbCCD-Vsv12bKUsAdLe9rC_NyA5KTKu6U.&crid=ux9tg3mc&cf=1072398&fq=0&td_s=tv.hooq.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=ozy32nacui&sv=spotx&uhow=119&agsa=&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=245990&rlangs=en&mlang=&did=3c0e6.7b3d4.d1da&rcxt=InApp&tmpc=26.59&vrtd=14,15&osi=&osv=&daid=40cc88d5-356e-4ee3-ab2f-55ad609709e7&dnr=1&vpb=PreRoll&c=MAM4AUgAUAE.&dur=ClUKB2pjaWMzeWQQ42kiEAiIoeZrEglkYTI1YWF0cmsiEAiIoeZrEglkcjI1YWxpa2UiEAj0uuprEglkYTI1YWF0cmsiEQiZl692EgpkcjM5bXdhbGxhEONp&crrelr=&npt=&svscid=246295&mk=Vivo&mdl=1606&pcm=1&ict=Unknown&said=e77fc43ef67c11e9b3701852dfec0007&auct=3&r=
+]]>
+</ClickTracking>
+<ClickTracking>
+<![CDATA[
+https://search.spotxchange.com/click?_a=246295&_p=3c0e6.7b3d4.d1da&_z=1&_m=eNpdTU1rwkAQnf6VPcs6sx%2BuG%2BjNHgQjFBJKcpGY3bRGMTaNbdD629vVIJTOMDO8N%2FPeKI4IAKQNWalDgTemKpX01cSURN6upUGaauEqXyKiAaEmwmqYz0Cg4FPkghQXmmB93Ludj8bj7pO%2FNc07L%2FaubTYOluliEWTaWoSHAd0awU8I0Ap7iTLAG3tmVROcWNS1Rz9irugKFp3Z4L7ahAX794CNWHE4rD66ph0O1ED8lRChIUGWXS7359fE77h%2B6uP6VcZJprMk7fMk38b1bpvV8SmfPffL63yZf2Wn9PEXNj1X0w%3D%3D&_l=eNp1jl1LwzAUhvNbci3lJGmaZeCFsBth6xh21u6mpOlxqzZb6VrRzv13MzpBETkfF%2B%2F7nA9GGJG%2BGPEpLGAUqEKUYVCy0vwV7mcESImm9vSJCjo90aIq6ZRCAMAkvaGN%2BTj03bciuJeODe5%2FM31RVzbHd7sz%2By3mz4hXG8Dbtm9Nh2XuTPuKXVMbi%2F%2ByTYuu6t1Fzm3jLhY9n0m8ns%2FH5h99aA7d0zhO%2Bn1V4xu2gT244LglwC1YkBOFVgjGtI5ARYZFWinfuSAK%2BIRIxYUmHEI5LuWh1Bp%2BXAEfXIP2LPncpGu5mO1elslqiIeNi5NMZummipO7IUtqt0wWsEwf63hY3X4BwGZosw%3D%3D&_t=eNotjM1ugzAQhP0sPkfVYv6NeqmUcoIKqVWVXJBjNsQpYAvcKCTl3Qshe9mdb2dGNkr%2BEAyjAwPpHoNQOg7GBzcEJ%2FJZdUQJACGRJ6E6ovtadEqSi6pQl%2FIRvdMBRS9P5WBQUn6nRvSiRYv9sKgKL0ricuHVLmsw2l7LFZfCmNKOZv6zaUNbXWFDubehes760zyEOC8ARHCf3wcecGr0YEVDk4dggRtGziI8TqWyI00UX%2BFq6LFWuluoA5HnPmnd6MPSoTjMIJyj%2Brez%2Fbj6IJkIiyFm0d%2B%2B3Z9zVkB23rLdd%2BHtbm%2FnrH1Xebr18tsXfKTFNUuzMf%2BsX%2F8B%2FBll7Q%3D%3D&_b=eNozYGDwC%2FXxYUg1t0gyNTNMSTMzTzY0TLVMMjY3MLQwNUpJS012AwKwqhq%2F3KhMP5eoLL9wX1NfF9cKX5fIysiqdMPIrKDMKJd0k8iqbNOokORy3ypPWwBophsb&daid=ux9tg3mc
+]]>
+</ClickTracking>
+</VideoClicks>
+<Icons>
+<Icon program="AdChoices" height="15" width="77" xPosition="right" yPosition="bottom">
+<StaticResource creativeType="image/png">
+<![CDATA[
+https://choices.trustarc.com/get?name=admarker-full-tl.png
+]]>
+</StaticResource>
+<IconClicks>
+<IconClickThrough>
+<![CDATA[
+https://preferences-mgr.trustarc.com/?pid=tradedesk01&aid=tradedesk01&cid=8gl5s6t_6vxj5tb_ux9tg3mc&width=640&height=480
+]]>
+</IconClickThrough>
+</IconClicks>
+<IconViewTracking>
+<![CDATA[
+https://choices-or.trustarc.com/cap?pid=tradedesk01&aid=tradedesk01&cid=8gl5s6t_6vxj5tb_ux9tg3mc&w=640&h=480
+]]>
+</IconViewTracking>
+</Icon>
+</Icons>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions>
+<Extension type="Pricing">
+<Price model="CPM" currency="USD" source="spotxchange">
+<![CDATA[ 1.32 ]]>
+</Price>
+</Extension>
+<Extension type="SpotX-Count">
+<total_available>
+<![CDATA[ 4 ]]>
+</total_available>
+</Extension>
+<Extension type="AdVerifications">
+<AdVerifications>
+<Verification vendor="moat.com-spotxomidvideo616022536316">
+<JavaScriptResource apiFramework="omid" browserOptional="false">
+<![CDATA[
+https://z.moatads.com/spotxomidvideo616022536316/moatvideo.js
+]]>
+</JavaScriptResource>
+<VerificationParameters>
+<![CDATA[
+{"moatClientLevel1":"245990","moatClientLevel2":"246295","moatClientLevel3":"7028","moatClientLevel4":"3c0e6.7b3d4.d1da","moatClientSlicer1":"www.hooq.tv","moatClientSlicer2":"tv.hooq.android"}
+]]>
+</VerificationParameters>
+</Verification>
+</AdVerifications>
+</Extension>
+<Extension type="Spotx-Regs">
+<GDPR>0</GDPR>
+</Extension>
+<Extension type="Spotx-User">
+<consent>2</consent>
+</Extension>
+</Extensions>
+</Wrapper>
+</Ad>
+</VAST>
