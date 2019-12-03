@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<VAST version="3.0">
+  <Ad>
+    <InLine>
+      <AdSystem>SpotX</AdSystem>
+      <AdTitle>Vast 3.0 Test</AdTitle>
+      <Description>TVC_SHANICE</Description>
+      <Impression>
+        <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_impression ]]>
+      </Impression>
+      <Creatives>
+        <Creative sequence="1">
+          <Linear skipoffset="00:00:30">
+            <Duration>00:00:51</Duration>
+            <TrackingEvents>
+              <Tracking event="start">
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_start ]]>
+              </Tracking>
+              <Tracking event="firstQuartile">
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_firstQuartile ]]>
+              </Tracking>
+              <Tracking event="midpoint">
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_midpoint ]]>
+              </Tracking>
+              <Tracking event="thirdQuartile">
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_thirdQuartile ]]>
+              </Tracking>
+              <Tracking event="complete">
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_complete ]]>
+              </Tracking>
+              <Tracking event="skip">
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_skip ]]>
+              </Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough>
+                <![CDATA[ https://www.nutriclub.co.id/allergyexpert#deteksialergi?utm_source=Spot-X&utm_medium=OTT&utm_campaign=Soya-Allergy-Screener&utm_term=WM_SpotX-OTT-Soya&utm_content=Soya ]]>
+              </ClickThrough>
+              <ClickTracking>
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_VideoClickTracking ]]>
+              </ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" bitrate="766" width="800" height="470">
+                <![CDATA[ https://cdn.spotxcdn.com/media/videos/orig/d/0/d03a4487a4b691161ecc5d30f240ddec.mp4 ]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+      <Extensions/>
+    </InLine>
+  </Ad>
+</VAST>
