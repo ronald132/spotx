@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="2.0">
+  <Ad id="609864">
+    <InLine>
+      <AdSystem><![CDATA[Wootag Ads]]></AdSystem>
+      <AdTitle><![CDATA[CATS Movie 2]]></AdTitle>
+      <Description><![CDATA[]]></Description>
+      <Impression><![CDATA[https://www.wootag.com/api/v1/data/track/event/609864/imp?network=SpotX&network_id=13&tid=2559&cb=cachebuster&ctype=js&adformat=VAST]]></Impression>
+      <Creatives>
+        <Creative sequence="1" id="A61B01-F424-8666">
+          <Linear skipoffset="00:00:05">
+            <TrackingEvents>
+              <Tracking event="start"><![CDATA[https://www.wootag.com/api/v1/data/track/event/609864/str?network=SpotX&network_id=13&tid=2559&cb=cachebuster&ctype=js&adformat=VAST]]></Tracking>
+              <Tracking event="firstQuartile"><![CDATA[https://www.wootag.com/api/v1/data/track/event/609864/frq?network=SpotX&network_id=13&tid=2559&cb=cachebuster&ctype=js&adformat=VAST]]></Tracking>
+              <Tracking event="midpoint"><![CDATA[https://www.wootag.com/api/v1/data/track/event/609864/mid?network=SpotX&network_id=13&tid=2559&cb=cachebuster&ctype=js&adformat=VAST]]></Tracking>
+              <Tracking event="thirdQuartile"><![CDATA[https://www.wootag.com/api/v1/data/track/event/609864/thq?network=SpotX&network_id=13&tid=2559&cb=cachebuster&ctype=js&adformat=VAST]]></Tracking>
+              <Tracking event="complete"><![CDATA[https://www.wootag.com/api/v1/data/track/event/609864/com?network=SpotX&network_id=13&tid=2559&cb=cachebuster&ctype=js&adformat=VAST]]></Tracking>
+              <Tracking event="pause"><![CDATA[https://www.wootag.com/api/v1/data/track/event/609864/pau?network=SpotX&network_id=13&tid=2559&cb=cachebuster&ctype=js&adformat=VAST]]></Tracking>
+              <Tracking event="resume"><![CDATA[https://www.wootag.com/api/v1/data/track/event/609864/res?network=SpotX&network_id=13&tid=2559&cb=cachebuster&ctype=js&adformat=VAST]]></Tracking>
+              <Tracking event="rewind"><![CDATA[https://www.wootag.com/api/v1/data/track/event/609864/rew?network=SpotX&network_id=13&tid=2559&cb=cachebuster&ctype=js&adformat=VAST]]></Tracking>
+              <Tracking event="fullscreen"><![CDATA[https://www.wootag.com/api/v1/data/track/event/609864/fsc?network=SpotX&network_id=13&tid=2559&cb=cachebuster&ctype=js&adformat=VAST]]></Tracking>
+              <Tracking event="close"><![CDATA[https://www.wootag.com/api/v1/data/track/event/609864/clo?network=SpotX&network_id=13&tid=2559&cb=cachebuster&ctype=js&adformat=VAST]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking><![CDATA[https://www.wootag.com/api/v1/data/track/event/609864/clt?network=SpotX&network_id=13&tid=2559&cb=cachebuster&ctype=js&adformat=VAST]]></ClickTracking>
+              <ClickThrough><![CDATA[https://www.youtube.com/playlist?list=PLpNm5nNKIxBTOYIn57PZxZVUoanCaa8WJ]]></ClickThrough>
+            </VideoClicks>
+            <Duration>00:00:30</Duration>
+            <MediaFiles>
+              <MediaFile delivery="progressive" width="240" height="135" type="video/mp4" bitrate="256"><![CDATA[https://cdn.wootag.com/D6B9FE-2A67-2B91/A61B01-F424-8666/240.mp4]]></MediaFile>
+              <MediaFile delivery="progressive" width="360" height="202" type="video/mp4" bitrate="256"><![CDATA[https://cdn.wootag.com/D6B9FE-2A67-2B91/A61B01-F424-8666/360.mp4]]></MediaFile>
+              <MediaFile delivery="progressive" width="480" height="270" type="video/mp4" bitrate="256"><![CDATA[https://cdn.wootag.com/D6B9FE-2A67-2B91/A61B01-F424-8666/480.mp4]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
