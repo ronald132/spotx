@@ -1,0 +1,192 @@
+<VAST version="2.0">
+<Ad id="21755">
+<InLine>
+<AdSystem version="1">Pokkt</AdSystem>
+<AdTitle>IDAC Pop Mie_Jan 2020_hooQ</AdTitle>
+<Description>IDAC Pop Mie_Jan 2020_hooQ</Description>
+<Error>
+<![CDATA[
+http://sglptracker.pokkt.com/api/VideoEventTracker?country=india&device_model=Warp+Elite&categoryIab=IAB1&city=mumbai&pt_fp=PT_FP&app_bundle_name=tv.hooq.android&swidth=640&pt_bp=PT_BP&language=en&creative_id=29871&platform=android&device_name=android&eap=PT_EAP&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=710&state=Maharashtra&ml_cache=ML_CACHE&carrier_name=vodafone+india&brand=ZTE&campaign_id=8845&timestamp=1582607393364&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=42.107.134.154&limitedTracking=1&advertisingID=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&offer_id=21755&token=e284f23de7a9f2c7d4be1426f0f9b87c&utp=UTP&track_id=352ae446-2f0a-446a-a5a2-acb8da3c4f89&marketing_name=Warp+Elite&sheight=360&encodedPubParams=&event=[ERRORCODE]&
+]]>
+</Error>
+<Impression id="pokkt_impression">
+<![CDATA[
+http://sg-tracker.pokkt.com/api/VideoEventTracker?country=india&device_model=Warp+Elite&categoryIab=IAB1&city=mumbai&pt_fp=0.0&app_bundle_name=tv.hooq.android&swidth=640&pt_bp=1.4999999664723875&language=en&creative_id=29871&platform=android&device_name=android&eap=14.000000432133675&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=710&state=Maharashtra&ml_cache=ML_CACHE&carrier_name=vodafone+india&brand=ZTE&campaign_id=8845&timestamp=1582607393363&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=42.107.134.154&limitedTracking=1&advertisingID=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&offer_id=21755&token=a1f8f2e7698f8f1d463fb29b023af761&utp=0&track_id=352ae446-2f0a-446a-a5a2-acb8da3c4f89&marketing_name=Warp+Elite&sheight=360&encodedPubParams=&event=6&
+]]>
+</Impression>
+<Impression id="pokkt_impression_1">
+<![CDATA[
+https://adrta.com/i?clid=pkt&paid=pkt&dvid=v&avid=710&caid=8845&plid=21755&publisherId=38d46af7090f2689e227f40a7ddfe7b4&lineItemId=29871&kv1=320X480&kv4=42.107.134.154&kv11=158260739336371200310&kv18=tv.hooq.android&kv16=0.0&kv17=0.0&kv19=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&kv23=vodafone+india&kv26=android&kv25=HOOQ%253A%2BWatch%2BMovies%252C%2BTV%2BShows%252C%2BLive%2BChannels%2B%2526%2BNews&kv27=Mozilla%252F5.0%2B%2528Linux%253B%2BAndroid%2B5.1%253B%2BN9518%2BBuild%252FLMY47O%253B%2Bwv%2529%2BAppleWebKit%252F537.36%2B%2528KHTML%252C%2Blike%2BGecko%2529%2BVersion%252F4.0%2BChrome%252F60.0.3112.116%2BMobile%2BSafari%252F537.36&kv24=Mobile_InApp_Video
+]]>
+</Impression>
+<Creatives>
+<Creative id="29871" sequence="1" AdID="21755">
+<Linear>
+<Duration>00:00:10</Duration>
+<TrackingEvents>
+<Tracking event="inAppPurchase">
+<![CDATA[
+http://sg-tracker.pokkt.com/api/VideoEventTracker?country=india&device_model=Warp+Elite&categoryIab=IAB1&city=mumbai&pt_fp=0.0&app_bundle_name=tv.hooq.android&swidth=640&pt_bp=1.4999999664723875&language=en&creative_id=29871&platform=android&device_name=android&eap=14.000000432133675&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=710&state=Maharashtra&ml_cache=ML_CACHE&carrier_name=vodafone+india&brand=ZTE&campaign_id=8845&timestamp=1582607393363&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=42.107.134.154&limitedTracking=1&advertisingID=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&offer_id=21755&token=a1f8f2e7698f8f1d463fb29b023af761&utp=0&track_id=352ae446-2f0a-446a-a5a2-acb8da3c4f89&marketing_name=Warp+Elite&sheight=360&encodedPubParams=&event=24&
+]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[
+http://sg-tracker.pokkt.com/api/VideoEventTracker?country=india&device_model=Warp+Elite&categoryIab=IAB1&city=mumbai&pt_fp=0.0&app_bundle_name=tv.hooq.android&swidth=640&pt_bp=1.4999999664723875&language=en&creative_id=29871&platform=android&device_name=android&eap=14.000000432133675&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=710&state=Maharashtra&ml_cache=ML_CACHE&carrier_name=vodafone+india&brand=ZTE&campaign_id=8845&timestamp=1582607393363&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=42.107.134.154&limitedTracking=1&advertisingID=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&offer_id=21755&token=a1f8f2e7698f8f1d463fb29b023af761&utp=0&track_id=352ae446-2f0a-446a-a5a2-acb8da3c4f89&marketing_name=Warp+Elite&sheight=360&encodedPubParams=&event=7&
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+http://sg-tracker.pokkt.com/api/VideoEventTracker?country=india&device_model=Warp+Elite&categoryIab=IAB1&city=mumbai&pt_fp=0.0&app_bundle_name=tv.hooq.android&swidth=640&pt_bp=1.4999999664723875&language=en&creative_id=29871&platform=android&device_name=android&eap=14.000000432133675&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=710&state=Maharashtra&ml_cache=ML_CACHE&carrier_name=vodafone+india&brand=ZTE&campaign_id=8845&timestamp=1582607393363&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=42.107.134.154&limitedTracking=1&advertisingID=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&offer_id=21755&token=a1f8f2e7698f8f1d463fb29b023af761&utp=0&track_id=352ae446-2f0a-446a-a5a2-acb8da3c4f89&marketing_name=Warp+Elite&sheight=360&encodedPubParams=&event=3&
+]]>
+</Tracking>
+<Tracking event="creativeView">
+<![CDATA[
+http://sg-tracker.pokkt.com/api/VideoEventTracker?country=india&device_model=Warp+Elite&categoryIab=IAB1&city=mumbai&pt_fp=0.0&app_bundle_name=tv.hooq.android&swidth=640&pt_bp=1.4999999664723875&language=en&creative_id=29871&platform=android&device_name=android&eap=14.000000432133675&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=710&state=Maharashtra&ml_cache=ML_CACHE&carrier_name=vodafone+india&brand=ZTE&campaign_id=8845&timestamp=1582607393363&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=42.107.134.154&limitedTracking=1&advertisingID=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&offer_id=21755&token=a1f8f2e7698f8f1d463fb29b023af761&utp=0&track_id=352ae446-2f0a-446a-a5a2-acb8da3c4f89&marketing_name=Warp+Elite&sheight=360&encodedPubParams=&event=31&
+]]>
+</Tracking>
+<Tracking event="skip">
+<![CDATA[
+http://sg-tracker.pokkt.com/api/VideoEventTracker?country=india&device_model=Warp+Elite&categoryIab=IAB1&city=mumbai&pt_fp=0.0&app_bundle_name=tv.hooq.android&swidth=640&pt_bp=1.4999999664723875&language=en&creative_id=29871&platform=android&device_name=android&eap=14.000000432133675&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=710&state=Maharashtra&ml_cache=ML_CACHE&carrier_name=vodafone+india&brand=ZTE&campaign_id=8845&timestamp=1582607393363&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=42.107.134.154&limitedTracking=1&advertisingID=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&offer_id=21755&token=a1f8f2e7698f8f1d463fb29b023af761&utp=0&track_id=352ae446-2f0a-446a-a5a2-acb8da3c4f89&marketing_name=Warp+Elite&sheight=360&encodedPubParams=&event=14&
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+http://sg-tracker.pokkt.com/api/VideoEventTracker?country=india&device_model=Warp+Elite&categoryIab=IAB1&city=mumbai&pt_fp=0.0&app_bundle_name=tv.hooq.android&swidth=640&pt_bp=1.4999999664723875&language=en&creative_id=29871&platform=android&device_name=android&eap=14.000000432133675&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=710&state=Maharashtra&ml_cache=ML_CACHE&carrier_name=vodafone+india&brand=ZTE&campaign_id=8845&timestamp=1582607393363&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=42.107.134.154&limitedTracking=1&advertisingID=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&offer_id=21755&token=a1f8f2e7698f8f1d463fb29b023af761&utp=0&track_id=352ae446-2f0a-446a-a5a2-acb8da3c4f89&marketing_name=Warp+Elite&sheight=360&encodedPubParams=&event=26&
+]]>
+</Tracking>
+<Tracking event="playButtonClick">
+<![CDATA[
+http://sg-tracker.pokkt.com/api/VideoEventTracker?country=india&device_model=Warp+Elite&categoryIab=IAB1&city=mumbai&pt_fp=0.0&app_bundle_name=tv.hooq.android&swidth=640&pt_bp=1.4999999664723875&language=en&creative_id=29871&platform=android&device_name=android&eap=14.000000432133675&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=710&state=Maharashtra&ml_cache=ML_CACHE&carrier_name=vodafone+india&brand=ZTE&campaign_id=8845&timestamp=1582607393363&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=42.107.134.154&limitedTracking=1&advertisingID=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&offer_id=21755&token=a1f8f2e7698f8f1d463fb29b023af761&utp=0&track_id=352ae446-2f0a-446a-a5a2-acb8da3c4f89&marketing_name=Warp+Elite&sheight=360&encodedPubParams=&event=11&
+]]>
+</Tracking>
+<Tracking event="loaded">
+<![CDATA[
+http://sg-tracker.pokkt.com/api/VideoEventTracker?country=india&device_model=Warp+Elite&categoryIab=IAB1&city=mumbai&pt_fp=0.0&app_bundle_name=tv.hooq.android&swidth=640&pt_bp=1.4999999664723875&language=en&creative_id=29871&platform=android&device_name=android&eap=14.000000432133675&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=710&state=Maharashtra&ml_cache=ML_CACHE&carrier_name=vodafone+india&brand=ZTE&campaign_id=8845&timestamp=1582607393363&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=42.107.134.154&limitedTracking=1&advertisingID=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&offer_id=21755&token=a1f8f2e7698f8f1d463fb29b023af761&utp=0&track_id=352ae446-2f0a-446a-a5a2-acb8da3c4f89&marketing_name=Warp+Elite&sheight=360&encodedPubParams=&event=95&
+]]>
+</Tracking>
+<Tracking event="fileError">
+<![CDATA[
+http://sg-tracker.pokkt.com/api/VideoEventTracker?country=india&device_model=Warp+Elite&categoryIab=IAB1&city=mumbai&pt_fp=0.0&app_bundle_name=tv.hooq.android&swidth=640&pt_bp=1.4999999664723875&language=en&creative_id=29871&platform=android&device_name=android&eap=14.000000432133675&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=710&state=Maharashtra&ml_cache=ML_CACHE&carrier_name=vodafone+india&brand=ZTE&campaign_id=8845&timestamp=1582607393363&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=42.107.134.154&limitedTracking=1&advertisingID=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&offer_id=21755&token=a1f8f2e7698f8f1d463fb29b023af761&utp=0&track_id=352ae446-2f0a-446a-a5a2-acb8da3c4f89&marketing_name=Warp+Elite&sheight=360&encodedPubParams=&event=13&
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+http://sg-tracker.pokkt.com/api/VideoEventTracker?country=india&device_model=Warp+Elite&categoryIab=IAB1&city=mumbai&pt_fp=0.0&app_bundle_name=tv.hooq.android&swidth=640&pt_bp=1.4999999664723875&language=en&creative_id=29871&platform=android&device_name=android&eap=14.000000432133675&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=710&state=Maharashtra&ml_cache=ML_CACHE&carrier_name=vodafone+india&brand=ZTE&campaign_id=8845&timestamp=1582607393363&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=42.107.134.154&limitedTracking=1&advertisingID=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&offer_id=21755&token=a1f8f2e7698f8f1d463fb29b023af761&utp=0&track_id=352ae446-2f0a-446a-a5a2-acb8da3c4f89&marketing_name=Warp+Elite&sheight=360&encodedPubParams=&event=1&
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+http://sg-tracker.pokkt.com/api/VideoEventTracker?country=india&device_model=Warp+Elite&categoryIab=IAB1&city=mumbai&pt_fp=0.0&app_bundle_name=tv.hooq.android&swidth=640&pt_bp=1.4999999664723875&language=en&creative_id=29871&platform=android&device_name=android&eap=14.000000432133675&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=710&state=Maharashtra&ml_cache=ML_CACHE&carrier_name=vodafone+india&brand=ZTE&campaign_id=8845&timestamp=1582607393363&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=42.107.134.154&limitedTracking=1&advertisingID=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&offer_id=21755&token=a1f8f2e7698f8f1d463fb29b023af761&utp=0&track_id=352ae446-2f0a-446a-a5a2-acb8da3c4f89&marketing_name=Warp+Elite&sheight=360&encodedPubParams=&event=2&
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+http://sg-tracker.pokkt.com/api/VideoEventTracker?country=india&device_model=Warp+Elite&categoryIab=IAB1&city=mumbai&pt_fp=0.0&app_bundle_name=tv.hooq.android&swidth=640&pt_bp=1.4999999664723875&language=en&creative_id=29871&platform=android&device_name=android&eap=14.000000432133675&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=710&state=Maharashtra&ml_cache=ML_CACHE&carrier_name=vodafone+india&brand=ZTE&campaign_id=8845&timestamp=1582607393363&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=42.107.134.154&limitedTracking=1&advertisingID=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&offer_id=21755&token=a1f8f2e7698f8f1d463fb29b023af761&utp=0&track_id=352ae446-2f0a-446a-a5a2-acb8da3c4f89&marketing_name=Warp+Elite&sheight=360&encodedPubParams=&event=27&
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+http://sg-tracker.pokkt.com/api/VideoEventTracker?country=india&device_model=Warp+Elite&categoryIab=IAB1&city=mumbai&pt_fp=0.0&app_bundle_name=tv.hooq.android&swidth=640&pt_bp=1.4999999664723875&language=en&creative_id=29871&platform=android&device_name=android&eap=14.000000432133675&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=710&state=Maharashtra&ml_cache=ML_CACHE&carrier_name=vodafone+india&brand=ZTE&campaign_id=8845&timestamp=1582607393363&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=42.107.134.154&limitedTracking=1&advertisingID=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&offer_id=21755&token=a1f8f2e7698f8f1d463fb29b023af761&utp=0&track_id=352ae446-2f0a-446a-a5a2-acb8da3c4f89&marketing_name=Warp+Elite&sheight=360&encodedPubParams=&event=4&
+]]>
+</Tracking>
+<Tracking event="playError">
+<![CDATA[
+http://sg-tracker.pokkt.com/api/VideoEventTracker?country=india&device_model=Warp+Elite&categoryIab=IAB1&city=mumbai&pt_fp=0.0&app_bundle_name=tv.hooq.android&swidth=640&pt_bp=1.4999999664723875&language=en&creative_id=29871&platform=android&device_name=android&eap=14.000000432133675&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=710&state=Maharashtra&ml_cache=ML_CACHE&carrier_name=vodafone+india&brand=ZTE&campaign_id=8845&timestamp=1582607393363&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=42.107.134.154&limitedTracking=1&advertisingID=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&offer_id=21755&token=a1f8f2e7698f8f1d463fb29b023af761&utp=0&track_id=352ae446-2f0a-446a-a5a2-acb8da3c4f89&marketing_name=Warp+Elite&sheight=360&encodedPubParams=&event=12&
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+http://sg-tracker.pokkt.com/api/VideoEventTracker?country=india&device_model=Warp+Elite&categoryIab=IAB1&city=mumbai&pt_fp=0.0&app_bundle_name=tv.hooq.android&swidth=640&pt_bp=1.4999999664723875&language=en&creative_id=29871&platform=android&device_name=android&eap=14.000000432133675&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=710&state=Maharashtra&ml_cache=ML_CACHE&carrier_name=vodafone+india&brand=ZTE&campaign_id=8845&timestamp=1582607393363&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=42.107.134.154&limitedTracking=1&advertisingID=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&offer_id=21755&token=a1f8f2e7698f8f1d463fb29b023af761&utp=0&track_id=352ae446-2f0a-446a-a5a2-acb8da3c4f89&marketing_name=Warp+Elite&sheight=360&encodedPubParams=&event=5&
+]]>
+</Tracking>
+<Tracking event="closeLinear">
+<![CDATA[
+http://sg-tracker.pokkt.com/api/VideoEventTracker?country=india&device_model=Warp+Elite&categoryIab=IAB1&city=mumbai&pt_fp=0.0&app_bundle_name=tv.hooq.android&swidth=640&pt_bp=1.4999999664723875&language=en&creative_id=29871&platform=android&device_name=android&eap=14.000000432133675&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=710&state=Maharashtra&ml_cache=ML_CACHE&carrier_name=vodafone+india&brand=ZTE&campaign_id=8845&timestamp=1582607393363&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=42.107.134.154&limitedTracking=1&advertisingID=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&offer_id=21755&token=a1f8f2e7698f8f1d463fb29b023af761&utp=0&track_id=352ae446-2f0a-446a-a5a2-acb8da3c4f89&marketing_name=Warp+Elite&sheight=360&encodedPubParams=&event=5&
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://linktr.ee/popmieofficial ]]>
+</ClickThrough>
+<ClickTracking>
+<![CDATA[
+http://sg-tracker.pokkt.com/api/VideoEventTracker?country=india&device_model=Warp+Elite&categoryIab=IAB1&city=mumbai&pt_fp=PT_FP&app_bundle_name=tv.hooq.android&swidth=640&pt_bp=PT_BP&language=en&creative_id=29871&platform=android&device_name=android&eap=PT_EAP&appId=38d46af7090f2689e227f40a7ddfe7b4&adpos=0&adv_id=710&state=Maharashtra&ml_cache=ML_CACHE&carrier_name=vodafone+india&brand=ZTE&campaign_id=8845&timestamp=1582607393363&ocr=ML_OCR&vcr=ML_VCR&appName=HOOQ%3A+Watch+Movies%2C+TV+Shows%2C+Live+Channels+%26+News&ip=42.107.134.154&limitedTracking=1&advertisingID=f898db1b-d958-4cdc-85dd-e2bd9f3a11c3&offer_id=21755&token=a1f8f2e7698f8f1d463fb29b023af761&utp=UTP&track_id=352ae446-2f0a-446a-a5a2-acb8da3c4f89&marketing_name=Warp+Elite&sheight=360&encodedPubParams=&event=9&
+]]>
+</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile id="pokkt_imp" delivery="progressive" type="video/mp4" bitrate="400" width="640" height="360" scalable="0" maintainAspectRatio="1">
+<![CDATA[
+https://d2h452d9fuy6ob.cloudfront.net/1580736220.mp4
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions>
+<Extension type="AdVerifications">
+<AdVerifications>
+<Verification vendor="moat.com-omsdkpokktinappnativevideo389933375167">
+<JavaScriptResource apiFramework="omid" browserOptional="1">
+<![CDATA[
+https://z.moatads.com/omsdkpokktinappnativevideo389933375167/moatvideo.js
+]]>
+</JavaScriptResource>
+<VerificationParameters>
+<![CDATA[
+{"moatClientLevel1":"710", "moatClientLevel2": "8845", "moatClientLevel3": "21755", "moatClientLevel4": "29871", "moatClientSlicer1": "38d46af7090f2689e227f40a7ddfe7b4", "moatClientSlicer2": "screen"}
+]]>
+</VerificationParameters>
+</Verification>
+</AdVerifications>
+</Extension>
+<Extension>
+<Pokkt>
+<SkipOffset>00:00:00</SkipOffset>
+<isOMIDEnabled>1</isOMIDEnabled>
+<PubPageRedirect/>
+<Cards/>
+<NielsenKey/>
+<NielsenUrl/>
+<NielsenCI/>
+<NielsenCA/>
+<NielsenPlacementId/>
+<NielsenCreativeId/>
+<ViewabilityAction>0</ViewabilityAction>
+<ExtraActions/>
+<InvalidCachedOfferIds/>
+<GratificationInfo/>
+<GratificationTime>0</GratificationTime>
+<WebViewBaseUrl>
+<![CDATA[ http://vdo.pokkt.com ]]>
+</WebViewBaseUrl>
+<ComscoreCampaignId/>
+<ComscoreCreativeId/>
+<ComscorePlacementId/>
+<CoppaEnabled>false</CoppaEnabled>
+<VideoPlacementType/>
+<ImaTracking>false</ImaTracking>
+<AdOverlay>
+<AdOverlayDimensionRatio>
+<![CDATA[ 30.0 ]]>
+</AdOverlayDimensionRatio>
+<AdOverlayUrl/>
+</AdOverlay>
+<Is360Video>false</Is360Video>
+<HapticFeedback/>
+<GestureInfo/>
+<AdditionalWebSettings>
+<canZoom>false</canZoom>
+<canOpenExternal>false</canOpenExternal>
+<canAutoPlay>true</canAutoPlay>
+<canScroll>false</canScroll>
+<shouldAskPermission>true</shouldAskPermission>
+</AdditionalWebSettings>
+</Pokkt>
+</Extension>
+</Extensions>
+</InLine>
+</Ad>
+</VAST>
