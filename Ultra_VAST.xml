@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<VAST version="2.0">
+  <Ad id="pwqqk9iv-44648.f3d94.ac8d">
+    <InLine>
+      <AdSystem version="1.0">SpotXchange</AdSystem>
+      <AdTitle><![CDATA[ID2073_PMP_AUD_Female35+-3rd-Party-Jan2020-Version01-Consumption-BuyNow_VAST-Web-instream-6s|NA]]></AdTitle>
+      <Description><![CDATA[]]></Description>
+      <Creatives>
+        <Creative sequence="1">
+          <Linear>
+            <Duration>00:00:06</Duration>
+            <AdParameters><![CDATA[{
+  "ad_id": "pwqqk9iv-44648.f3d94.ac8d",
+  "title": "ID2073_PMP_AUD_Female35+-3rd-Party-Jan2020-Version01-Consumption-BuyNow_VAST-Web-instream-6s|NA",
+  "page_url": "",
+  "media": {
+    "video": {
+      "2": {
+        "playtime": 6,
+        "vpi": "VPAID_JS",
+        "transcoding": ["low"],
+        "maintain_aspect_ratio": "",
+        "scalable": "",
+        "media_id": "",
+        "mime_type": "application/javascript",
+        "height": "360",
+        "source_uri": "https://svastx.moatads.com/thetradedeskvideo910663478306/moatwrapper.js#level1=lhzsji1&level2=3s4mj60&level3=ebza5ce&level4=pwqqk9iv&pcode=thetradedeskvideo910663478306&data=imp%253d116054d6-3138-4880-bd20-4b32cca8d94f%2526ag%253debza5ce%2526crid%253dpwqqk9iv%2526cf%253d1366230%2526fq%253d1%2526td_s%253dfood.detik.com%2526rcats%253d%2526mcat%253d%2526mste%253d%2526mfld%253d4%2526mssi%253dNone%2526mfsi%253dm3hf9cauzf%2526sv%253dspotx%2526uhow%253d111%2526agsa%253d%2526wp%253d%2524MBR%2526rgco%253dIndonesia%2526rgre%253d%2526rgme%253d%2526rgci%253d%2526rgz%253d%2526dt%253dPC%2526osf%253dOSX%2526os%253dOther%2526br%253dChrome%2526svpid%253d280136%2526rlangs%253den%2526mlang%253d%2526did%253d44648.f3d94.ac8d%2526rcxt%253dOther%2526tmpc%253d%2526vrtd%253d14%252c15%2526osi%253d%2526osv%253d%2526daid%253d%2526dnr%253d0%2526vpb%253dPreRoll%2526c%253dMAQ4AUgAUAJYAQ..%2526dur%253dCkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..%2526crrelr%253d%2526npt%253d%2526svscid%253d280139%2526mk%253dApple%2526mdl%253dChrome%252520-%252520OS%252520X%2526pcm%253d1%2526ict%253dUnknown%2526said%253d0e341874643f11eaac391ce81dd60007%2526auct%253d3%2526sfe%253d10a178b9%2526vp%253d1&zMoatViewType=1&zMoatPartnerID=pfvg03w&zMoatDealID=44648.f3d94.ac8d&zMoatImpressionId=116054d6-3138-4880-bd20-4b32cca8d94f&zMoatSupplyVendor=spotx&zMoatSite=food.detik.com&zMoatCachebuster=431547&zMoatQI=0&zMoatPID=ecc3e767-3510-40d6-b991-d59a641f7f38&zMoatTO=3&zMoatDID=&zMoatApp=&zMoatDuration=6&vast=https%3a%2f%2fbs.serving-sys.com%2fServing%2fadServer.bs%3fc%3d23%26cn%3ddisplay%26pli%3d1075210052%26ord%3d204691",
+        "api_framework": "VPAID",
+        "source_uri_external": true,
+        "bitrate": 2250,
+        "width": "640",
+        "page_url": null,
+        "media_url": "https://svastx.moatads.com/thetradedeskvideo910663478306/moatwrapper.js#level1=lhzsji1&level2=3s4mj60&level3=ebza5ce&level4=pwqqk9iv&pcode=thetradedeskvideo910663478306&data=imp%253d116054d6-3138-4880-bd20-4b32cca8d94f%2526ag%253debza5ce%2526crid%253dpwqqk9iv%2526cf%253d1366230%2526fq%253d1%2526td_s%253dfood.detik.com%2526rcats%253d%2526mcat%253d%2526mste%253d%2526mfld%253d4%2526mssi%253dNone%2526mfsi%253dm3hf9cauzf%2526sv%253dspotx%2526uhow%253d111%2526agsa%253d%2526wp%253d%2524MBR%2526rgco%253dIndonesia%2526rgre%253d%2526rgme%253d%2526rgci%253d%2526rgz%253d%2526dt%253dPC%2526osf%253dOSX%2526os%253dOther%2526br%253dChrome%2526svpid%253d280136%2526rlangs%253den%2526mlang%253d%2526did%253d44648.f3d94.ac8d%2526rcxt%253dOther%2526tmpc%253d%2526vrtd%253d14%252c15%2526osi%253d%2526osv%253d%2526daid%253d%2526dnr%253d0%2526vpb%253dPreRoll%2526c%253dMAQ4AUgAUAJYAQ..%2526dur%253dCkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..%2526crrelr%253d%2526npt%253d%2526svscid%253d280139%2526mk%253dApple%2526mdl%253dChrome%252520-%252520OS%252520X%2526pcm%253d1%2526ict%253dUnknown%2526said%253d0e341874643f11eaac391ce81dd60007%2526auct%253d3%2526sfe%253d10a178b9%2526vp%253d1&zMoatViewType=1&zMoatPartnerID=pfvg03w&zMoatDealID=44648.f3d94.ac8d&zMoatImpressionId=116054d6-3138-4880-bd20-4b32cca8d94f&zMoatSupplyVendor=spotx&zMoatSite=food.detik.com&zMoatCachebuster=431547&zMoatQI=0&zMoatPID=ecc3e767-3510-40d6-b991-d59a641f7f38&zMoatTO=3&zMoatDID=&zMoatApp=&zMoatDuration=6&vast=https%3a%2f%2fbs.serving-sys.com%2fServing%2fadServer.bs%3fc%3d23%26cn%3ddisplay%26pli%3d1075210052%26ord%3d204691"
+      },
+      "3": {
+        "vpi": "VPAID_JS",
+        "maintain_aspect_ratio": "",
+        "scalable": "",
+        "media_id": "",
+        "mime_type": "application/javascript",
+        "height": "360",
+        "source_uri": "https://svastx.moatads.com/thetradedeskvideo910663478306/moatwrapper.js#level1=lhzsji1&level2=3s4mj60&level3=ebza5ce&level4=pwqqk9iv&pcode=thetradedeskvideo910663478306&data=imp%253d116054d6-3138-4880-bd20-4b32cca8d94f%2526ag%253debza5ce%2526crid%253dpwqqk9iv%2526cf%253d1366230%2526fq%253d1%2526td_s%253dfood.detik.com%2526rcats%253d%2526mcat%253d%2526mste%253d%2526mfld%253d4%2526mssi%253dNone%2526mfsi%253dm3hf9cauzf%2526sv%253dspotx%2526uhow%253d111%2526agsa%253d%2526wp%253d%2524MBR%2526rgco%253dIndonesia%2526rgre%253d%2526rgme%253d%2526rgci%253d%2526rgz%253d%2526dt%253dPC%2526osf%253dOSX%2526os%253dOther%2526br%253dChrome%2526svpid%253d280136%2526rlangs%253den%2526mlang%253d%2526did%253d44648.f3d94.ac8d%2526rcxt%253dOther%2526tmpc%253d%2526vrtd%253d14%252c15%2526osi%253d%2526osv%253d%2526daid%253d%2526dnr%253d0%2526vpb%253dPreRoll%2526c%253dMAQ4AUgAUAJYAQ..%2526dur%253dCkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..%2526crrelr%253d%2526npt%253d%2526svscid%253d280139%2526mk%253dApple%2526mdl%253dChrome%252520-%252520OS%252520X%2526pcm%253d1%2526ict%253dUnknown%2526said%253d0e341874643f11eaac391ce81dd60007%2526auct%253d3%2526sfe%253d10a178b9%2526vp%253d1&zMoatViewType=1&zMoatPartnerID=pfvg03w&zMoatDealID=44648.f3d94.ac8d&zMoatImpressionId=116054d6-3138-4880-bd20-4b32cca8d94f&zMoatSupplyVendor=spotx&zMoatSite=food.detik.com&zMoatCachebuster=431547&zMoatQI=0&zMoatPID=ecc3e767-3510-40d6-b991-d59a641f7f38&zMoatTO=3&zMoatDID=&zMoatApp=&zMoatDuration=6&vast=https%3a%2f%2fbs.serving-sys.com%2fServing%2fadServer.bs%3fc%3d23%26cn%3ddisplay%26pli%3d1075210052%26ord%3d204691",
+        "api_framework": "VPAID",
+        "playtime": 6,
+        "source_uri_external": true,
+        "bitrate": 2358,
+        "width": "640",
+        "transcoding": ["high"],
+        "media_url": "https://svastx.moatads.com/thetradedeskvideo910663478306/moatwrapper.js#level1=lhzsji1&level2=3s4mj60&level3=ebza5ce&level4=pwqqk9iv&pcode=thetradedeskvideo910663478306&data=imp%253d116054d6-3138-4880-bd20-4b32cca8d94f%2526ag%253debza5ce%2526crid%253dpwqqk9iv%2526cf%253d1366230%2526fq%253d1%2526td_s%253dfood.detik.com%2526rcats%253d%2526mcat%253d%2526mste%253d%2526mfld%253d4%2526mssi%253dNone%2526mfsi%253dm3hf9cauzf%2526sv%253dspotx%2526uhow%253d111%2526agsa%253d%2526wp%253d%2524MBR%2526rgco%253dIndonesia%2526rgre%253d%2526rgme%253d%2526rgci%253d%2526rgz%253d%2526dt%253dPC%2526osf%253dOSX%2526os%253dOther%2526br%253dChrome%2526svpid%253d280136%2526rlangs%253den%2526mlang%253d%2526did%253d44648.f3d94.ac8d%2526rcxt%253dOther%2526tmpc%253d%2526vrtd%253d14%252c15%2526osi%253d%2526osv%253d%2526daid%253d%2526dnr%253d0%2526vpb%253dPreRoll%2526c%253dMAQ4AUgAUAJYAQ..%2526dur%253dCkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..%2526crrelr%253d%2526npt%253d%2526svscid%253d280139%2526mk%253dApple%2526mdl%253dChrome%252520-%252520OS%252520X%2526pcm%253d1%2526ict%253dUnknown%2526said%253d0e341874643f11eaac391ce81dd60007%2526auct%253d3%2526sfe%253d10a178b9%2526vp%253d1&zMoatViewType=1&zMoatPartnerID=pfvg03w&zMoatDealID=44648.f3d94.ac8d&zMoatImpressionId=116054d6-3138-4880-bd20-4b32cca8d94f&zMoatSupplyVendor=spotx&zMoatSite=food.detik.com&zMoatCachebuster=431547&zMoatQI=0&zMoatPID=ecc3e767-3510-40d6-b991-d59a641f7f38&zMoatTO=3&zMoatDID=&zMoatApp=&zMoatDuration=6&vast=https%3a%2f%2fbs.serving-sys.com%2fServing%2fadServer.bs%3fc%3d23%26cn%3ddisplay%26pli%3d1075210052%26ord%3d204691"
+      },
+      "4": {
+        "vpi": "VPAID_JS",
+        "maintain_aspect_ratio": "",
+        "scalable": "",
+        "media_id": "",
+        "mime_type": "application/javascript",
+        "height": "360",
+        "source_uri": "https://svastx.moatads.com/thetradedeskvideo910663478306/moatwrapper.js#level1=lhzsji1&level2=3s4mj60&level3=ebza5ce&level4=pwqqk9iv&pcode=thetradedeskvideo910663478306&data=imp%253d116054d6-3138-4880-bd20-4b32cca8d94f%2526ag%253debza5ce%2526crid%253dpwqqk9iv%2526cf%253d1366230%2526fq%253d1%2526td_s%253dfood.detik.com%2526rcats%253d%2526mcat%253d%2526mste%253d%2526mfld%253d4%2526mssi%253dNone%2526mfsi%253dm3hf9cauzf%2526sv%253dspotx%2526uhow%253d111%2526agsa%253d%2526wp%253d%2524MBR%2526rgco%253dIndonesia%2526rgre%253d%2526rgme%253d%2526rgci%253d%2526rgz%253d%2526dt%253dPC%2526osf%253dOSX%2526os%253dOther%2526br%253dChrome%2526svpid%253d280136%2526rlangs%253den%2526mlang%253d%2526did%253d44648.f3d94.ac8d%2526rcxt%253dOther%2526tmpc%253d%2526vrtd%253d14%252c15%2526osi%253d%2526osv%253d%2526daid%253d%2526dnr%253d0%2526vpb%253dPreRoll%2526c%253dMAQ4AUgAUAJYAQ..%2526dur%253dCkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..%2526crrelr%253d%2526npt%253d%2526svscid%253d280139%2526mk%253dApple%2526mdl%253dChrome%252520-%252520OS%252520X%2526pcm%253d1%2526ict%253dUnknown%2526said%253d0e341874643f11eaac391ce81dd60007%2526auct%253d3%2526sfe%253d10a178b9%2526vp%253d1&zMoatViewType=1&zMoatPartnerID=pfvg03w&zMoatDealID=44648.f3d94.ac8d&zMoatImpressionId=116054d6-3138-4880-bd20-4b32cca8d94f&zMoatSupplyVendor=spotx&zMoatSite=food.detik.com&zMoatCachebuster=431547&zMoatQI=0&zMoatPID=ecc3e767-3510-40d6-b991-d59a641f7f38&zMoatTO=3&zMoatDID=&zMoatApp=&zMoatDuration=6&vast=https%3a%2f%2fbs.serving-sys.com%2fServing%2fadServer.bs%3fc%3d23%26cn%3ddisplay%26pli%3d1075210052%26ord%3d204691",
+        "api_framework": "VPAID",
+        "playtime": 6,
+        "source_uri_external": true,
+        "bitrate": 3072,
+        "width": "640",
+        "transcoding": ["high"],
+        "media_url": "https://svastx.moatads.com/thetradedeskvideo910663478306/moatwrapper.js#level1=lhzsji1&level2=3s4mj60&level3=ebza5ce&level4=pwqqk9iv&pcode=thetradedeskvideo910663478306&data=imp%253d116054d6-3138-4880-bd20-4b32cca8d94f%2526ag%253debza5ce%2526crid%253dpwqqk9iv%2526cf%253d1366230%2526fq%253d1%2526td_s%253dfood.detik.com%2526rcats%253d%2526mcat%253d%2526mste%253d%2526mfld%253d4%2526mssi%253dNone%2526mfsi%253dm3hf9cauzf%2526sv%253dspotx%2526uhow%253d111%2526agsa%253d%2526wp%253d%2524MBR%2526rgco%253dIndonesia%2526rgre%253d%2526rgme%253d%2526rgci%253d%2526rgz%253d%2526dt%253dPC%2526osf%253dOSX%2526os%253dOther%2526br%253dChrome%2526svpid%253d280136%2526rlangs%253den%2526mlang%253d%2526did%253d44648.f3d94.ac8d%2526rcxt%253dOther%2526tmpc%253d%2526vrtd%253d14%252c15%2526osi%253d%2526osv%253d%2526daid%253d%2526dnr%253d0%2526vpb%253dPreRoll%2526c%253dMAQ4AUgAUAJYAQ..%2526dur%253dCkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..%2526crrelr%253d%2526npt%253d%2526svscid%253d280139%2526mk%253dApple%2526mdl%253dChrome%252520-%252520OS%252520X%2526pcm%253d1%2526ict%253dUnknown%2526said%253d0e341874643f11eaac391ce81dd60007%2526auct%253d3%2526sfe%253d10a178b9%2526vp%253d1&zMoatViewType=1&zMoatPartnerID=pfvg03w&zMoatDealID=44648.f3d94.ac8d&zMoatImpressionId=116054d6-3138-4880-bd20-4b32cca8d94f&zMoatSupplyVendor=spotx&zMoatSite=food.detik.com&zMoatCachebuster=431547&zMoatQI=0&zMoatPID=ecc3e767-3510-40d6-b991-d59a641f7f38&zMoatTO=3&zMoatDID=&zMoatApp=&zMoatDuration=6&vast=https%3a%2f%2fbs.serving-sys.com%2fServing%2fadServer.bs%3fc%3d23%26cn%3ddisplay%26pli%3d1075210052%26ord%3d204691"
+      },
+      "5": {
+        "vpi": "VPAID_JS",
+        "maintain_aspect_ratio": "",
+        "scalable": "",
+        "media_id": "",
+        "mime_type": "application/javascript",
+        "height": "360",
+        "source_uri": "https://svastx.moatads.com/thetradedeskvideo910663478306/moatwrapper.js#level1=lhzsji1&level2=3s4mj60&level3=ebza5ce&level4=pwqqk9iv&pcode=thetradedeskvideo910663478306&data=imp%253d116054d6-3138-4880-bd20-4b32cca8d94f%2526ag%253debza5ce%2526crid%253dpwqqk9iv%2526cf%253d1366230%2526fq%253d1%2526td_s%253dfood.detik.com%2526rcats%253d%2526mcat%253d%2526mste%253d%2526mfld%253d4%2526mssi%253dNone%2526mfsi%253dm3hf9cauzf%2526sv%253dspotx%2526uhow%253d111%2526agsa%253d%2526wp%253d%2524MBR%2526rgco%253dIndonesia%2526rgre%253d%2526rgme%253d%2526rgci%253d%2526rgz%253d%2526dt%253dPC%2526osf%253dOSX%2526os%253dOther%2526br%253dChrome%2526svpid%253d280136%2526rlangs%253den%2526mlang%253d%2526did%253d44648.f3d94.ac8d%2526rcxt%253dOther%2526tmpc%253d%2526vrtd%253d14%252c15%2526osi%253d%2526osv%253d%2526daid%253d%2526dnr%253d0%2526vpb%253dPreRoll%2526c%253dMAQ4AUgAUAJYAQ..%2526dur%253dCkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..%2526crrelr%253d%2526npt%253d%2526svscid%253d280139%2526mk%253dApple%2526mdl%253dChrome%252520-%252520OS%252520X%2526pcm%253d1%2526ict%253dUnknown%2526said%253d0e341874643f11eaac391ce81dd60007%2526auct%253d3%2526sfe%253d10a178b9%2526vp%253d1&zMoatViewType=1&zMoatPartnerID=pfvg03w&zMoatDealID=44648.f3d94.ac8d&zMoatImpressionId=116054d6-3138-4880-bd20-4b32cca8d94f&zMoatSupplyVendor=spotx&zMoatSite=food.detik.com&zMoatCachebuster=431547&zMoatQI=0&zMoatPID=ecc3e767-3510-40d6-b991-d59a641f7f38&zMoatTO=3&zMoatDID=&zMoatApp=&zMoatDuration=6&vast=https%3a%2f%2fbs.serving-sys.com%2fServing%2fadServer.bs%3fc%3d23%26cn%3ddisplay%26pli%3d1075210052%26ord%3d204691",
+        "api_framework": "VPAID",
+        "playtime": 6,
+        "source_uri_external": true,
+        "bitrate": 3939,
+        "width": "640",
+        "transcoding": ["high"],
+        "media_url": "https://svastx.moatads.com/thetradedeskvideo910663478306/moatwrapper.js#level1=lhzsji1&level2=3s4mj60&level3=ebza5ce&level4=pwqqk9iv&pcode=thetradedeskvideo910663478306&data=imp%253d116054d6-3138-4880-bd20-4b32cca8d94f%2526ag%253debza5ce%2526crid%253dpwqqk9iv%2526cf%253d1366230%2526fq%253d1%2526td_s%253dfood.detik.com%2526rcats%253d%2526mcat%253d%2526mste%253d%2526mfld%253d4%2526mssi%253dNone%2526mfsi%253dm3hf9cauzf%2526sv%253dspotx%2526uhow%253d111%2526agsa%253d%2526wp%253d%2524MBR%2526rgco%253dIndonesia%2526rgre%253d%2526rgme%253d%2526rgci%253d%2526rgz%253d%2526dt%253dPC%2526osf%253dOSX%2526os%253dOther%2526br%253dChrome%2526svpid%253d280136%2526rlangs%253den%2526mlang%253d%2526did%253d44648.f3d94.ac8d%2526rcxt%253dOther%2526tmpc%253d%2526vrtd%253d14%252c15%2526osi%253d%2526osv%253d%2526daid%253d%2526dnr%253d0%2526vpb%253dPreRoll%2526c%253dMAQ4AUgAUAJYAQ..%2526dur%253dCkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..%2526crrelr%253d%2526npt%253d%2526svscid%253d280139%2526mk%253dApple%2526mdl%253dChrome%252520-%252520OS%252520X%2526pcm%253d1%2526ict%253dUnknown%2526said%253d0e341874643f11eaac391ce81dd60007%2526auct%253d3%2526sfe%253d10a178b9%2526vp%253d1&zMoatViewType=1&zMoatPartnerID=pfvg03w&zMoatDealID=44648.f3d94.ac8d&zMoatImpressionId=116054d6-3138-4880-bd20-4b32cca8d94f&zMoatSupplyVendor=spotx&zMoatSite=food.detik.com&zMoatCachebuster=431547&zMoatQI=0&zMoatPID=ecc3e767-3510-40d6-b991-d59a641f7f38&zMoatTO=3&zMoatDID=&zMoatApp=&zMoatDuration=6&vast=https%3a%2f%2fbs.serving-sys.com%2fServing%2fadServer.bs%3fc%3d23%26cn%3ddisplay%26pli%3d1075210052%26ord%3d204691"
+      },
+      "6": {
+        "vpi": "VPAID_JS",
+        "maintain_aspect_ratio": "",
+        "scalable": "",
+        "media_id": "",
+        "mime_type": "application/javascript",
+        "height": "360",
+        "source_uri": "https://svastx.moatads.com/thetradedeskvideo910663478306/moatwrapper.js#level1=lhzsji1&level2=3s4mj60&level3=ebza5ce&level4=pwqqk9iv&pcode=thetradedeskvideo910663478306&data=imp%253d116054d6-3138-4880-bd20-4b32cca8d94f%2526ag%253debza5ce%2526crid%253dpwqqk9iv%2526cf%253d1366230%2526fq%253d1%2526td_s%253dfood.detik.com%2526rcats%253d%2526mcat%253d%2526mste%253d%2526mfld%253d4%2526mssi%253dNone%2526mfsi%253dm3hf9cauzf%2526sv%253dspotx%2526uhow%253d111%2526agsa%253d%2526wp%253d%2524MBR%2526rgco%253dIndonesia%2526rgre%253d%2526rgme%253d%2526rgci%253d%2526rgz%253d%2526dt%253dPC%2526osf%253dOSX%2526os%253dOther%2526br%253dChrome%2526svpid%253d280136%2526rlangs%253den%2526mlang%253d%2526did%253d44648.f3d94.ac8d%2526rcxt%253dOther%2526tmpc%253d%2526vrtd%253d14%252c15%2526osi%253d%2526osv%253d%2526daid%253d%2526dnr%253d0%2526vpb%253dPreRoll%2526c%253dMAQ4AUgAUAJYAQ..%2526dur%253dCkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..%2526crrelr%253d%2526npt%253d%2526svscid%253d280139%2526mk%253dApple%2526mdl%253dChrome%252520-%252520OS%252520X%2526pcm%253d1%2526ict%253dUnknown%2526said%253d0e341874643f11eaac391ce81dd60007%2526auct%253d3%2526sfe%253d10a178b9%2526vp%253d1&zMoatViewType=1&zMoatPartnerID=pfvg03w&zMoatDealID=44648.f3d94.ac8d&zMoatImpressionId=116054d6-3138-4880-bd20-4b32cca8d94f&zMoatSupplyVendor=spotx&zMoatSite=food.detik.com&zMoatCachebuster=431547&zMoatQI=0&zMoatPID=ecc3e767-3510-40d6-b991-d59a641f7f38&zMoatTO=3&zMoatDID=&zMoatApp=&zMoatDuration=6&vast=https%3a%2f%2fbs.serving-sys.com%2fServing%2fadServer.bs%3fc%3d23%26cn%3ddisplay%26pli%3d1075210052%26ord%3d204691",
+        "api_framework": "VPAID",
+        "playtime": 6,
+        "source_uri_external": true,
+        "bitrate": 4774,
+        "width": "640",
+        "transcoding": ["high"],
+        "media_url": "https://svastx.moatads.com/thetradedeskvideo910663478306/moatwrapper.js#level1=lhzsji1&level2=3s4mj60&level3=ebza5ce&level4=pwqqk9iv&pcode=thetradedeskvideo910663478306&data=imp%253d116054d6-3138-4880-bd20-4b32cca8d94f%2526ag%253debza5ce%2526crid%253dpwqqk9iv%2526cf%253d1366230%2526fq%253d1%2526td_s%253dfood.detik.com%2526rcats%253d%2526mcat%253d%2526mste%253d%2526mfld%253d4%2526mssi%253dNone%2526mfsi%253dm3hf9cauzf%2526sv%253dspotx%2526uhow%253d111%2526agsa%253d%2526wp%253d%2524MBR%2526rgco%253dIndonesia%2526rgre%253d%2526rgme%253d%2526rgci%253d%2526rgz%253d%2526dt%253dPC%2526osf%253dOSX%2526os%253dOther%2526br%253dChrome%2526svpid%253d280136%2526rlangs%253den%2526mlang%253d%2526did%253d44648.f3d94.ac8d%2526rcxt%253dOther%2526tmpc%253d%2526vrtd%253d14%252c15%2526osi%253d%2526osv%253d%2526daid%253d%2526dnr%253d0%2526vpb%253dPreRoll%2526c%253dMAQ4AUgAUAJYAQ..%2526dur%253dCkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..%2526crrelr%253d%2526npt%253d%2526svscid%253d280139%2526mk%253dApple%2526mdl%253dChrome%252520-%252520OS%252520X%2526pcm%253d1%2526ict%253dUnknown%2526said%253d0e341874643f11eaac391ce81dd60007%2526auct%253d3%2526sfe%253d10a178b9%2526vp%253d1&zMoatViewType=1&zMoatPartnerID=pfvg03w&zMoatDealID=44648.f3d94.ac8d&zMoatImpressionId=116054d6-3138-4880-bd20-4b32cca8d94f&zMoatSupplyVendor=spotx&zMoatSite=food.detik.com&zMoatCachebuster=431547&zMoatQI=0&zMoatPID=ecc3e767-3510-40d6-b991-d59a641f7f38&zMoatTO=3&zMoatDID=&zMoatApp=&zMoatDuration=6&vast=https%3a%2f%2fbs.serving-sys.com%2fServing%2fadServer.bs%3fc%3d23%26cn%3ddisplay%26pli%3d1075210052%26ord%3d204691"
+      },
+      "7": {
+        "vpi": "VPAID_JS",
+        "maintain_aspect_ratio": "",
+        "scalable": "",
+        "media_id": "",
+        "mime_type": "application/javascript",
+        "height": "360",
+        "source_uri": "https://svastx.moatads.com/thetradedeskvideo910663478306/moatwrapper.js#level1=lhzsji1&level2=3s4mj60&level3=ebza5ce&level4=pwqqk9iv&pcode=thetradedeskvideo910663478306&data=imp%253d116054d6-3138-4880-bd20-4b32cca8d94f%2526ag%253debza5ce%2526crid%253dpwqqk9iv%2526cf%253d1366230%2526fq%253d1%2526td_s%253dfood.detik.com%2526rcats%253d%2526mcat%253d%2526mste%253d%2526mfld%253d4%2526mssi%253dNone%2526mfsi%253dm3hf9cauzf%2526sv%253dspotx%2526uhow%253d111%2526agsa%253d%2526wp%253d%2524MBR%2526rgco%253dIndonesia%2526rgre%253d%2526rgme%253d%2526rgci%253d%2526rgz%253d%2526dt%253dPC%2526osf%253dOSX%2526os%253dOther%2526br%253dChrome%2526svpid%253d280136%2526rlangs%253den%2526mlang%253d%2526did%253d44648.f3d94.ac8d%2526rcxt%253dOther%2526tmpc%253d%2526vrtd%253d14%252c15%2526osi%253d%2526osv%253d%2526daid%253d%2526dnr%253d0%2526vpb%253dPreRoll%2526c%253dMAQ4AUgAUAJYAQ..%2526dur%253dCkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..%2526crrelr%253d%2526npt%253d%2526svscid%253d280139%2526mk%253dApple%2526mdl%253dChrome%252520-%252520OS%252520X%2526pcm%253d1%2526ict%253dUnknown%2526said%253d0e341874643f11eaac391ce81dd60007%2526auct%253d3%2526sfe%253d10a178b9%2526vp%253d1&zMoatViewType=1&zMoatPartnerID=pfvg03w&zMoatDealID=44648.f3d94.ac8d&zMoatImpressionId=116054d6-3138-4880-bd20-4b32cca8d94f&zMoatSupplyVendor=spotx&zMoatSite=food.detik.com&zMoatCachebuster=431547&zMoatQI=0&zMoatPID=ecc3e767-3510-40d6-b991-d59a641f7f38&zMoatTO=3&zMoatDID=&zMoatApp=&zMoatDuration=6&vast=https%3a%2f%2fbs.serving-sys.com%2fServing%2fadServer.bs%3fc%3d23%26cn%3ddisplay%26pli%3d1075210052%26ord%3d204691",
+        "api_framework": "VPAID",
+        "playtime": 6,
+        "source_uri_external": true,
+        "bitrate": 5684,
+        "width": "640",
+        "transcoding": ["high"],
+        "media_url": "https://svastx.moatads.com/thetradedeskvideo910663478306/moatwrapper.js#level1=lhzsji1&level2=3s4mj60&level3=ebza5ce&level4=pwqqk9iv&pcode=thetradedeskvideo910663478306&data=imp%253d116054d6-3138-4880-bd20-4b32cca8d94f%2526ag%253debza5ce%2526crid%253dpwqqk9iv%2526cf%253d1366230%2526fq%253d1%2526td_s%253dfood.detik.com%2526rcats%253d%2526mcat%253d%2526mste%253d%2526mfld%253d4%2526mssi%253dNone%2526mfsi%253dm3hf9cauzf%2526sv%253dspotx%2526uhow%253d111%2526agsa%253d%2526wp%253d%2524MBR%2526rgco%253dIndonesia%2526rgre%253d%2526rgme%253d%2526rgci%253d%2526rgz%253d%2526dt%253dPC%2526osf%253dOSX%2526os%253dOther%2526br%253dChrome%2526svpid%253d280136%2526rlangs%253den%2526mlang%253d%2526did%253d44648.f3d94.ac8d%2526rcxt%253dOther%2526tmpc%253d%2526vrtd%253d14%252c15%2526osi%253d%2526osv%253d%2526daid%253d%2526dnr%253d0%2526vpb%253dPreRoll%2526c%253dMAQ4AUgAUAJYAQ..%2526dur%253dCkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..%2526crrelr%253d%2526npt%253d%2526svscid%253d280139%2526mk%253dApple%2526mdl%253dChrome%252520-%252520OS%252520X%2526pcm%253d1%2526ict%253dUnknown%2526said%253d0e341874643f11eaac391ce81dd60007%2526auct%253d3%2526sfe%253d10a178b9%2526vp%253d1&zMoatViewType=1&zMoatPartnerID=pfvg03w&zMoatDealID=44648.f3d94.ac8d&zMoatImpressionId=116054d6-3138-4880-bd20-4b32cca8d94f&zMoatSupplyVendor=spotx&zMoatSite=food.detik.com&zMoatCachebuster=431547&zMoatQI=0&zMoatPID=ecc3e767-3510-40d6-b991-d59a641f7f38&zMoatTO=3&zMoatDID=&zMoatApp=&zMoatDuration=6&vast=https%3a%2f%2fbs.serving-sys.com%2fServing%2fadServer.bs%3fc%3d23%26cn%3ddisplay%26pli%3d1075210052%26ord%3d204691"
+      },
+      "8": {
+        "vpi": "VPAID_JS",
+        "maintain_aspect_ratio": "",
+        "scalable": "",
+        "media_id": "",
+        "mime_type": "application/javascript",
+        "height": "360",
+        "source_uri": "https://svastx.moatads.com/thetradedeskvideo910663478306/moatwrapper.js#level1=lhzsji1&level2=3s4mj60&level3=ebza5ce&level4=pwqqk9iv&pcode=thetradedeskvideo910663478306&data=imp%253d116054d6-3138-4880-bd20-4b32cca8d94f%2526ag%253debza5ce%2526crid%253dpwqqk9iv%2526cf%253d1366230%2526fq%253d1%2526td_s%253dfood.detik.com%2526rcats%253d%2526mcat%253d%2526mste%253d%2526mfld%253d4%2526mssi%253dNone%2526mfsi%253dm3hf9cauzf%2526sv%253dspotx%2526uhow%253d111%2526agsa%253d%2526wp%253d%2524MBR%2526rgco%253dIndonesia%2526rgre%253d%2526rgme%253d%2526rgci%253d%2526rgz%253d%2526dt%253dPC%2526osf%253dOSX%2526os%253dOther%2526br%253dChrome%2526svpid%253d280136%2526rlangs%253den%2526mlang%253d%2526did%253d44648.f3d94.ac8d%2526rcxt%253dOther%2526tmpc%253d%2526vrtd%253d14%252c15%2526osi%253d%2526osv%253d%2526daid%253d%2526dnr%253d0%2526vpb%253dPreRoll%2526c%253dMAQ4AUgAUAJYAQ..%2526dur%253dCkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..%2526crrelr%253d%2526npt%253d%2526svscid%253d280139%2526mk%253dApple%2526mdl%253dChrome%252520-%252520OS%252520X%2526pcm%253d1%2526ict%253dUnknown%2526said%253d0e341874643f11eaac391ce81dd60007%2526auct%253d3%2526sfe%253d10a178b9%2526vp%253d1&zMoatViewType=1&zMoatPartnerID=pfvg03w&zMoatDealID=44648.f3d94.ac8d&zMoatImpressionId=116054d6-3138-4880-bd20-4b32cca8d94f&zMoatSupplyVendor=spotx&zMoatSite=food.detik.com&zMoatCachebuster=431547&zMoatQI=0&zMoatPID=ecc3e767-3510-40d6-b991-d59a641f7f38&zMoatTO=3&zMoatDID=&zMoatApp=&zMoatDuration=6&vast=https%3a%2f%2fbs.serving-sys.com%2fServing%2fadServer.bs%3fc%3d23%26cn%3ddisplay%26pli%3d1075210052%26ord%3d204691",
+        "api_framework": "VPAID",
+        "playtime": 6,
+        "source_uri_external": true,
+        "bitrate": 5806,
+        "width": "640",
+        "transcoding": ["high"],
+        "media_url": "https://svastx.moatads.com/thetradedeskvideo910663478306/moatwrapper.js#level1=lhzsji1&level2=3s4mj60&level3=ebza5ce&level4=pwqqk9iv&pcode=thetradedeskvideo910663478306&data=imp%253d116054d6-3138-4880-bd20-4b32cca8d94f%2526ag%253debza5ce%2526crid%253dpwqqk9iv%2526cf%253d1366230%2526fq%253d1%2526td_s%253dfood.detik.com%2526rcats%253d%2526mcat%253d%2526mste%253d%2526mfld%253d4%2526mssi%253dNone%2526mfsi%253dm3hf9cauzf%2526sv%253dspotx%2526uhow%253d111%2526agsa%253d%2526wp%253d%2524MBR%2526rgco%253dIndonesia%2526rgre%253d%2526rgme%253d%2526rgci%253d%2526rgz%253d%2526dt%253dPC%2526osf%253dOSX%2526os%253dOther%2526br%253dChrome%2526svpid%253d280136%2526rlangs%253den%2526mlang%253d%2526did%253d44648.f3d94.ac8d%2526rcxt%253dOther%2526tmpc%253d%2526vrtd%253d14%252c15%2526osi%253d%2526osv%253d%2526daid%253d%2526dnr%253d0%2526vpb%253dPreRoll%2526c%253dMAQ4AUgAUAJYAQ..%2526dur%253dCkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..%2526crrelr%253d%2526npt%253d%2526svscid%253d280139%2526mk%253dApple%2526mdl%253dChrome%252520-%252520OS%252520X%2526pcm%253d1%2526ict%253dUnknown%2526said%253d0e341874643f11eaac391ce81dd60007%2526auct%253d3%2526sfe%253d10a178b9%2526vp%253d1&zMoatViewType=1&zMoatPartnerID=pfvg03w&zMoatDealID=44648.f3d94.ac8d&zMoatImpressionId=116054d6-3138-4880-bd20-4b32cca8d94f&zMoatSupplyVendor=spotx&zMoatSite=food.detik.com&zMoatCachebuster=431547&zMoatQI=0&zMoatPID=ecc3e767-3510-40d6-b991-d59a641f7f38&zMoatTO=3&zMoatDID=&zMoatApp=&zMoatDuration=6&vast=https%3a%2f%2fbs.serving-sys.com%2fServing%2fadServer.bs%3fc%3d23%26cn%3ddisplay%26pli%3d1075210052%26ord%3d204691"
+      }
+    },
+    "ad_parameters": "",
+    "tracking": {
+      "beacon": [
+        {
+          "type": "impression",
+          "beacon_url": "https://sin01-event.spotxchange.com/vast/impression?_x=WzE1ODQwMDMyNTcsIjBlMzQxODc0NjQzZjExZWFhYzM5MWNlODFkZDYwMDA3IiwiMjgwMTM5IiwiNDQ2NDguZjNkOTQuYWM4ZCIsIjcwMjgiLCI0NDY0OC5mM2Q5NC5hYzhkIiwicHdxcWs5aXYiLCJhNmE4MTUxZS1hZTdjLTExZTktOTRiNy0xOTVkMzZhZjFlMDciLHRydWUsbnVsbCxbIjI4MDEzNiIsIjI4MDEzOSIsIjcwMjgiLCIyMDQ1IiwiZm9vZC5kZXRpay5jb20iLDEwMCxbInVuaWxldmVyLmNvbS5zZyJdLDE1MDAwLDE1MDAwLDEzNTAwLDEzNTAwLDBdLDE1MDAwLCJMIiwiMGUzY2I4ZjI2NDNmMTFlYWFjMzkxY2U4MWRkNjAwMDciXSZzZXRlYz1ZV0prT1RnNE9Ua3dNbUl4TURCbU1HSTRaVFl5WkdaaU1UTTBNalpsTnpFPQ~~",
+          "with_creds": false
+        },
+        {
+          "type": "complete",
+          "beacon_url": "https://event.spotxchange.com/vast/complete?_x=WzE1ODQwMDMyNTcsIjBlMzQxODc0NjQzZjExZWFhYzM5MWNlODFkZDYwMDA3IiwiMjgwMTM5IiwiNDQ2NDguZjNkOTQuYWM4ZCIsIjcwMjgiLCI0NDY0OC5mM2Q5NC5hYzhkIiwicHdxcWs5aXYiLCJhNmE4MTUxZS1hZTdjLTExZTktOTRiNy0xOTVkMzZhZjFlMDciLHRydWUsbnVsbCxbIjI4MDEzNiIsIjI4MDEzOSIsIjcwMjgiLCIyMDQ1IiwiZm9vZC5kZXRpay5jb20iLDEwMCxbInVuaWxldmVyLmNvbS5zZyJdLDE1MDAwLDE1MDAwLDEzNTAwLDEzNTAwLDBdLDE1MDAwLCJMIiwiMGUzY2I4ZjI2NDNmMTFlYWFjMzkxY2U4MWRkNjAwMDciXSZzZXRlYz1ZV0prT1RnNE9Ua3dNbUl4TURCbU1HSTRaVFl5WkdaaU1UTTBNalpsTnpFPQ~~",
+          "with_creds": false
+        },
+        {
+          "type": "firstQuartile",
+          "beacon_url": "https://event.spotxchange.com/vast/25?_x=WzE1ODQwMDMyNTcsIjBlMzQxODc0NjQzZjExZWFhYzM5MWNlODFkZDYwMDA3IiwiMjgwMTM5IiwiNDQ2NDguZjNkOTQuYWM4ZCIsIjcwMjgiLCI0NDY0OC5mM2Q5NC5hYzhkIiwicHdxcWs5aXYiLCIwZTNjYjhmMjY0M2YxMWVhYWMzOTFjZTgxZGQ2MDAwNyJdJnNldGVjPVlUQXhOelE1TURNNE5HUTJZalUxT1RsaE56Sm1ZemMyTm1FeVptUmlaRFk9",
+          "with_creds": false
+        },
+        {
+          "type": "midpoint",
+          "beacon_url": "https://event.spotxchange.com/vast/50?_x=WzE1ODQwMDMyNTcsIjBlMzQxODc0NjQzZjExZWFhYzM5MWNlODFkZDYwMDA3IiwiMjgwMTM5IiwiNDQ2NDguZjNkOTQuYWM4ZCIsIjcwMjgiLCI0NDY0OC5mM2Q5NC5hYzhkIiwicHdxcWs5aXYiLCIwZTNjYjhmMjY0M2YxMWVhYWMzOTFjZTgxZGQ2MDAwNyJdJnNldGVjPVlUQXhOelE1TURNNE5HUTJZalUxT1RsaE56Sm1ZemMyTm1FeVptUmlaRFk9",
+          "with_creds": false
+        },
+        {
+          "type": "thirdQuartile",
+          "beacon_url": "https://event.spotxchange.com/vast/75?_x=WzE1ODQwMDMyNTcsIjBlMzQxODc0NjQzZjExZWFhYzM5MWNlODFkZDYwMDA3IiwiMjgwMTM5IiwiNDQ2NDguZjNkOTQuYWM4ZCIsIjcwMjgiLCI0NDY0OC5mM2Q5NC5hYzhkIiwicHdxcWs5aXYiLCIwZTNjYjhmMjY0M2YxMWVhYWMzOTFjZTgxZGQ2MDAwNyJdJnNldGVjPVlUQXhOelE1TURNNE5HUTJZalUxT1RsaE56Sm1ZemMyTm1FeVptUmlaRFk9",
+          "with_creds": false
+        },
+        {
+          "type": "event",
+          "beacon_url": "https://event.spotxchange.com/event/d?_x=WzE1ODQwMDMyNTcsIjBlMzQxODc0NjQzZjExZWFhYzM5MWNlODFkZDYwMDA3IiwiMjgwMTM5IiwiNDQ2NDguZjNkOTQuYWM4ZCIsIjcwMjgiLCI0NDY0OC5mM2Q5NC5hYzhkIiwicHdxcWs5aXYiLCIwZTNjYjhmMjY0M2YxMWVhYWMzOTFjZTgxZGQ2MDAwNyJdJnNldGVjPVlUQXhOelE1TURNNE5HUTJZalUxT1RsaE56Sm1ZemMyTm1FeVptUmlaRFk9&es=$EVENT_SOURCE&ts=$TS&eid=$EVENT_ID",
+          "with_creds": false
+        },
+        {
+          "type": "exception",
+          "beacon_url": "https://search.spotxchange.com/exception?_a=280139&_p=44648.f3d94.ac8d&_z=1&_m=eNpFjW1rgzAUhe9%2BUOK9JvGlsC%2BjHQiNMHAU9y1opNHGSKusK%2Fvvm1sHOwcOPDwfjuSIAEAqk4giVimgFZKyVCZSdETWmEbk1NiM2jZBxBTiDEnkUGxBCh4L5CSIU45wnOfpsomiLoSWt3Z2A2%2BCj9zYBTYsJzfac9QymQuVqTjqwxDeHfNuXDzrjV%2BYGx27GD8ZxwQbzGklezRnx8xk2IeB8nW%2Fv78n8HCn3yH4WgOJxKtIcMV%2F9ed%2Fip%2B139FbtbvpuFbl4UXVlb7pg0YdF7Lun53ePnndD9eyKh6%2FAV1NTuw%3D&_l=eNp1j9tKw0AQhudZ9lrCZA%2FJtuCFoEKlKYgVjTdhszupiZs2pIlVat%2FdLVVQRHZ2Lr7%2Fn1MMMajwYwghZSJ1VAk3kZGx2v0Fs0tAcGR8cO%2BZYNM9K2vHpgwjxFixM9aZ9804fBNxRNuO1r89Y%2BlrW9CbfTbrFRUV0ZeMGGQ79mYgV7Smf6Gh88bSv96up7Ye2yMubNceJXY4wOJ%2BPj%2BlsOhdtxkeT%2BUwrmtPr9RHdtNG2xWkRieuclqgU0RYllwow1Nj0MVWywpS5BpUysUEOEp1asp1OC35MQXDEzzBiQL4yJe3u6y59k%2FLjGf8psmai12%2B9H7Bcx40mTVXMn%2BYxYs2P%2F8EmWFo1g%3D%3D&_t=eNpFUV1z2jAQ9E%2FJ6JmAPyhNPNMHWtJOWhwYasiY0tEI6Vwr2JZGEgRC%2Bt97ctLED7vS3e3pbg1HDtpJ1QYhJHx7VcajYVJGETDGk%2BuIw1UkxCgMw48Br5hsA2X%2BsFbyAN6EZ7IFxlVL3UkDSclbhvSIrtnJycaHR3g9SAGKHlgtBS2lsY6WhnVZTDJB7ck6aEh6JsZtPaHelco0FJOoqZitSNru67pHLK%2BgkyoNLZbTmMbYpQQQdG9qTFTO6XQz2AysbC%2B3Ulxardyxz4Q1B9PHRTYDjHYgwGCZT%2FsptSTpL7Kaj28neO2Yfv%2BJx2w%2BRPw6XSHe33zOkMbjL12oo2yeeByOEWffPC5mP5ZI%2BQr1v3HovdbKOPuyD0md2UOP8FpC66gBq%2BoDjv9omNZgLElLVtv3Aov2kTT82yOCOYYb5hVc5IYJuJiA3fnRUeWdT0nUDwkWWmCGV9Rq4J2fzPvtut5nIuAgOfgTHJ2nzgH6EqY4w%2Bsv9YZjr0YJqP%2Fbr%2BxrHL8gwNfC4G45nQZJPAqvPzwX%2BU1SPNwmWb5%2BKPKqWTfF6e5pXc8mC1nEi13WZFHRLB%2Bzp92nfy9l09o%3D&_b=eNozZfAL9fFBI2r8QzxNolwiK%2FxDkkF0VZS7W5ZfladJZJavkV94VK6%2Fi6exX4hTpr97qC0AcfcToA%3D%3D&beacon_type=exception&exception%5Bid%5D=%24EXCEPTION_ID&exception%5Bdata%5D=%24EXCEPTION_DATA&exception%5Btrace%5D=%24EXCEPTION_TRACE&syn%5Btiming%5D=%24TIMING_DATA"
+        },
+        {
+          "type": "thirdQuartile",
+          "beacon_url": "https://search.spotxchange.com/beacon?_a=280139&_p=44648.f3d94.ac8d&_z=1&_m=eNpFi90KgkAUhM8TxZw9x3W96E4JQTeMldA78efCHkCDnr2yDJqBgY%2BP0QNARBw5BcREMWEUZRerVZmYx67rJeF%2BdDwMFkBMxoEloTzdfjtYen5Dvi6KfZheW8gqVrHY8K9%2B%2FlM8ylCvPs3v5bU2zZwvbciWJvTqzeV2DpW0cwVvSvGn7PgG84MvUQ%3D%3D&_l=eNp1j0tLw0AUhe9vmbWEyTxiUnDXUAqNblIl2YTpzK1Nm6lDTCBS%2B9%2B9oQq6kPuC75zFuTHEoGlioOagVKLSaC9dpiJjUwfrJVGHpiP5wiRbXNiudWzBeMR5rNkdC%2BbjbRx%2BiJzRe8DzX8%2B461rb4GQP5vyKzR7xW%2BacZDv2ZkDXeNOfcAidsfivN%2FTo29HPuLHBzxK7XuFxu9nc1vwKUGh9L2QGgit94yKldMkvI6eSIuGZBvisV2tR%2BULSVU9lruvVVhZlMVVHq6rjc1e%2FEFvmU1XmD1%2F%2FjVBS&_t=eNpFUdFy2jAQ9Kdk9EzAxi5NPNMHUihDi4GmDh0oHY0snWMlxtJIMgml%2FfeeTDr1w%2B7p9vZ0OhfAuGqCEGJe3JTDURKXUQSM8fg24nATCTEKw%2FB9wCsmm0CZR9ZIHhQX15lcAupOGkhKDPDWGNk8kh7RNTs5efDpER6PUoCiR1ZLQUtprKOlYZ2KIhPUnqyDA0nPxLjCE%2FpdqcyBooieitmKpE1b1z1ieQWdVWlosJwO6RC7lACCtqZGoXJOp%2FvBfmBlc11IcW21cq99Jqw5mj6%2BYj%2FAbAcCDJZ52U%2BpJUl%2FkM16PJ%2FgsWP6%2BRuG2TpB%2FLTYIH6f3mVI4%2FHHLtVRto49JmPE1czj%2FerLA1K%2BQf9PHLrVWhlnL%2B8hqTMt9AivJTSOGrCqPuL4L4ZpDcaStGS1%2FV9gcX0kDf%2F0iGCO4QvzCq5ywwRcTcA%2B%2B9HRJVWDUtQPCRZaYIZX1Grg3T6Z37frep%2BJgKPk4CN4dZ66DdBLmuIMb7%2FULxx7HZSA%2Bt%2F6lX3L4xcEeFsYLB8WiyAejsLbd7%2BzX7tqOdsm23yaZLN5tMq3p%2BXTV%2BRptMvvZPZ0Xy8nz8luNv%2FwFzC3z5o%3D&_b=eNozYfAL9fFBI2r8w12NI3N9TfyyHE39QzKyorIcDfxcko19qxxNfF2CsiOznDL9XPyyfatCbQFnrxOe&beacon_type=recurring&view_percent=75"
+        },
+        {
+          "type": "midpoint",
+          "beacon_url": "https://search.spotxchange.com/beacon?_a=280139&_p=44648.f3d94.ac8d&_z=1&_m=eNpFi90KgkAUhM8TxZw9x3W96E4JQTeMldA78efCHkCDnr2yDJqBgY%2BP0QNARBw5BcREMWEUZRerVZmYx67rJeF%2BdDwMFkBMxoEloTzdfjtYen5Dvi6KfZheW8gqVrHY8K9%2B%2FlM8ylCvPs3v5bU2zZwvbciWJvTqzeV2DpW0cwVvSvGn7PgG84MvUQ%3D%3D&_l=eNp1j0tLw0AUhe9vmbWEyTxiUnDXUAqNblIl2YTpzK1Nm6lDTCBS%2B9%2B9oQq6kPuC75zFuTHEoGlioOagVKLSaC9dpiJjUwfrJVGHpiP5wiRbXNiudWzBeMR5rNkdC%2BbjbRx%2BiJzRe8DzX8%2B461rb4GQP5vyKzR7xW%2BacZDv2ZkDXeNOfcAidsfivN%2FTo29HPuLHBzxK7XuFxu9nc1vwKUGh9L2QGgit94yKldMkvI6eSIuGZBvisV2tR%2BULSVU9lruvVVhZlMVVHq6rjc1e%2FEFvmU1XmD1%2F%2FjVBS&_t=eNpFUdFy2jAQ9Kdk9EzAxi5NPNMHUihDi4GmDh0oHY0snWMlxtJIMgml%2FfeeTDr1w%2B7p9vZ0OhfAuGqCEGJe3JTDURKXUQSM8fg24nATCTEKw%2FB9wCsmm0CZR9ZIHhQX15lcAupOGkhKDPDWGNk8kh7RNTs5efDpER6PUoCiR1ZLQUtprKOlYZ2KIhPUnqyDA0nPxLjCE%2FpdqcyBooieitmKpE1b1z1ieQWdVWlosJwO6RC7lACCtqZGoXJOp%2FvBfmBlc11IcW21cq99Jqw5mj6%2BYj%2FAbAcCDJZ52U%2BpJUl%2FkM16PJ%2FgsWP6%2BRuG2TpB%2FLTYIH6f3mVI4%2FHHLtVRto49JmPE1czj%2FerLA1K%2BQf9PHLrVWhlnL%2B8hqTMt9AivJTSOGrCqPuL4L4ZpDcaStGS1%2FV9gcX0kDf%2F0iGCO4QvzCq5ywwRcTcA%2B%2B9HRJVWDUtQPCRZaYIZX1Grg3T6Z37frep%2BJgKPk4CN4dZ66DdBLmuIMb7%2FULxx7HZSA%2Bt%2F6lX3L4xcEeFsYLB8WiyAejsLbd7%2BzX7tqOdsm23yaZLN5tMq3p%2BXTV%2BRptMvvZPZ0Xy8nz8luNv%2FwFzC3z5o%3D&_b=eNozZvAL9fFBI2r8srJN%2FENcjf1cnHIjQ6Jyo3J9q6LC%2FbJ9XVwrfKu8cn1dQg0ic%2F2AMNQWAHwnFGs%3D&beacon_type=recurring&view_percent=50"
+        },
+        {
+          "type": "firstQuartile",
+          "beacon_url": "https://search.spotxchange.com/beacon?_a=280139&_p=44648.f3d94.ac8d&_z=1&_m=eNpFi90KgkAUhM8TxZw9x3W96E4JQTeMldA78efCHkCDnr2yDJqBgY%2BP0QNARBw5BcREMWEUZRerVZmYx67rJeF%2BdDwMFkBMxoEloTzdfjtYen5Dvi6KfZheW8gqVrHY8K9%2B%2FlM8ylCvPs3v5bU2zZwvbciWJvTqzeV2DpW0cwVvSvGn7PgG84MvUQ%3D%3D&_l=eNp1j0tLw0AUhe9vmbWEyTxiUnDXUAqNblIl2YTpzK1Nm6lDTCBS%2B9%2B9oQq6kPuC75zFuTHEoGlioOagVKLSaC9dpiJjUwfrJVGHpiP5wiRbXNiudWzBeMR5rNkdC%2BbjbRx%2BiJzRe8DzX8%2B461rb4GQP5vyKzR7xW%2BacZDv2ZkDXeNOfcAidsfivN%2FTo29HPuLHBzxK7XuFxu9nc1vwKUGh9L2QGgit94yKldMkvI6eSIuGZBvisV2tR%2BULSVU9lruvVVhZlMVVHq6rjc1e%2FEFvmU1XmD1%2F%2FjVBS&_t=eNpFUdFy2jAQ9Kdk9EzAxi5NPNMHUihDi4GmDh0oHY0snWMlxtJIMgml%2FfeeTDr1w%2B7p9vZ0OhfAuGqCEGJe3JTDURKXUQSM8fg24nATCTEKw%2FB9wCsmm0CZR9ZIHhQX15lcAupOGkhKDPDWGNk8kh7RNTs5efDpER6PUoCiR1ZLQUtprKOlYZ2KIhPUnqyDA0nPxLjCE%2FpdqcyBooieitmKpE1b1z1ieQWdVWlosJwO6RC7lACCtqZGoXJOp%2FvBfmBlc11IcW21cq99Jqw5mj6%2BYj%2FAbAcCDJZ52U%2BpJUl%2FkM16PJ%2FgsWP6%2BRuG2TpB%2FLTYIH6f3mVI4%2FHHLtVRto49JmPE1czj%2FerLA1K%2BQf9PHLrVWhlnL%2B8hqTMt9AivJTSOGrCqPuL4L4ZpDcaStGS1%2FV9gcX0kDf%2F0iGCO4QvzCq5ywwRcTcA%2B%2B9HRJVWDUtQPCRZaYIZX1Grg3T6Z37frep%2BJgKPk4CN4dZ66DdBLmuIMb7%2FULxx7HZSA%2Bt%2F6lX3L4xcEeFsYLB8WiyAejsLbd7%2BzX7tqOdsm23yaZLN5tMq3p%2BXTV%2BRptMvvZPZ0Xy8nz8luNv%2FwFzC3z5o%3D&_b=eNozYvAL9fFBI2p8qxwNIrOyK6JCUnL8XUIr%2FEIyMiOz0iv83X0rfLOyTX2rko38XVwrIqsibQGT7hUz&beacon_type=recurring&view_percent=25"
+        },
+        {
+          "type": "complete",
+          "beacon_url": "https://search.spotxchange.com/beacon?_a=280139&_p=44648.f3d94.ac8d&_z=1&_m=eNpFi90KgkAUhM8TxZw9x3W96E4JQTeMldA78efCHkCDnr2yDJqBgY%2BP0QNARBw5BcREMWEUZRerVZmYx67rJeF%2BdDwMFkBMxoEloTzdfjtYen5Dvi6KfZheW8gqVrHY8K9%2B%2FlM8ylCvPs3v5bU2zZwvbciWJvTqzeV2DpW0cwVvSvGn7PgG84MvUQ%3D%3D&_l=eNp1j0tLw0AUhe9vmbWEyTxiUnDXUAqNblIl2YTpzK1Nm6lDTCBS%2B9%2B9oQq6kPuC75zFuTHEoGlioOagVKLSaC9dpiJjUwfrJVGHpiP5wiRbXNiudWzBeMR5rNkdC%2BbjbRx%2BiJzRe8DzX8%2B461rb4GQP5vyKzR7xW%2BacZDv2ZkDXeNOfcAidsfivN%2FTo29HPuLHBzxK7XuFxu9nc1vwKUGh9L2QGgit94yKldMkvI6eSIuGZBvisV2tR%2BULSVU9lruvVVhZlMVVHq6rjc1e%2FEFvmU1XmD1%2F%2FjVBS&_t=eNpFUV1z2jAQ9E%2FJ6JmAPyhNPNMHUgLTFhWaGjK0dDRCOtcitqWRBA2h%2Fe89mXTqh93T7d3ptN4BF7qNYsjE7qZMR8OsTBLgXGS3iYCbRMpRHMdvI1Fx1Uba%2FuStEtHu0nUml4D5kwGSE6EbU4MH0iOm5ievmpAd4fGoJGh25LWSrFTWeVZa3qkocsncyXloSH4m1u8CYb8vtW0YithTcVeRvD3UdY84UUHXqg20WM5SluKUEkCyg61RqLw3%2BXawHTjVXu%2BUvHZG%2B%2Bc%2Bl84ebR8fsR1gtgMJFsuCHLY0iuTfyXo5%2FjDBY8fs41cM6XKIOJ2vER%2Fv7yjSePy%2BS3VEl1nA4RhxMQv4sPi0QirW2P8Dlz4Yo613l%2FeQ3NsD9IioFbSeWXC6PuL6vyw3Bqwjeclr97%2FAoX0kj%2F%2F0iOSe4wuLCq4KyyVcTcA9hdWxS%2BkWpaQfEyx0wK2omDMgOj958Nt3s89EwlEJCBE8%2B0CdA%2BySZrjD6x8NhuOsRkuo%2F9mv3WsevyjC2%2BLo82o%2Bj7J0FN%2B%2B%2Bf1tRmNaTBu6Hye0%2BZLSyV1FH1cvm%2F39cLOn8aKYPi1mD2rzQt%2F9BQ14z1k%3D&_b=eNozZPAL9fFBI2ois8Iy%2FN2DcvyqPCsjq7KN%2FKqSjaNy3TKjXMIy%2FLKyTfyyXMsjszyNfLN8bQGSHxTj&beacon_type=complete"
+        },
+        {
+          "type": "impression",
+          "beacon_url": "https://sin01-search.spotxchange.com/beacon?_a=280139&_p=44648.f3d94.ac8d&_z=1&_m=eNpFjW1rgzAUhe9%2BUOK9JvGlsC%2BjHQiNMHAU9y1opNHGSKusK%2Fvvm1sHOwcOPDwfjuSIAEAqk4giVimgFZKyVCZSdETWmEbk1NiM2jZBxBTiDEnkUGxBCh4L5CSIU45wnOfpsomiLoSWt3Z2A2%2BCj9zYBTYsJzfac9QymQuVqTjqwxDeHfNuXDzrjV%2BYGx27GD8ZxwQbzGklezRnx8xk2IeB8nW%2Fv78n8HCn3yH4WgOJxKtIcMV%2F9ed%2Fip%2B139FbtbvpuFbl4UXVlb7pg0YdF7Lun53ePnndD9eyKh6%2FAV1NTuw%3D&_l=eNp1j9tKw0AQhudZ9lrCZA%2FJtuCFoEKlKYgVjTdhszupiZs2pIlVat%2FdLVVQRHZ2Lr7%2Fn1MMMajwYwghZSJ1VAk3kZGx2v0Fs0tAcGR8cO%2BZYNM9K2vHpgwjxFixM9aZ9804fBNxRNuO1r89Y%2BlrW9CbfTbrFRUV0ZeMGGQ79mYgV7Smf6Gh88bSv96up7Ye2yMubNceJXY4wOJ%2BPj%2BlsOhdtxkeT%2BUwrmtPr9RHdtNG2xWkRieuclqgU0RYllwow1Nj0MVWywpS5BpUysUEOEp1asp1OC35MQXDEzzBiQL4yJe3u6y59k%2FLjGf8psmai12%2B9H7Bcx40mTVXMn%2BYxYs2P%2F8EmWFo1g%3D%3D&_t=eNpNUW1v2jAQzk%2Bp%2FJnSvFDaGu0DG%2B20bqGsy0AwJsuxL8RrEke2oTDGf985TNsi%2Be783D2X5845cKGbIIRE5LdFPBwkRRQB5yK5iwTcRlIOwzC8CUTJVRNos%2BGNEkF%2BZh3JOWDu0AKhxDpuHOmRtuIHp2oPDfG6UxI02%2FFKSVYoYx0rDO%2BymOSS2YN1UBN6JMbl3iHfFdrUDJPIKbktCW22VdUjVpTQUXULDZazmMXYpQCQbGsqTJTOtXR9tb6yqrnMlby0rXb7PpfW7EwfJ1hfIdoZCQbLfNqrbBWh38h8Nv4wwWvn2eMXDNPZAO3Dpznaxf3bFN14%2FK6DOpfOEm8HY7RP7719fvr4FV02R%2F53FL1tW22cPc9DqDNb6BFRKWgcM2B1tUP5r4a3LRhLaMEr%2B6%2FA4voIDU89IrnjOGFWwkVmuISLCdgXLx1ZSjeYivohwUIL3IiS2RZEt0%2Fu9%2B263kciYacE%2BAj2zrtuA%2BwMM9Tw5zkjbFRrCbjUuEc0cuMTfkGAPwkDTq%2Fp0dIhJa3Gd6%2FIyNIEBYShjwaUCOUOZKQoIqOuzsDGi%2Fwf2lQ691RFPXCDJL1tnPnLOwVJPAzvrn9Ns%2FLHdPFYTbOHl9XkuUqzVZkuPu%2BXcfozre%2F3yzp9XfmzWL75DQem560%3D&_b=eNozYPAL9fFBI2r8qiINfbNCDSOr%2FHJ8s7IrI41CTXyNIk0jQ5LLI7MCjf3cA6v8w8OyfXMDbQF9gxRO&beacon_type=start&aid=a6a8151e-ae7c-11e9-94b7-195d36af1e07&syn%5Btiming%5D=%24TIMING_DATA"
+        },
+        {
+          "type": "click",
+          "beacon_url": "https://search.spotxchange.com/click?_a=280139&_p=44648.f3d94.ac8d&_z=1&_m=eNpFjW1rgzAUhe9%2BUOK9JvGlsC%2BjHQiNMHAU9y1opNHGSKusK%2Fvvm1sHOwcOPDwfjuSIAEAqk4giVimgFZKyVCZSdETWmEbk1NiM2jZBxBTiDEnkUGxBCh4L5CSIU45wnOfpsomiLoSWt3Z2A2%2BCj9zYBTYsJzfac9QymQuVqTjqwxDeHfNuXDzrjV%2BYGx27GD8ZxwQbzGklezRnx8xk2IeB8nW%2Fv78n8HCn3yH4WgOJxKtIcMV%2F9ed%2Fip%2B139FbtbvpuFbl4UXVlb7pg0YdF7Lun53ePnndD9eyKh6%2FAV1NTuw%3D&_l=eNp1j9tKw0AQhudZ9lrCZA%2FJtuCFoEKlKYgVjTdhszupiZs2pIlVat%2FdLVVQRHZ2Lr7%2Fn1MMMajwYwghZSJ1VAk3kZGx2v0Fs0tAcGR8cO%2BZYNM9K2vHpgwjxFixM9aZ9804fBNxRNuO1r89Y%2BlrW9CbfTbrFRUV0ZeMGGQ79mYgV7Smf6Gh88bSv96up7Ye2yMubNceJXY4wOJ%2BPj%2BlsOhdtxkeT%2BUwrmtPr9RHdtNG2xWkRieuclqgU0RYllwow1Nj0MVWywpS5BpUysUEOEp1asp1OC35MQXDEzzBiQL4yJe3u6y59k%2FLjGf8psmai12%2B9H7Bcx40mTVXMn%2BYxYs2P%2F8EmWFo1g%3D%3D&_t=eNpVUF1P4zAQzG%2FxcwX5IoCrewAd6lOEhLg7UUDR1t4m20tiyzalodf%2FzrpFSOcX74xmxrNWPam%2FSYqFWl2t86os1lmGAKq4zhReZVpXaZpeJqoDGhPjWhhJJVvSaBp1tO7FgJqgIS2kEDOxNm6AcJqDg9Ero2lshXwWHbWdeJ2JgQZswmSRVWAtx0AgM76cb2ALXjmygc22hymwkkVVzKUePX3gKXlFnB0iyIu05IrMvZMOXVSXEXXIr8UeRRUh%2BcYHhzA0b64%2FZXgEp7rGW1RC7oUFBwMGdD4ijVtSGCfchXh5a8KuOdENt%2F5aIDvwPkYjZ%2BYzYdibH%2FgkSXaWpgnIC7n3spLCGh%2BgF3MvCyky7stTKYWiMIk5SWbmR53Dlr%2FiP6rtzSpaSUbikk3mbQzu23dIirxKry%2F%2B3S9%2BD0%2BPulsu7sr645aWi19T%2Fdi%2BP21udss%2FD939z9tNnd9N9ab%2B8QnA856T&_b=eNozYGDwC%2FXxYTBINU5OMUxLNTMxTjM0TE1MTDa2NExOtTBMSTFzAwKwqho%2F99CKqBC3jCj3oJyoXF9T3ypXI79cV2P%2FEF%2FjqHAgdo80iDTyNI0KCbQFAHohGhs%3D&daid=pwqqk9iv"
+        },
+        {
+          "beacon_url": "https://sg2-bid.adsrvr.org/bid/feedback/spotx?iid=116054d6-3138-4880-bd20-4b32cca8d94f&crid=pwqqk9iv&wp=0.8597&aid=1&wpc=USD&sfe=10a178b9&puid=&tdid=165919a5-4c9f-4fe2-a28e-7a0ef5240581&pid=pfvg03w&ag=ebza5ce&adv=lhzsji1&sig=Wp28cGMArZVusHZk12bTuO43pngj-Xt-7-RL2F0Hsic.&cf=1366230&fq=1&td_s=food.detik.com&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=m3hf9cauzf&uhow=111&agsa=&rgco=Indonesia&rgre=&rgme=&rgci=&rgz=&svbttd=1&dt=PC&osf=OSX&os=Other&br=Chrome&rlangs=en&mlang=&svpid=280136&did=44648.f3d94.ac8d&rcxt=Other&lat=&lon=&tmpc=&daid=&vp=1&osi=&osv=&bv=1&bp=1.74480703550863&mk=Apple&mdl=Chrome%20-%20OS%20X&vpb=PreRoll&c=MAQ4AUgAUAJYAQ..&dur=CkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..&crrelr=&pcm=1&said=0e341874643f11eaac391ce81dd60007&ict=Unknown&auct=3",
+          "type": "impression"
+        },
+        {
+          "beacon_url": "https://pixel.adsafeprotected.com/?anId=930223&advId=lhzsji1&campId=3s4mj60&pubId=spotx&chanId=ebza5ce&placementId=pwqqk9iv&dealId=44648.f3d94.ac8d&adsafe_par&bidurl=food.detik.com",
+          "type": "impression"
+        },
+        {
+          "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=creativeView&imp=116054d6-3138-4880-bd20-4b32cca8d94f&ag=ebza5ce&crid=pwqqk9iv&cf=1366230&fq=1&td_s=food.detik.com&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=m3hf9cauzf&sv=spotx&uhow=111&agsa=&wp=0.8597&rgco=Indonesia&rgre=&rgme=&rgci=&rgz=&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.f3d94.ac8d&rcxt=Other&tmpc=&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAJYAQ..&dur=CkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..&crrelr=&npt=&svscid=280139&mk=Apple&mdl=Chrome%20-%20OS%20X&pcm=1&ict=Unknown&said=0e341874643f11eaac391ce81dd60007&auct=3&sfe=10a178b9&vp=1",
+          "type": "creativeView"
+        },
+        {
+          "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=start&imp=116054d6-3138-4880-bd20-4b32cca8d94f&ag=ebza5ce&crid=pwqqk9iv&cf=1366230&fq=1&td_s=food.detik.com&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=m3hf9cauzf&sv=spotx&uhow=111&agsa=&wp=0.8597&rgco=Indonesia&rgre=&rgme=&rgci=&rgz=&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.f3d94.ac8d&rcxt=Other&tmpc=&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAJYAQ..&dur=CkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..&crrelr=&npt=&svscid=280139&mk=Apple&mdl=Chrome%20-%20OS%20X&pcm=1&ict=Unknown&said=0e341874643f11eaac391ce81dd60007&auct=3&sfe=10a178b9&vp=1&ast=[ASSETURI]",
+          "type": "start"
+        },
+        {
+          "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=midpoint&imp=116054d6-3138-4880-bd20-4b32cca8d94f&ag=ebza5ce&crid=pwqqk9iv&cf=1366230&fq=1&td_s=food.detik.com&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=m3hf9cauzf&sv=spotx&uhow=111&agsa=&wp=0.8597&rgco=Indonesia&rgre=&rgme=&rgci=&rgz=&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.f3d94.ac8d&rcxt=Other&tmpc=&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAJYAQ..&dur=CkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..&crrelr=&npt=&svscid=280139&mk=Apple&mdl=Chrome%20-%20OS%20X&pcm=1&ict=Unknown&said=0e341874643f11eaac391ce81dd60007&auct=3&sfe=10a178b9&vp=1",
+          "type": "midpoint"
+        },
+        {
+          "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=firstQuartile&imp=116054d6-3138-4880-bd20-4b32cca8d94f&ag=ebza5ce&crid=pwqqk9iv&cf=1366230&fq=1&td_s=food.detik.com&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=m3hf9cauzf&sv=spotx&uhow=111&agsa=&wp=0.8597&rgco=Indonesia&rgre=&rgme=&rgci=&rgz=&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.f3d94.ac8d&rcxt=Other&tmpc=&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAJYAQ..&dur=CkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..&crrelr=&npt=&svscid=280139&mk=Apple&mdl=Chrome%20-%20OS%20X&pcm=1&ict=Unknown&said=0e341874643f11eaac391ce81dd60007&auct=3&sfe=10a178b9&vp=1",
+          "type": "firstQuartile"
+        },
+        {
+          "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=thirdQuartile&imp=116054d6-3138-4880-bd20-4b32cca8d94f&ag=ebza5ce&crid=pwqqk9iv&cf=1366230&fq=1&td_s=food.detik.com&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=m3hf9cauzf&sv=spotx&uhow=111&agsa=&wp=0.8597&rgco=Indonesia&rgre=&rgme=&rgci=&rgz=&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.f3d94.ac8d&rcxt=Other&tmpc=&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAJYAQ..&dur=CkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..&crrelr=&npt=&svscid=280139&mk=Apple&mdl=Chrome%20-%20OS%20X&pcm=1&ict=Unknown&said=0e341874643f11eaac391ce81dd60007&auct=3&sfe=10a178b9&vp=1",
+          "type": "thirdQuartile"
+        },
+        {
+          "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=complete&imp=116054d6-3138-4880-bd20-4b32cca8d94f&ag=ebza5ce&crid=pwqqk9iv&cf=1366230&fq=1&td_s=food.detik.com&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=m3hf9cauzf&sv=spotx&uhow=111&agsa=&wp=0.8597&rgco=Indonesia&rgre=&rgme=&rgci=&rgz=&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.f3d94.ac8d&rcxt=Other&tmpc=&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAJYAQ..&dur=CkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..&crrelr=&npt=&svscid=280139&mk=Apple&mdl=Chrome%20-%20OS%20X&pcm=1&ict=Unknown&said=0e341874643f11eaac391ce81dd60007&auct=3&sfe=10a178b9&vp=1",
+          "type": "complete"
+        },
+        {
+          "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=mute&imp=116054d6-3138-4880-bd20-4b32cca8d94f&ag=ebza5ce&crid=pwqqk9iv&cf=1366230&fq=1&td_s=food.detik.com&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=m3hf9cauzf&sv=spotx&uhow=111&agsa=&wp=0.8597&rgco=Indonesia&rgre=&rgme=&rgci=&rgz=&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.f3d94.ac8d&rcxt=Other&tmpc=&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAJYAQ..&dur=CkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..&crrelr=&npt=&svscid=280139&mk=Apple&mdl=Chrome%20-%20OS%20X&pcm=1&ict=Unknown&said=0e341874643f11eaac391ce81dd60007&auct=3&sfe=10a178b9&vp=1",
+          "type": "mute"
+        },
+        {
+          "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=unmute&imp=116054d6-3138-4880-bd20-4b32cca8d94f&ag=ebza5ce&crid=pwqqk9iv&cf=1366230&fq=1&td_s=food.detik.com&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=m3hf9cauzf&sv=spotx&uhow=111&agsa=&wp=0.8597&rgco=Indonesia&rgre=&rgme=&rgci=&rgz=&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.f3d94.ac8d&rcxt=Other&tmpc=&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAJYAQ..&dur=CkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..&crrelr=&npt=&svscid=280139&mk=Apple&mdl=Chrome%20-%20OS%20X&pcm=1&ict=Unknown&said=0e341874643f11eaac391ce81dd60007&auct=3&sfe=10a178b9&vp=1",
+          "type": "unmute"
+        },
+        {
+          "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=pause&imp=116054d6-3138-4880-bd20-4b32cca8d94f&ag=ebza5ce&crid=pwqqk9iv&cf=1366230&fq=1&td_s=food.detik.com&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=m3hf9cauzf&sv=spotx&uhow=111&agsa=&wp=0.8597&rgco=Indonesia&rgre=&rgme=&rgci=&rgz=&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.f3d94.ac8d&rcxt=Other&tmpc=&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAJYAQ..&dur=CkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..&crrelr=&npt=&svscid=280139&mk=Apple&mdl=Chrome%20-%20OS%20X&pcm=1&ict=Unknown&said=0e341874643f11eaac391ce81dd60007&auct=3&sfe=10a178b9&vp=1",
+          "type": "pause"
+        },
+        {
+          "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=rewind&imp=116054d6-3138-4880-bd20-4b32cca8d94f&ag=ebza5ce&crid=pwqqk9iv&cf=1366230&fq=1&td_s=food.detik.com&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=m3hf9cauzf&sv=spotx&uhow=111&agsa=&wp=0.8597&rgco=Indonesia&rgre=&rgme=&rgci=&rgz=&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.f3d94.ac8d&rcxt=Other&tmpc=&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAJYAQ..&dur=CkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..&crrelr=&npt=&svscid=280139&mk=Apple&mdl=Chrome%20-%20OS%20X&pcm=1&ict=Unknown&said=0e341874643f11eaac391ce81dd60007&auct=3&sfe=10a178b9&vp=1",
+          "type": "rewind"
+        },
+        {
+          "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=resume&imp=116054d6-3138-4880-bd20-4b32cca8d94f&ag=ebza5ce&crid=pwqqk9iv&cf=1366230&fq=1&td_s=food.detik.com&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=m3hf9cauzf&sv=spotx&uhow=111&agsa=&wp=0.8597&rgco=Indonesia&rgre=&rgme=&rgci=&rgz=&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.f3d94.ac8d&rcxt=Other&tmpc=&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAJYAQ..&dur=CkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..&crrelr=&npt=&svscid=280139&mk=Apple&mdl=Chrome%20-%20OS%20X&pcm=1&ict=Unknown&said=0e341874643f11eaac391ce81dd60007&auct=3&sfe=10a178b9&vp=1",
+          "type": "resume"
+        },
+        {
+          "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=fullscreen&imp=116054d6-3138-4880-bd20-4b32cca8d94f&ag=ebza5ce&crid=pwqqk9iv&cf=1366230&fq=1&td_s=food.detik.com&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=m3hf9cauzf&sv=spotx&uhow=111&agsa=&wp=0.8597&rgco=Indonesia&rgre=&rgme=&rgci=&rgz=&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.f3d94.ac8d&rcxt=Other&tmpc=&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAJYAQ..&dur=CkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..&crrelr=&npt=&svscid=280139&mk=Apple&mdl=Chrome%20-%20OS%20X&pcm=1&ict=Unknown&said=0e341874643f11eaac391ce81dd60007&auct=3&sfe=10a178b9&vp=1",
+          "type": "fullscreen"
+        },
+        {
+          "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=expand&imp=116054d6-3138-4880-bd20-4b32cca8d94f&ag=ebza5ce&crid=pwqqk9iv&cf=1366230&fq=1&td_s=food.detik.com&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=m3hf9cauzf&sv=spotx&uhow=111&agsa=&wp=0.8597&rgco=Indonesia&rgre=&rgme=&rgci=&rgz=&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.f3d94.ac8d&rcxt=Other&tmpc=&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAJYAQ..&dur=CkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..&crrelr=&npt=&svscid=280139&mk=Apple&mdl=Chrome%20-%20OS%20X&pcm=1&ict=Unknown&said=0e341874643f11eaac391ce81dd60007&auct=3&sfe=10a178b9&vp=1",
+          "type": "expand"
+        },
+        {
+          "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=collapse&imp=116054d6-3138-4880-bd20-4b32cca8d94f&ag=ebza5ce&crid=pwqqk9iv&cf=1366230&fq=1&td_s=food.detik.com&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=m3hf9cauzf&sv=spotx&uhow=111&agsa=&wp=0.8597&rgco=Indonesia&rgre=&rgme=&rgci=&rgz=&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.f3d94.ac8d&rcxt=Other&tmpc=&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAJYAQ..&dur=CkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..&crrelr=&npt=&svscid=280139&mk=Apple&mdl=Chrome%20-%20OS%20X&pcm=1&ict=Unknown&said=0e341874643f11eaac391ce81dd60007&auct=3&sfe=10a178b9&vp=1",
+          "type": "collapse"
+        },
+        {
+          "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=acceptInvitation&imp=116054d6-3138-4880-bd20-4b32cca8d94f&ag=ebza5ce&crid=pwqqk9iv&cf=1366230&fq=1&td_s=food.detik.com&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=m3hf9cauzf&sv=spotx&uhow=111&agsa=&wp=0.8597&rgco=Indonesia&rgre=&rgme=&rgci=&rgz=&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.f3d94.ac8d&rcxt=Other&tmpc=&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAJYAQ..&dur=CkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..&crrelr=&npt=&svscid=280139&mk=Apple&mdl=Chrome%20-%20OS%20X&pcm=1&ict=Unknown&said=0e341874643f11eaac391ce81dd60007&auct=3&sfe=10a178b9&vp=1",
+          "type": "acceptInvitation"
+        },
+        {
+          "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=close&imp=116054d6-3138-4880-bd20-4b32cca8d94f&ag=ebza5ce&crid=pwqqk9iv&cf=1366230&fq=1&td_s=food.detik.com&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=m3hf9cauzf&sv=spotx&uhow=111&agsa=&wp=0.8597&rgco=Indonesia&rgre=&rgme=&rgci=&rgz=&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.f3d94.ac8d&rcxt=Other&tmpc=&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAJYAQ..&dur=CkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..&crrelr=&npt=&svscid=280139&mk=Apple&mdl=Chrome%20-%20OS%20X&pcm=1&ict=Unknown&said=0e341874643f11eaac391ce81dd60007&auct=3&sfe=10a178b9&vp=1",
+          "type": "close"
+        },
+        {
+          "beacon_url": "https://insight.adsrvr.org/track/clk?imp=116054d6-3138-4880-bd20-4b32cca8d94f&ag=ebza5ce&sfe=10a178b9&sig=Wp28cGMArZVusHZk12bTuO43pngj-Xt-7-RL2F0Hsic.&crid=pwqqk9iv&cf=1366230&fq=1&td_s=food.detik.com&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=m3hf9cauzf&sv=spotx&uhow=111&agsa=&wp=0.8597&rgco=Indonesia&rgre=&rgme=&rgci=&rgz=&dt=PC&osf=OSX&os=Other&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.f3d94.ac8d&rcxt=Other&tmpc=&vrtd=14,15&osi=&osv=&daid=&dnr=1&vpb=PreRoll&c=MAQ4AUgAUAJYAQ..&dur=CkwKB3h1a2RnaTAQrRQiEwjt-OIxEgx0aGV0cmFkZWRlc2siFgjt-OIxEg90aGV0cmFkZWRlc2tjcG0iEQiK8PkzEgpsb3RhZGlyZWN0CtYBCgdicTF0bjVnEOEMIhIIrNqjARILYWxsaWFuY2VkbHgiEgiXsKkBEgthbGxpYW5jZWRseCISCIvg3S8SC2FsbGlhbmNlZGx4IhIIjuDdLxILYWxsaWFuY2VkbHgiDgjXoe1LEgd6ZGtibmtpIg4I7aHtSxIHemRrYm5raSIOCPOh7UsSB3pka2Jua2kiDgiAou1LEgd6ZGtibmtpIg4IrqyaTBIHemRrYm5raSITCLOw7lISDGRhMTdhZmZpbml0eSITCOz9p28SDGRhMTdhZmZpbml0eRDhDA..&crrelr=&npt=&svscid=280139&mk=Apple&mdl=Chrome%20-%20OS%20X&pcm=1&ict=Unknown&said=0e341874643f11eaac391ce81dd60007&auct=3&r=",
+          "type": "click"
+        },
+        {
+          "type": "initialization",
+          "beacon_url": "https://sync.search.spotxchange.com/partner?source=spotx"
+        },
+        {
+          "type": "initialization",
+          "beacon_url": "https://usersync.videoamp.com/usersync/spotx?USER_ID=a6a8151e-ae7c-11e9-94b7-195d36af1e07"
+        },
+        {
+          "type": "initialization",
+          "beacon_url": "https://ad.sxp.smartclip.net/sync?type=red&dsp=48&dspuuid=a6a8151e-ae7c-11e9-94b7-195d36af1e07"
+        },
+        {
+          "type": "initialization",
+          "beacon_url": "https://sb.scorecardresearch.com/b?c1=1&c2=6272977&c3=280139&cv=1.3&cj=1"
+        },
+        {
+          "type": "initialization",
+          "beacon_url": "https://sb.scorecardresearch.com/p?c1=2&c2=6272977&ns_ap_sv=2.1511.10&ns_type=hidden&ns_st_it=a&ns_st_sv=4.0.0&ns_st_ad=1&ns_st_sq=1&ns_st_id=1584003257281962&ns_st_ec=1&ns_st_cn=1&ns_st_ev=play&ns_st_ct=va&ns_st_cl=0&ns_st_pt=0&c3=280139&c4=44648.f3d94.ac8d&c6=7028&ns_ts=1584003257281962"
+        },
+        {
+          "type": "complete",
+          "beacon_url": "https://sb.scorecardresearch.com/p?c1=2&c2=6272977&ns_ap_sv=2.1511.10&ns_type=hidden&ns_st_it=a&ns_st_sv=4.0.0&ns_st_ad=1&ns_st_sq=1&ns_st_id=1584003257281962&ns_st_ec=2&ns_st_cn=1&ns_st_ev=end&ns_st_ct=va&ns_st_cl=0&ns_st_pt=0&c3=280139&c4=44648.f3d94.ac8d&c6=7028&ns_ts=1584003257281962"
+        },
+        {
+          "type": "click",
+          "beacon_url": ""
+        }
+      ]
+    }
+  },
+  "ad_system": {
+    "data": "The Trade Desk",
+    "version": "1.0"
+  },
+  "referrer": "https://food.detik.com/info-kuliner/d-4935852/jokowi-minum-jamu-ini-sampai-3-kali-sehari-apa-ya",
+  "inventory_class": null,
+  "safety": null,
+  "client_playback": {
+    "playback_conf": {
+      "instream": [],
+      "third_party_tracking": {
+        "integral": false,
+        "whiteops": false,
+        "double_verify_noscript": false,
+        "lotame": false,
+        "moat": true,
+        "double_verify": true
+      },
+      "release_track": "prod"
+    },
+    "ados": {
+      "client_side": {
+        "total_timeout": 15000,
+        "feed_timeout": 2000,
+        "load_timeout": 120000
+      }
+    },
+    "publisher_name": "PT TRANS DIGITAL MEDIA (detik.com)",
+    "channel_id": 280139,
+    "publisher_id": 280136,
+    "channel_name": "Instream_Desktop_detik.com",
+    "custom_skin": 0
+  },
+  "skipit": {
+    "enabled": 1
+  },
+  "display": [],
+  "third_party_tracking": {
+    "providers": {
+      "moat": {
+        "id": "moat",
+        "parameters": {
+          "level1": "280136",
+          "level2": "280139",
+          "level3": "7028",
+          "level4": "44648.f3d94.ac8d",
+          "slicer1": "food.detik.com",
+          "partnerCode": "spotxchangejsvideo759622536126",
+          "zMoatImpressionId": "0e3cb8f2643f11eaac391ce81dd60007",
+          "zMoatAD": ["unilever.com.sg"]
+        }
+      }
+    }
+  },
+  "bundle_id": null,
+  "channel_id": "280139"
+}
+]]>            </AdParameters>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="application/javascript" bitrate="2250" width="640" height="360" apiFramework="VPAID"><![CDATA[https://cdn.spotxcdn.com/integration/instreamadbroker/v1/instreamadbroker/beta.js]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+      <Extensions>
+        <Extension type="Pricing">
+          <Price model="CPM" currency="USD" source="spotxchange"><![CDATA[1.35]]></Price>
+        </Extension>
+        <Extension type="SpotX-Count">
+          <total_available><![CDATA[1]]></total_available>
+        </Extension>
+        <Extension type="Spotx-Regs">
+          <GDPR>0</GDPR>
+        </Extension>
+        <Extension type="Spotx-User">
+          <consent>2</consent>
+        </Extension>
+      </Extensions>
+    </InLine>
+  </Ad>
+</VAST>
