@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<VAST version="2.0">
+  <Ad>
+    <InLine>
+      <AdSystem>SpotX</AdSystem>
+      <AdTitle>Biore Guard Body Foam Itchy Everywhere</AdTitle>
+      <Description></Description>
+      <Impression>
+        <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_impression ]]>
+      </Impression>
+      <Creatives>
+        <Creative sequence="1">
+          <Linear skipoffset="00:00:05">
+            <Duration>00:00:30</Duration>
+            <TrackingEvents>
+              <Tracking event="start">
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_start ]]>
+              </Tracking>
+              <Tracking event="firstQuartile">
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_firstQuartile ]]>
+              </Tracking>
+              <Tracking event="midpoint">
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_midpoint ]]>
+              </Tracking>
+              <Tracking event="thirdQuartile">
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_thirdQuartile ]]>
+              </Tracking>
+              <Tracking event="complete">
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_complete ]]>
+              </Tracking>
+              <Tracking event="skip">
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_skip ]]>
+              </Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough>
+                <![CDATA[ https://www.indonesiabiore.com/Page/body/guard?utm_source=Iflix&utm_campaign=Biore%20Body%20Guard ]]>
+              </ClickThrough>
+              <ClickTracking>
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_VideoClickTracking ]]>
+              </ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" bitrate="766" width="550" height="413">
+                <![CDATA[ https://cdn.spotxcdn.com/media/videos/orig/6/6/661f1b0c81e1bf0f283d88dba12154d1.mp4 ]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+      <Extensions/>
+    </InLine>
+  </Ad>
+</VAST>
