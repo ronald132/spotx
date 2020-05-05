@@ -1,0 +1,94 @@
+<VAST version='2.0'>
+	<Ad id='d5a929d3-dd87-42c3-8b34-c4db401073fb'>
+		<Wrapper>
+			<AdSystem version='1.0'>The Trade Desk</AdSystem>
+			<VASTAdTagURI>
+				<![CDATA[https://vast.doubleverify.com/v3/vast?_api=[APIFRAMEWORKS]&_ssm=[SERVERSIDE]&_tsm=[TIMESTAMP]&_media=3&ctx=15425320&cmp=1073997740&sid=1073890163&plc=1075395927&adsrv=166&blk=1&_vast=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fc%3D23%26cn%3Ddisplay%26pli%3D1075395927%26ord%3D%7Bs1%7D&_s1=874126&DVP_PROG_REP=1&DVP_DV_TT=4&DVP_PP_ID=2&prr=1&DVP_DV_CT=2&DVP_PP_IMP_ID=d5a929d3-dd87-42c3-8b34-c4db401073fb&DVP_PP_UID=&DVP_PP_DEAL_ID=3c67b.50c78.f2aa&DVP_TTD_1=pfvg03w&DVP_TTD_2=lhzsji1&DVP_TTD_3=wjv422c&DVP_TTD_4=zw2etza&DVP_TTD_5=z75rq6jh&DVP_TTD_6=spotx&DVP_TTD_7=&turl=com.vidio.android&DVP_TTD_8=247419]]>
+			</VASTAdTagURI>
+			<Error>
+				<![CDATA[http://insight.adsrvr.org/enduser/video/?ve=error&vec=[ERRORCODE]&ast=[ASSETURI]&imp=d5a929d3-dd87-42c3-8b34-c4db401073fb&ag=wjv422c&crid=z75rq6jh&cf=1420879&fq=0&td_s=com.vidio.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=qv0ri1wg24&sv=spotx&uhow=62&agsa=&wp=$MBR&rgco=Indonesia&rgre=West%20Java&rgme=&rgci=Bekasi&rgz=&dt=Mobile&osf=Android&os=Android60&br=WebView&svpid=247419&rlangs=01&mlang=&did=3c67b.50c78.f2aa&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=55a7252e-392d-b55a-9c15-fcdb44ad60d4&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAFYAQ..&dur=&crrelr=&npt=&svscid=286157&mk=Samsung&mdl=SM-G920P&ict=Unknown&said=b69d2f88892211ea8e2d1c97c0f70001&auct=3&sfe=10df5e45&vp=1]]>
+			</Error>
+			<Impression>
+				<![CDATA[http://sg2-bid.adsrvr.org/bid/feedback/spotx?iid=d5a929d3-dd87-42c3-8b34-c4db401073fb&crid=z75rq6jh&wp=$MBR&aid=1&wpc=USD&sfe=10df5e45&puid=&tdid=&pid=pfvg03w&ag=wjv422c&adv=lhzsji1&sig=1WayeK1G2fhUl7ut8LuHvK06A76dXWJew95RyI_lVL2E.&bp=1.21&cf=1420879&fq=0&td_s=com.vidio.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=qv0ri1wg24&uhow=62&agsa=&rgco=Indonesia&rgre=West%20Java&rgme=&rgci=Bekasi&rgz=&svbttd=1&dt=Mobile&osf=Android&os=Android60&br=WebView&rlangs=01&mlang=&svpid=247419&did=3c67b.50c78.f2aa&rcxt=InApp&lat=-6.235200&lon=106.992200&tmpc=&daid=55a7252e-392d-b55a-9c15-fcdb44ad60d4&vp=1&osi=&osv=&bv=1&mk=Samsung&mdl=SM-G920P&vpb=PreRoll&c=MAQ4AUgAUAFYAQ..&dur=&crrelr=&cx=7544349687368596461&said=b69d2f88892211ea8e2d1c97c0f70001&ict=Unknown&auct=3&im=1]]>
+			</Impression>
+			<Impression>
+				<![CDATA[https://pixel.adsafeprotected.com/?anId=930223&advId=lhzsji1&campId=zw2etza&pubId=spotx&chanId=wjv422c&placementId=z75rq6jh&dealId=3c67b.50c78.f2aa&adsafe_par&bidurl=com.vidio.android]]>
+			</Impression>
+			<Creatives>
+				<Creative id='z75rq6jh' AdID='z75rq6jh'>
+					<Linear>
+						<TrackingEvents>
+							<Tracking event='creativeView'>
+								<![CDATA[http://insight.adsrvr.org/enduser/video/?ve=creativeView&imp=d5a929d3-dd87-42c3-8b34-c4db401073fb&ag=wjv422c&crid=z75rq6jh&cf=1420879&fq=0&td_s=com.vidio.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=qv0ri1wg24&sv=spotx&uhow=62&agsa=&wp=$MBR&rgco=Indonesia&rgre=West%20Java&rgme=&rgci=Bekasi&rgz=&dt=Mobile&osf=Android&os=Android60&br=WebView&svpid=247419&rlangs=01&mlang=&did=3c67b.50c78.f2aa&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=55a7252e-392d-b55a-9c15-fcdb44ad60d4&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAFYAQ..&dur=&crrelr=&npt=&svscid=286157&mk=Samsung&mdl=SM-G920P&ict=Unknown&said=b69d2f88892211ea8e2d1c97c0f70001&auct=3&sfe=10df5e45&vp=1]]>
+							</Tracking>
+							<Tracking event='start'>
+								<![CDATA[http://insight.adsrvr.org/enduser/video/?ve=start&imp=d5a929d3-dd87-42c3-8b34-c4db401073fb&ag=wjv422c&crid=z75rq6jh&cf=1420879&fq=0&td_s=com.vidio.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=qv0ri1wg24&sv=spotx&uhow=62&agsa=&wp=$MBR&rgco=Indonesia&rgre=West%20Java&rgme=&rgci=Bekasi&rgz=&dt=Mobile&osf=Android&os=Android60&br=WebView&svpid=247419&rlangs=01&mlang=&did=3c67b.50c78.f2aa&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=55a7252e-392d-b55a-9c15-fcdb44ad60d4&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAFYAQ..&dur=&crrelr=&npt=&svscid=286157&mk=Samsung&mdl=SM-G920P&ict=Unknown&said=b69d2f88892211ea8e2d1c97c0f70001&auct=3&sfe=10df5e45&vp=1&ast=[ASSETURI]]]>
+							</Tracking>
+							<Tracking event='midpoint'>
+								<![CDATA[http://insight.adsrvr.org/enduser/video/?ve=midpoint&imp=d5a929d3-dd87-42c3-8b34-c4db401073fb&ag=wjv422c&crid=z75rq6jh&cf=1420879&fq=0&td_s=com.vidio.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=qv0ri1wg24&sv=spotx&uhow=62&agsa=&wp=$MBR&rgco=Indonesia&rgre=West%20Java&rgme=&rgci=Bekasi&rgz=&dt=Mobile&osf=Android&os=Android60&br=WebView&svpid=247419&rlangs=01&mlang=&did=3c67b.50c78.f2aa&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=55a7252e-392d-b55a-9c15-fcdb44ad60d4&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAFYAQ..&dur=&crrelr=&npt=&svscid=286157&mk=Samsung&mdl=SM-G920P&ict=Unknown&said=b69d2f88892211ea8e2d1c97c0f70001&auct=3&sfe=10df5e45&vp=1]]>
+							</Tracking>
+							<Tracking event='firstQuartile'>
+								<![CDATA[http://insight.adsrvr.org/enduser/video/?ve=firstQuartile&imp=d5a929d3-dd87-42c3-8b34-c4db401073fb&ag=wjv422c&crid=z75rq6jh&cf=1420879&fq=0&td_s=com.vidio.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=qv0ri1wg24&sv=spotx&uhow=62&agsa=&wp=$MBR&rgco=Indonesia&rgre=West%20Java&rgme=&rgci=Bekasi&rgz=&dt=Mobile&osf=Android&os=Android60&br=WebView&svpid=247419&rlangs=01&mlang=&did=3c67b.50c78.f2aa&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=55a7252e-392d-b55a-9c15-fcdb44ad60d4&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAFYAQ..&dur=&crrelr=&npt=&svscid=286157&mk=Samsung&mdl=SM-G920P&ict=Unknown&said=b69d2f88892211ea8e2d1c97c0f70001&auct=3&sfe=10df5e45&vp=1]]>
+							</Tracking>
+							<Tracking event='thirdQuartile'>
+								<![CDATA[http://insight.adsrvr.org/enduser/video/?ve=thirdQuartile&imp=d5a929d3-dd87-42c3-8b34-c4db401073fb&ag=wjv422c&crid=z75rq6jh&cf=1420879&fq=0&td_s=com.vidio.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=qv0ri1wg24&sv=spotx&uhow=62&agsa=&wp=$MBR&rgco=Indonesia&rgre=West%20Java&rgme=&rgci=Bekasi&rgz=&dt=Mobile&osf=Android&os=Android60&br=WebView&svpid=247419&rlangs=01&mlang=&did=3c67b.50c78.f2aa&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=55a7252e-392d-b55a-9c15-fcdb44ad60d4&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAFYAQ..&dur=&crrelr=&npt=&svscid=286157&mk=Samsung&mdl=SM-G920P&ict=Unknown&said=b69d2f88892211ea8e2d1c97c0f70001&auct=3&sfe=10df5e45&vp=1]]>
+							</Tracking>
+							<Tracking event='complete'>
+								<![CDATA[http://insight.adsrvr.org/enduser/video/?ve=complete&imp=d5a929d3-dd87-42c3-8b34-c4db401073fb&ag=wjv422c&crid=z75rq6jh&cf=1420879&fq=0&td_s=com.vidio.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=qv0ri1wg24&sv=spotx&uhow=62&agsa=&wp=$MBR&rgco=Indonesia&rgre=West%20Java&rgme=&rgci=Bekasi&rgz=&dt=Mobile&osf=Android&os=Android60&br=WebView&svpid=247419&rlangs=01&mlang=&did=3c67b.50c78.f2aa&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=55a7252e-392d-b55a-9c15-fcdb44ad60d4&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAFYAQ..&dur=&crrelr=&npt=&svscid=286157&mk=Samsung&mdl=SM-G920P&ict=Unknown&said=b69d2f88892211ea8e2d1c97c0f70001&auct=3&sfe=10df5e45&vp=1]]>
+							</Tracking>
+							<Tracking event='mute'>
+								<![CDATA[http://insight.adsrvr.org/enduser/video/?ve=mute&imp=d5a929d3-dd87-42c3-8b34-c4db401073fb&ag=wjv422c&crid=z75rq6jh&cf=1420879&fq=0&td_s=com.vidio.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=qv0ri1wg24&sv=spotx&uhow=62&agsa=&wp=$MBR&rgco=Indonesia&rgre=West%20Java&rgme=&rgci=Bekasi&rgz=&dt=Mobile&osf=Android&os=Android60&br=WebView&svpid=247419&rlangs=01&mlang=&did=3c67b.50c78.f2aa&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=55a7252e-392d-b55a-9c15-fcdb44ad60d4&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAFYAQ..&dur=&crrelr=&npt=&svscid=286157&mk=Samsung&mdl=SM-G920P&ict=Unknown&said=b69d2f88892211ea8e2d1c97c0f70001&auct=3&sfe=10df5e45&vp=1]]>
+							</Tracking>
+							<Tracking event='unmute'>
+								<![CDATA[http://insight.adsrvr.org/enduser/video/?ve=unmute&imp=d5a929d3-dd87-42c3-8b34-c4db401073fb&ag=wjv422c&crid=z75rq6jh&cf=1420879&fq=0&td_s=com.vidio.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=qv0ri1wg24&sv=spotx&uhow=62&agsa=&wp=$MBR&rgco=Indonesia&rgre=West%20Java&rgme=&rgci=Bekasi&rgz=&dt=Mobile&osf=Android&os=Android60&br=WebView&svpid=247419&rlangs=01&mlang=&did=3c67b.50c78.f2aa&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=55a7252e-392d-b55a-9c15-fcdb44ad60d4&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAFYAQ..&dur=&crrelr=&npt=&svscid=286157&mk=Samsung&mdl=SM-G920P&ict=Unknown&said=b69d2f88892211ea8e2d1c97c0f70001&auct=3&sfe=10df5e45&vp=1]]>
+							</Tracking>
+							<Tracking event='pause'>
+								<![CDATA[http://insight.adsrvr.org/enduser/video/?ve=pause&imp=d5a929d3-dd87-42c3-8b34-c4db401073fb&ag=wjv422c&crid=z75rq6jh&cf=1420879&fq=0&td_s=com.vidio.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=qv0ri1wg24&sv=spotx&uhow=62&agsa=&wp=$MBR&rgco=Indonesia&rgre=West%20Java&rgme=&rgci=Bekasi&rgz=&dt=Mobile&osf=Android&os=Android60&br=WebView&svpid=247419&rlangs=01&mlang=&did=3c67b.50c78.f2aa&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=55a7252e-392d-b55a-9c15-fcdb44ad60d4&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAFYAQ..&dur=&crrelr=&npt=&svscid=286157&mk=Samsung&mdl=SM-G920P&ict=Unknown&said=b69d2f88892211ea8e2d1c97c0f70001&auct=3&sfe=10df5e45&vp=1]]>
+							</Tracking>
+							<Tracking event='rewind'>
+								<![CDATA[http://insight.adsrvr.org/enduser/video/?ve=rewind&imp=d5a929d3-dd87-42c3-8b34-c4db401073fb&ag=wjv422c&crid=z75rq6jh&cf=1420879&fq=0&td_s=com.vidio.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=qv0ri1wg24&sv=spotx&uhow=62&agsa=&wp=$MBR&rgco=Indonesia&rgre=West%20Java&rgme=&rgci=Bekasi&rgz=&dt=Mobile&osf=Android&os=Android60&br=WebView&svpid=247419&rlangs=01&mlang=&did=3c67b.50c78.f2aa&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=55a7252e-392d-b55a-9c15-fcdb44ad60d4&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAFYAQ..&dur=&crrelr=&npt=&svscid=286157&mk=Samsung&mdl=SM-G920P&ict=Unknown&said=b69d2f88892211ea8e2d1c97c0f70001&auct=3&sfe=10df5e45&vp=1]]>
+							</Tracking>
+							<Tracking event='resume'>
+								<![CDATA[http://insight.adsrvr.org/enduser/video/?ve=resume&imp=d5a929d3-dd87-42c3-8b34-c4db401073fb&ag=wjv422c&crid=z75rq6jh&cf=1420879&fq=0&td_s=com.vidio.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=qv0ri1wg24&sv=spotx&uhow=62&agsa=&wp=$MBR&rgco=Indonesia&rgre=West%20Java&rgme=&rgci=Bekasi&rgz=&dt=Mobile&osf=Android&os=Android60&br=WebView&svpid=247419&rlangs=01&mlang=&did=3c67b.50c78.f2aa&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=55a7252e-392d-b55a-9c15-fcdb44ad60d4&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAFYAQ..&dur=&crrelr=&npt=&svscid=286157&mk=Samsung&mdl=SM-G920P&ict=Unknown&said=b69d2f88892211ea8e2d1c97c0f70001&auct=3&sfe=10df5e45&vp=1]]>
+							</Tracking>
+							<Tracking event='fullscreen'>
+								<![CDATA[http://insight.adsrvr.org/enduser/video/?ve=fullscreen&imp=d5a929d3-dd87-42c3-8b34-c4db401073fb&ag=wjv422c&crid=z75rq6jh&cf=1420879&fq=0&td_s=com.vidio.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=qv0ri1wg24&sv=spotx&uhow=62&agsa=&wp=$MBR&rgco=Indonesia&rgre=West%20Java&rgme=&rgci=Bekasi&rgz=&dt=Mobile&osf=Android&os=Android60&br=WebView&svpid=247419&rlangs=01&mlang=&did=3c67b.50c78.f2aa&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=55a7252e-392d-b55a-9c15-fcdb44ad60d4&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAFYAQ..&dur=&crrelr=&npt=&svscid=286157&mk=Samsung&mdl=SM-G920P&ict=Unknown&said=b69d2f88892211ea8e2d1c97c0f70001&auct=3&sfe=10df5e45&vp=1]]>
+							</Tracking>
+							<Tracking event='expand'>
+								<![CDATA[http://insight.adsrvr.org/enduser/video/?ve=expand&imp=d5a929d3-dd87-42c3-8b34-c4db401073fb&ag=wjv422c&crid=z75rq6jh&cf=1420879&fq=0&td_s=com.vidio.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=qv0ri1wg24&sv=spotx&uhow=62&agsa=&wp=$MBR&rgco=Indonesia&rgre=West%20Java&rgme=&rgci=Bekasi&rgz=&dt=Mobile&osf=Android&os=Android60&br=WebView&svpid=247419&rlangs=01&mlang=&did=3c67b.50c78.f2aa&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=55a7252e-392d-b55a-9c15-fcdb44ad60d4&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAFYAQ..&dur=&crrelr=&npt=&svscid=286157&mk=Samsung&mdl=SM-G920P&ict=Unknown&said=b69d2f88892211ea8e2d1c97c0f70001&auct=3&sfe=10df5e45&vp=1]]>
+							</Tracking>
+							<Tracking event='collapse'>
+								<![CDATA[http://insight.adsrvr.org/enduser/video/?ve=collapse&imp=d5a929d3-dd87-42c3-8b34-c4db401073fb&ag=wjv422c&crid=z75rq6jh&cf=1420879&fq=0&td_s=com.vidio.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=qv0ri1wg24&sv=spotx&uhow=62&agsa=&wp=$MBR&rgco=Indonesia&rgre=West%20Java&rgme=&rgci=Bekasi&rgz=&dt=Mobile&osf=Android&os=Android60&br=WebView&svpid=247419&rlangs=01&mlang=&did=3c67b.50c78.f2aa&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=55a7252e-392d-b55a-9c15-fcdb44ad60d4&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAFYAQ..&dur=&crrelr=&npt=&svscid=286157&mk=Samsung&mdl=SM-G920P&ict=Unknown&said=b69d2f88892211ea8e2d1c97c0f70001&auct=3&sfe=10df5e45&vp=1]]>
+							</Tracking>
+							<Tracking event='acceptInvitation'>
+								<![CDATA[http://insight.adsrvr.org/enduser/video/?ve=acceptInvitation&imp=d5a929d3-dd87-42c3-8b34-c4db401073fb&ag=wjv422c&crid=z75rq6jh&cf=1420879&fq=0&td_s=com.vidio.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=qv0ri1wg24&sv=spotx&uhow=62&agsa=&wp=$MBR&rgco=Indonesia&rgre=West%20Java&rgme=&rgci=Bekasi&rgz=&dt=Mobile&osf=Android&os=Android60&br=WebView&svpid=247419&rlangs=01&mlang=&did=3c67b.50c78.f2aa&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=55a7252e-392d-b55a-9c15-fcdb44ad60d4&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAFYAQ..&dur=&crrelr=&npt=&svscid=286157&mk=Samsung&mdl=SM-G920P&ict=Unknown&said=b69d2f88892211ea8e2d1c97c0f70001&auct=3&sfe=10df5e45&vp=1]]>
+							</Tracking>
+							<Tracking event='close'>
+								<![CDATA[http://insight.adsrvr.org/enduser/video/?ve=close&imp=d5a929d3-dd87-42c3-8b34-c4db401073fb&ag=wjv422c&crid=z75rq6jh&cf=1420879&fq=0&td_s=com.vidio.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=qv0ri1wg24&sv=spotx&uhow=62&agsa=&wp=$MBR&rgco=Indonesia&rgre=West%20Java&rgme=&rgci=Bekasi&rgz=&dt=Mobile&osf=Android&os=Android60&br=WebView&svpid=247419&rlangs=01&mlang=&did=3c67b.50c78.f2aa&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=55a7252e-392d-b55a-9c15-fcdb44ad60d4&dnr=0&vpb=PreRoll&c=MAQ4AUgAUAFYAQ..&dur=&crrelr=&npt=&svscid=286157&mk=Samsung&mdl=SM-G920P&ict=Unknown&said=b69d2f88892211ea8e2d1c97c0f70001&auct=3&sfe=10df5e45&vp=1]]>
+							</Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickTracking>
+								<![CDATA[http://insight.adsrvr.org/track/clk?imp=d5a929d3-dd87-42c3-8b34-c4db401073fb&ag=wjv422c&sfe=10df5e45&sig=XzSZ8OgIGAc2oG_ezrLpBZaLnbUGJ1rVLWKU0a_YGXw.&crid=z75rq6jh&cf=1420879&fq=0&td_s=com.vidio.android&rcats=app-4mg,app-zgp&mcat=&mste=&mfld=4&mssi=None&mfsi=qv0ri1wg24&sv=spotx&uhow=62&agsa=&wp=$MBR&rgco=Indonesia&rgre=West%20Java&rgme=&rgci=Bekasi&rgz=&dt=Mobile&osf=Android&os=Android60&br=WebView&svpid=247419&rlangs=01&mlang=&did=3c67b.50c78.f2aa&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=55a7252e-392d-b55a-9c15-fcdb44ad60d4&dnr=1&vpb=PreRoll&c=MAQ4AUgAUAFYAQ..&dur=&crrelr=&npt=&svscid=286157&mk=Samsung&mdl=SM-G920P&ict=Unknown&said=b69d2f88892211ea8e2d1c97c0f70001&auct=3&r=]]>
+							</ClickTracking>
+						</VideoClicks>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<Extensions>
+				<Extension type=\"AdVerifications\">
+					<AdVerifications>
+						<Verification vendor=\"moat.com-thetradedeskvideo910663478306\">
+							<JavaScriptResource apiFramework=\"omid\" browserOptional=\"true\">
+								<![CDATA[ https://z.moatads.com/thetradedeskvideo910663478306/moatvideo.js ]]>
+							</JavaScriptResource>
+							<VerificationParameters>
+								<![CDATA[{\"moatClientLevel1\": \"lhzsji1\", \"moatClientLevel2\": \"zw2etza\", \"moatClientLevel3\": \"wjv422c\", \"moatClientLevel4\": \"z75rq6jh\", \"zMoatViewType\": \"1\", \"zMoatDealID\": \"3c67b.50c78.f2aa\", \"zMoatPartnerID\": \"pfvg03w\", \"zMoatQI\": \"0\", \"zMoatSupplyVendor\": \"spotx\", \"zMoatCachebuster\": \"718037\", \"zMoatSite\": \"com.vidio.android\", \"zMoatDID\": \"55a7252e-392d-b55a-9c15-fcdb44ad60d4\", \"zMoatPID\": \"\", \"zMoatApp\": \"com.vidio.android\", \"zMoatImpressionId\": \"d5a929d3-dd87-42c3-8b34-c4db401073fb\", \"zMoatTDID\": \"\", \"data\": \"imp%253dd5a929d3-dd87-42c3-8b34-c4db401073fb%2526ag%253dwjv422c%2526crid%253dz75rq6jh%2526cf%253d1420879%2526fq%253d0%2526td_s%253dcom.vidio.android%2526rcats%253dapp-4mg%252capp-zgp%2526mcat%253d%2526mste%253d%2526mfld%253d4%2526mssi%253dNone%2526mfsi%253dqv0ri1wg24%2526sv%253dspotx%2526uhow%253d62%2526agsa%253d%2526wp%253d%2524MBR%2526rgco%253dIndonesia%2526rgre%253dWest%252520Java%2526rgme%253d%2526rgci%253dBekasi%2526rgz%253d%2526dt%253dMobile%2526osf%253dAndroid%2526os%253dAndroid60%2526br%253dWebView%2526svpid%253d247419%2526rlangs%253d01%2526mlang%253d%2526did%253d3c67b.50c78.f2aa%2526rcxt%253dInApp%2526tmpc%253d%2526vrtd%253d14%252c15%2526osi%253d%2526osv%253d%2526daid%253d55a7252e-392d-b55a-9c15-fcdb44ad60d4%2526dnr%253d0%2526vpb%253dPreRoll%2526c%253dMAQ4AUgAUAFYAQ..%2526dur%253d%2526crrelr%253d%2526npt%253d%2526svscid%253d286157%2526mk%253dSamsung%2526mdl%253dSM-G920P%2526ict%253dUnknown%2526said%253db69d2f88892211ea8e2d1c97c0f70001%2526auct%253d3%2526sfe%253d10df5e45%2526vp%253d1\"}]]>
+							</VerificationParameters>
+						</Verification>
+					</AdVerifications>
+				</Extension>
+			</Extensions>
+		</Wrapper>
+	</Ad>
+</VAST>
