@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0">
+  <Ad id="5060932-3226639">
+    <InLine>
+      <AdSystem>FT</AdSystem>
+      <AdTitle>Flashtalking</AdTitle>
+      <Description>Sat Oct 31 12:38:38 GMT 2020</Description>
+      <Impression id="ft_vast_i"><![CDATA[https://servedby.flashtalking.com/imp/1/137873;5060932;201;gifimpid;ProgrammaticDV360;FTTTestDV3605/?ft_impID=7032EB40-ED3C-F7A7-699D-26DEDF3C3AAE&ft_custom=&ft_partnerimpid=&ft_partnerid=&ft_section=&ft_c1=&ft_c2=&gdpr=0&gdpr_consent=FT_GDPR_CONSENT&gdpr_pd=FT_GDPR_PD&us_privacy=!!US_PRIVACY!&ft_creative=3226639&ft_configuration=0&cachebuster=1369259083]]></Impression>
+      <Impression id="3rdparty"><![CDATA[https://secure-gl.imrworldwide.com/cgi-bin/m?ca=nlsn250416&cr=crtve&ce=FlashTalking&pc=FlashTalking_plc0012&ci=nlsnci1407&am=3&at=view&rt=banner&st=image&r=[timestamp]]]></Impression>
+      <Impression id="3rdparty"><![CDATA[https://secure-gl.imrworldwide.com/cgi-bin/m?ca=nlsn250219&cr=creative&ce=spotx&pc=$HOST-$CHANNEL_ID_$APP_ID&ci=nlsnci362&am=4&at=view&rt=banner&st=image&c9=devid,$DEVICE_IFA&c13=asid,P66CB16D1-17F1-49AD-BE14-202179772F4D&uoo=$DEVICE_DNT&r=[$CACHE_BUSTER]]]></Impression>
+      <Impression id="3rdparty"><![CDATA[https://id-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_928144&src.rand=[timestamp]]]></Impression>
+      <Creatives>
+        <Creative AdID="3226639-0" id="5060932-3226639-0" sequence="1">
+          <Linear skipoffset="00:00:05">
+            <Icons>
+              <Icon height="15" program="AdChoices" width="19" xPosition="right" yPosition="top">
+                <StaticResource creativeType="image/gif"><![CDATA[https://cdn.flashtalking.com/oba/icon/iconc.png]]></StaticResource>
+                <IconClicks>
+                  <IconClickThrough><![CDATA[http://www.youronlinechoices.com]]></IconClickThrough>
+                </IconClicks>
+              </Icon>
+            </Icons>
+            <Duration>00:00:14</Duration>
+            <TrackingEvents>
+              <Tracking event="start"><![CDATA[https://servedby.flashtalking.com/state/5060932;3226639;0;271;7032EB40-ED3C-F7A7-699D-26DEDF3C3AAE/?cachebuster=1369259083]]></Tracking>
+              <Tracking event="start"><![CDATA[https://ad-events.flashtalking.com/ft.stat?16181;137873;5060932;3226639;0;13;7032EB40-ED3C-F7A7-699D-26DEDF3C3AAE;46891D44C2FC40;1369259083]]></Tracking>
+              <Tracking event="firstQuartile"><![CDATA[https://ad-events.flashtalking.com/ft.stat?16181;137873;5060932;3226639;0;14;7032EB40-ED3C-F7A7-699D-26DEDF3C3AAE;46891D44C2FC40;1369259083]]></Tracking>
+              <Tracking event="midpoint"><![CDATA[https://ad-events.flashtalking.com/ft.stat?16181;137873;5060932;3226639;0;15;7032EB40-ED3C-F7A7-699D-26DEDF3C3AAE;46891D44C2FC40;1369259083]]></Tracking>
+              <Tracking event="thirdQuartile"><![CDATA[https://ad-events.flashtalking.com/ft.stat?16181;137873;5060932;3226639;0;16;7032EB40-ED3C-F7A7-699D-26DEDF3C3AAE;46891D44C2FC40;1369259083]]></Tracking>
+              <Tracking event="complete"><![CDATA[https://ad-events.flashtalking.com/ft.stat?16181;137873;5060932;3226639;0;17;7032EB40-ED3C-F7A7-699D-26DEDF3C3AAE;46891D44C2FC40;1369259083]]></Tracking>
+              <Tracking event="unmute"><![CDATA[https://ad-events.flashtalking.com/ft.stat?16181;137873;5060932;3226639;0;38;7032EB40-ED3C-F7A7-699D-26DEDF3C3AAE;46891D44C2FC40;1369259083]]></Tracking>
+              <Tracking event="fullscreen"><![CDATA[https://ad-events.flashtalking.com/ft.stat?16181;137873;5060932;3226639;0;313;7032EB40-ED3C-F7A7-699D-26DEDF3C3AAE;46891D44C2FC40;1369259083]]></Tracking>
+              <Tracking event="mute"><![CDATA[https://ad-events.flashtalking.com/ft.stat?16181;137873;5060932;3226639;0;338;7032EB40-ED3C-F7A7-699D-26DEDF3C3AAE;46891D44C2FC40;1369259083]]></Tracking>
+              <Tracking event="skip"><![CDATA[https://ad-events.flashtalking.com/ft.stat?16181;137873;5060932;3226639;0;101;7032EB40-ED3C-F7A7-699D-26DEDF3C3AAE;46891D44C2FC40;1369259083]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough><![CDATA[https://servedby.flashtalking.com/click/8/137873;5060932;3226639;211;0/?random=1369259083&ft_width=1920&ft_height=1080&ft_impID=7032EB40-ED3C-F7A7-699D-26DEDF3C3AAE&ft_custom=&ft_keyword=&ft_partnerimpid=&ft_partnerid=&ft_section=&ft_c1=&ft_c2=&gdpr=0&gdpr_consent=FT_GDPR_CONSENT&gdpr_pd=FT_GDPR_PD&us_privacy=!!US_PRIVACY!&url=https://c.lazada.co.id/t/c.0x5i0U?intent=false&fallback=true&url=https%3A%2F%2Fwww.lazada.co.id%2Fpantene%2F%3Ffrom%3Dwangpu%26lang%3Did%26q%3DAll-Products%26png-official-store]]></ClickThrough>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate="600" delivery="progressive" height="360" id="8057746" type="video/mp4" width="640"><![CDATA[https://cdn.flashtalking.com/132444/FTTTESTNRCZOOMCALL_640_360_600_3000.mp4]]></MediaFile>
+              <MediaFile bitrate="600" delivery="progressive" height="360" id="5020816" type="video/webm" width="640"><![CDATA[https://cdn.flashtalking.com/132444/FTTTESTNRCZOOMCALL_640_360_600_3000.webm]]></MediaFile>
+              <MediaFile bitrate="1200" delivery="progressive" height="576" id="2391846" type="video/mp4" width="1024"><![CDATA[https://cdn.flashtalking.com/132444/FTTTESTNRCZOOMCALL_1024_576_1200_3000.mp4]]></MediaFile>
+              <MediaFile bitrate="1500" delivery="progressive" height="720" id="3426482" type="video/mp4" width="1280"><![CDATA[https://cdn.flashtalking.com/132444/FTTTESTNRCZOOMCALL_1280_720_1500_3000.mp4]]></MediaFile>
+              <MediaFile bitrate="2500" delivery="progressive" height="1080" id="7327682" type="video/mp4" width="1920"><![CDATA[https://cdn.flashtalking.com/132444/FTTTESTNRCZOOMCALL_1920_1080_2500_3000.mp4]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+        <Creative sequence="1">
+          <CompanionAds/>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
