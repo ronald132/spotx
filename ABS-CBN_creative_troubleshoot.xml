@@ -1,0 +1,52 @@
+<VAST version='2.0'>
+  <Ad id='5616'>
+    <InLine>
+      <Error><![CDATA[https://us-west-2.event.prod.bidr.io/log/vasterror?error_event=ChII5eablQkQ5hcY39Laur_F7QISEAoFc3BvdHgQjwEY6AcghTkY8CsglwIyAnN4&error_code=[ERRORCODE]]]></Error>
+      <AdSystem>Beeswax</AdSystem>
+      <AdTitle><![CDATA[BBPMD]]></AdTitle>
+      <Impression><![CDATA[https://us-west-2.event.prod.bidr.io/log/imp/sx?sie=ChII5eablQkQ5hcY39Laur_F7QISEAoFc3BvdHgQjwEY6AcghTkaAnN4IMQnKAA6KG1pZC44QzlEOEVCNy0wQUU3LTgwQTUtRjY3Mi00MUY2OURERkEwRDJgAXjwK4ABlwKSAQJzeKgBAMIBATLaAQ4yMDIwMTIxMDE2MDAwMOIBHhIECAIQARIECAMQARIECAQQARIECAUQARIECAEQAfoBFQ3jils_Eg71BgIBAQAAAAAAAAAAAA==&wp=$MBR&fie=IMQnSiRCIDg1NTg4YjY4YjM1NzA3MzE4ZTU3MTJjYjdhOWYyZTg3SAJqBhAAKIC1GHDEJ4oBEAoFCMQnEAERAAAAAAAA8D_yAQIYAA==&]]></Impression>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <TrackingEvents>
+              <Tracking event='start'><![CDATA[https://us-west-2.event.prod.bidr.io/log/act/sx?ai=ChII5eablQkQ5hcY39Laur_F7QISEAoFc3BvdHgQjwEY6AcghTkaAnN4IAEqKG1pZC44QzlEOEVCNy0wQUU3LTgwQTUtRjY3Mi00MUY2OURERkEwRDJA8CtIlwJSAnN4YAB6HhIECAQQARIECAUQARIECAEQARIECAIQARIECAMQAQ==&]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://us-west-2.event.prod.bidr.io/log/act/sx?ai=ChII5eablQkQ5hcY39Laur_F7QISEAoFc3BvdHgQjwEY6AcghTkaAnN4IAIqKG1pZC44QzlEOEVCNy0wQUU3LTgwQTUtRjY3Mi00MUY2OURERkEwRDJA8CtIlwJSAnN4YAB6HhIECAQQARIECAUQARIECAEQARIECAIQARIECAMQAQ==&]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://us-west-2.event.prod.bidr.io/log/act/sx?ai=ChII5eablQkQ5hcY39Laur_F7QISEAoFc3BvdHgQjwEY6AcghTkaAnN4IAMqKG1pZC44QzlEOEVCNy0wQUU3LTgwQTUtRjY3Mi00MUY2OURERkEwRDJA8CtIlwJSAnN4YAB6HhIECAQQARIECAUQARIECAEQARIECAIQARIECAMQAQ==&]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://us-west-2.event.prod.bidr.io/log/act/sx?ai=ChII5eablQkQ5hcY39Laur_F7QISEAoFc3BvdHgQjwEY6AcghTkaAnN4IAQqKG1pZC44QzlEOEVCNy0wQUU3LTgwQTUtRjY3Mi00MUY2OURERkEwRDJA8CtIlwJSAnN4YAB6HhIECAQQARIECAUQARIECAEQARIECAIQARIECAMQAQ==&]]></Tracking>
+              <Tracking event='complete'><![CDATA[https://us-west-2.event.prod.bidr.io/log/act/sx?ai=ChII5eablQkQ5hcY39Laur_F7QISEAoFc3BvdHgQjwEY6AcghTkaAnN4IAUqKG1pZC44QzlEOEVCNy0wQUU3LTgwQTUtRjY3Mi00MUY2OURERkEwRDJA8CtIlwJSAnN4YAB6HhIECAQQARIECAUQARIECAEQARIECAIQARIECAMQAQ==&]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://us-west-2.event.prod.bidr.io/log/act/sx?ai=ChII5eablQkQ5hcY39Laur_F7QISEAoFc3BvdHgQjwEY6AcghTkaAnN4IAcqKG1pZC44QzlEOEVCNy0wQUU3LTgwQTUtRjY3Mi00MUY2OURERkEwRDJA8CtIlwJSAnN4YAB6HhIECAQQARIECAUQARIECAEQARIECAIQARIECAMQAQ==&]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://us-west-2.event.prod.bidr.io/log/act/sx?ai=ChII5eablQkQ5hcY39Laur_F7QISEAoFc3BvdHgQjwEY6AcghTkaAnN4IAgqKG1pZC44QzlEOEVCNy0wQUU3LTgwQTUtRjY3Mi00MUY2OURERkEwRDJA8CtIlwJSAnN4YAB6HhIECAQQARIECAUQARIECAEQARIECAIQARIECAMQAQ==&]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://us-west-2.event.prod.bidr.io/log/act/sx?ai=ChII5eablQkQ5hcY39Laur_F7QISEAoFc3BvdHgQjwEY6AcghTkaAnN4IAkqKG1pZC44QzlEOEVCNy0wQUU3LTgwQTUtRjY3Mi00MUY2OURERkEwRDJA8CtIlwJSAnN4YAB6HhIECAQQARIECAUQARIECAEQARIECAIQARIECAMQAQ==&]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://us-west-2.event.prod.bidr.io/log/act/sx?ai=ChII5eablQkQ5hcY39Laur_F7QISEAoFc3BvdHgQjwEY6AcghTkaAnN4IAoqKG1pZC44QzlEOEVCNy0wQUU3LTgwQTUtRjY3Mi00MUY2OURERkEwRDJA8CtIlwJSAnN4YAB6HhIECAQQARIECAUQARIECAEQARIECAIQARIECAMQAQ==&]]></Tracking>
+              <Tracking event='fullscreen'><![CDATA[https://us-west-2.event.prod.bidr.io/log/act/sx?ai=ChII5eablQkQ5hcY39Laur_F7QISEAoFc3BvdHgQjwEY6AcghTkaAnN4IAsqKG1pZC44QzlEOEVCNy0wQUU3LTgwQTUtRjY3Mi00MUY2OURERkEwRDJA8CtIlwJSAnN4YAB6HhIECAQQARIECAUQARIECAEQARIECAIQARIECAMQAQ==&]]></Tracking>
+              <Tracking event='close'><![CDATA[https://us-west-2.event.prod.bidr.io/log/act/sx?ai=ChII5eablQkQ5hcY39Laur_F7QISEAoFc3BvdHgQjwEY6AcghTkaAnN4IAwqKG1pZC44QzlEOEVCNy0wQUU3LTgwQTUtRjY3Mi00MUY2OURERkEwRDJA8CtIlwJSAnN4YAB6HhIECAQQARIECAUQARIECAEQARIECAIQARIECAMQAQ==&]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough><![CDATA[https://www.facebook.com/BearBrandPH/photos/a.1623533401148133/1640847139416759/?type=3]]></ClickThrough>
+              <ClickTracking><![CDATA[https://us-west-2.event.prod.bidr.io/log/clk/sx?ai=ChII5eablQkQ5hcY39Laur_F7QISEAoFc3BvdHgQjwEY6AcghTkaAnN4IihtaWQuOEM5RDhFQjctMEFFNy04MEE1LUY2NzItNDFGNjlEREZBMEQyOPArQJcCSAFSAnN4YAB6HhIECAEQARIECAIQARIECAMQARIECAQQARIECAUQAQ==&audit_flag_wp=$MBR]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile delivery='progressive' width='720' height='480' type='video/mp4' bitrate='20000' ><![CDATA[https://media.bidr.io/spotx/143/279/7645_BBPMD_5S_MP4_HIDEF.mp4]]></MediaFile>
+              <MediaFile delivery='progressive' width='720' height='480' type='video/mp4' bitrate='400' ><![CDATA[https://media.bidr.io/spotx/143/279/7645_BBPMD_5S_MP4_LOW.mp4]]></MediaFile>
+              <MediaFile delivery='progressive' width='720' height='480' type='video/webm' bitrate='20000' ><![CDATA[https://media.bidr.io/spotx/143/279/7645_BBPMD_5S_WEBM_HIDEF.webm]]></MediaFile>
+              <MediaFile delivery='progressive' width='720' height='480' type='video/x-flv' bitrate='20000' ><![CDATA[https://media.bidr.io/spotx/143/279/7645_BBPMD_5S_FLV_HIDEF.flv]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+        <Creative>
+          <CompanionAds></CompanionAds>
+        </Creative>
+      </Creatives>
+      <Extensions>
+        <Extension>
+          <AdVerifications>
+            <Verification vendor="Moat">
+              <ViewableImpression id="zMoatBEESWAXBuzzkey=spotx[MOAT]zMoatBEESWAXAdvertiser=279[MOAT]zMoatBEESWAXCampaign=1000[MOAT]zMoatBEESWAXLineItem=7301[MOAT]zMoatBEESWAXCreative=5616[MOAT]zMoatBEESWAXSource=SPOTX[MOAT]zMoatBEESWAXApp=com.absi.tfctv"><![CDATA[https://px.moatads.com/pixel.gif?moatPartnerId=beeswaxvastvideo680429861711&moatPartnerKey=zMoatBEESWAXPc&moatNode=true]]></ViewableImpression>
+            </Verification>
+          </AdVerifications>
+        </Extension>
+      </Extensions>
+    </InLine>
+  </Ad>
+</VAST>
