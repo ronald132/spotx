@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<VAST version="2.0">
+  <Ad id="2bc0e973-66fa-4a61-8c3e-540bbc7561ee">
+    <InLine>
+      <AdSystem version="1.0">SpotXchange</AdSystem>
+      <AdTitle><![CDATA[SpotX Integration Test Secure]]></AdTitle>
+      <Description><![CDATA[SpotX Integration Test Secure]]></Description>
+      <Creatives>
+        <Creative sequence="1">
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <AdParameters><![CDATA[{
+            "ad_id":"2bc0e973-66fa-4a61-8c3e-540bbc7561ee",
+    "title": "Rexona_Mystique_Awarness_Catch all female_Jan2021_ULTRA_Video_VAST_15s",
+    "display_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1082179516%7E%7E0%7E%7E%7E%5EClick.Linear.2082882007%7E0%7E2082882007%7E11100&pos=7858&ebRandom=8588292035482206226&dg=1075646820&ta=-1&usercookie=u2=33b5dd68-499a-4fbe-893f-58b287ebee08&sessionid=7647076920622432783&rtu=$$https://brand-id.shortlyst.com/rexona/15925?utm_source=TTD_Web&utm_medium=Web&utm_campaign=Rexona_Mystique_Jan21_Upper&utm_term=CatchAllFemaleUC-UC-UnileverCloud&utm_content=15s$$",
+    "media": {
+      "video": [
+        {
+          "delivery": "progressive",
+          "source_uri_external": "1",
+          "source_uri": "https://vpaid.doubleverify.com/js/vpaid-transformer/0.20.16/vpaid-transformer-no-csw.js#%7B%22wrapperId%22%3A%2212000000%22%2C%22customDimensions%22%3A%7B%22111%22%3A%22inline%22%2C%22117%22%3A3%2C%22190%22%3A%22818052%22%2C%22191%22%3A%22DV140326%22%2C%22192%22%3A%22TTD%22%2C%22193%22%3A%22vidview%22%2C%22194%22%3A%22818053%22%2C%22196%22%3A%222%22%7D%2C%22customMetrics%22%3A%7B%22114%22%3A2%7D%2C%22adServingId%22%3A%22fd1dc2d0-d3b1-4e01-ad6d-db4c6cd28b9b%22%2C%22trackingHost%22%3A%22vtrk.doubleverify.com%22%7D",
+          "scalable": "",
+          "playtime": "15",
+          "maintain_aspect_ratio": "",
+          "width": "640",
+          "vpi": "VPAID_JS",
+          "mime_type": "application/javascript",
+          "media_id": "",
+          "height": "360",
+          "api_framework": "VPAID"
+        }
+      ],
+      "tracking": {
+        "beacon": [
+          {
+            "type": "impression",
+            "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=display&pl=VAST&optOut=0&pos=7858&c=24&ai=1082179516&pluid=0&gdpr_consent=&gdpr=&ord=8588292035482206226&dg=1075646820&sdg=1076083425&ta=-1&usercookie=u2=33b5dd68-499a-4fbe-893f-58b287ebee08&sessionid=7647076920622432783&pcp=&vurl=",
+            "category": "2"
+          },
+          {
+            "type": "impression",
+            "beacon_url": "https://unilever3.demdex.net/event?d_event=imp&d_src=196531&c_country=ID&d_site=1073890163&d_creative=1082179516&d_adgroup=1PD_sd_CatchAllFemaleUC_in_None_pn_RexonaDrySerum_cr_Video-15s&d_placement=1076092973&d_campaign=1074105803&d_adsrc=100675&d_bu=196532&c_brand=Rexona&c_campaignname=Rexona_L_Mystique_Prec_ID3117&c_classification3=[%tp_PlacementClassifications3%]&c_classification4=[%tp_PlacementClassifications4%]&c_placementname=Pre-Roll_Video_15s_Version01_Retail_NA_1pd_Demographic%2523CatchAllFemaleUC%2523F%252318-35%257cJan2021&c_medium=video&d_bust=8588292035482206226",
+            "category": "2"
+          },
+          {
+            "type": "impression",
+            "beacon_url": "https://tps.doubleverify.com/visit.jpg?vstevt=2&tagtype=video&dvtagver=6.1.img&ctx=15425320&cmp=1074105803&sid=1073890163&plc=1076092973&adsrv=166&prr=1&turl=&dup=2bc0e973-66fa-4a61-8c3e-540bbc7561ee&DVP_PROG_REP=1&DVP_DV_TT=4&DVP_PP_ID=2&DVP_DV_CT=2&DVP_PP_IMP_ID=d403aa1d-ed5a-4716-9690-d8b918a72d3d&DVP_PP_UID=a9ab1ee1-40d5-4f53-9198-3d474b2bceb4&DVP_PP_DEAL_ID=44648.027d7.0839&DVP_TTD_1=pfvg03w&DVP_TTD_2=lhzsji1&DVP_TTD_3=gqb0qkk&DVP_TTD_4=5obalxv&DVP_TTD_5=wlyeme5y&DVP_TTD_6=spotx&DVP_TTD_7=dv-51000298&DVP_TTD_8=280136&DVP_C5=health.detik.com&dvp_zjsver=0.20.16&gdpr_consent=&gdpr=0&vssd=-2&dvp_psfts=1609566438296&dvp_psfst=ack&vstvr=2.0-i&dvp_blk=1&app=[APPBUNDLE]&gdpr_consent=[GDPRCONSENT]&essd=[SERVERSIDE]",
+            "category": "2"
+          },
+          {
+            "type": "impression",
+            "beacon_url": "https://vtrk.doubleverify.com/?v=1&t=event&tid=ZW-12000000&ec=vast&cid=2bc0e973-66fa-4a61-8c3e-540bbc7561ee&el=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fc%3D23%26cn%3Ddisplay%26pli%3D1076092973%26ord%3D%5Btimestamp%5D&ea=impression&cm114=3&cd111=inline&cd117=2&cd190=15425320&cd191=1074105803&cd192=1073890163&cd193=1076092973&cd195=1&cd196=3&cd188=sgp1&cd189=droplet&cd182=vpaid-transformer%400.20.16&cd141=%5BAPIFRAMEWORKS%5D&cd142=1609566438295&cd143=[TIMESTAMP]&z=16095664383062282516",
+            "category": "2"
+          },
+          {
+            "type": "impression",
+            "beacon_url": "https://sg2-bid.adsrvr.org/bid/feedback/spotx?iid=d403aa1d-ed5a-4716-9690-d8b918a72d3d&crid=wlyeme5y&wp=${AUCTION_MBR}&aid=1&wpc=USD&sfe=122788e3&puid=&tdid=a9ab1ee1-40d5-4f53-9198-3d474b2bceb4&pid=pfvg03w&ag=gqb0qkk&adv=lhzsji1&sig=1ijKSz_dj2sPz-qeWGraQHELqsd0whM1n2lj76J3QLes.&bp=2.67347842854597&cf=1943561&fq=0&td_s=health.detik.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=None&mfsi=jtyfv3ipw6&uhow=156&agsa=&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&svbttd=1&dt=Mobile&osf=Android&os=Android60&br=Chrome&rlangs=en&mlang=&svpid=280136&did=44648.027d7.0839&rcxt=Other&lat=-6.174100&lon=106.829600&tmpc=31.87&daid=&vp=0&osi=&osv=&bv=1&mk=Samsung&mdl=SM-G930F&vpb=Outstream&c=MAI4AUABSABQAVgB&dur=ChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c&durs=AeNIZx&crrelr=&pcm=1&said=f7e324154cbd11eb88e01fff421e0007&ict=Unknown&auct=3",
+            "category": "2"
+          },
+          {
+            "type": "impression",
+            "beacon_url": "https://s.update.adsrvr.org/2/357427/analytics.gif?pp=spotx&dm=640x360&cb=1609566435&di=health.detik.com&ui=a9ab1ee1-40d5-4f53-9198-3d474b2bceb4&ti=d403aa1d-ed5a-4716-9690-d8b918a72d3d&md=Other&ap=&r7=&pv=280b6a1f-309b-4a3e-b951-0141e833e9dd&to=3&de=Mobile&md=Video&dt=3574271504888517674019&si=280136&ac=5obalxv",
+            "category": "2"
+          },
+          {
+            "type": "impression",
+            "beacon_url": "https://insight.adsrvr.org/enduser/pie/?rtb=aWlkPWQ0MDNhYTFkLWVkNWEtNDcxNi05NjkwLWQ4YjkxOGE3MmQzZCZjcmlkPXdseWVtZTV5JndwPSR7QVVDVElPTl9NQlJ9JmFpZD0xJndwYz1VU0Qmc2ZlPTEyMjc4OGUzJnB1aWQ9JnRkaWQ9YTlhYjFlZTEtNDBkNS00ZjUzLTkxOTgtM2Q0NzRiMmJjZWI0JnBpZD1wZnZnMDN3JmFnPWdxYjBxa2smYWR2PWxoenNqaTEmYnA9Mi42NzM0Nzg0Mjg1NDU5NyZjZj0xOTQzNTYxJmZxPTAmdGRfcz1oZWFsdGguZGV0aWsuY29tJnJjYXRzPSZtY2F0PWR2LTUxMDAwMjk4Jm1zdGU9Jm1mbGQ9NCZtc3NpPU5vbmUmbWZzaT1qdHlmdjNpcHc2JnVob3c9MTU2JmFnc2E9JnJnY289SW5kb25lc2lhJnJncmU9SmFrYXJ0YSZyZ21lPSZyZ2NpPUpha2FydGEmcmd6PSZzdmJ0dGQ9MSZkdD1Nb2JpbGUmb3NmPUFuZHJvaWQmb3M9QW5kcm9pZDYwJmJyPUNocm9tZSZybGFuZ3M9ZW4mbWxhbmc9JnN2cGlkPTI4MDEzNiZkaWQ9NDQ2NDguMDI3ZDcuMDgzOSZyY3h0PU90aGVyJmxhdD0tNi4xNzQxMDAmbG9uPTEwNi44Mjk2MDAmdG1wYz0zMS44NyZkYWlkPSZ2cD0wJm9zaT0mb3N2PSZidj0xJnN2c2NpZD0yOTU3NzMmbWs9U2Ftc3VuZyZtZGw9U00tRzkzMEYmdnBiPU91dHN0cmVhbSZjPU1BSTRBVUFCU0FCUUFWZ0ImZHVyPUNoa0tCelV5YnpOM2RtMFF2eHdpQ3dqY3dkTjNFZ1J1YjI1bENqOEtJbU5vWVhKblpTMWhiR3hFYjNWaWJHVldaWEpwWm5sQ2IzUkJkbTlwWkdGdVkyVWlHUWpuX19fX19fX19fXzhCRWd4a2IzVmliR1YyWlhKcFpua0tQZ29oWTJoaGNtZGxMVzFoZUVSdmRXSnNaVlpsY21sbWVVSnlZVzVrVTJGbVpYUjVJaGtJMl9fX19fX19fX19fQVJJTVpHOTFZbXhsZG1WeWFXWjVDazhLTG1Ob1lYSm5aUzFoYkd4RWIzVmliR1ZXWlhKcFpubFdhV1JsYjFacFpYZGhZbWxzYVhSNVZISmhZMnRwYm1jaUhRaTRfX19fX19fX19fOEJFZ3hrZGkxeVpYQnZjblJwYm1jcUFnZ0JFTDhjJmNycmVscj0mcGNtPTEmc2FpZD1mN2UzMjQxNTRjYmQxMWViODhlMDFmZmY0MjFlMDAwNyZpY3Q9VW5rbm93biZhdWN0PTMmc3Y9c3BvdHg.&pie=51",
+            "category": "2"
+          },
+          {
+            "type": "impression",
+            "beacon_url": "https://tps.doubleverify.com/visit.jpg?vstevt=2&tagtype=video&dvtagver=6.1.img&ctx=818052&cmp=DV140326&sid=TTD&plc=vidview&advid=818053&adsrv=166&rtsurl=https%3A%2F%2Finsight.adsrvr.org%2Fenduser%2Fdv%2F%3Frtb%3DaWlkPWQ0MDNhYTFkLWVkNWEtNDcxNi05NjkwLWQ4YjkxOGE3MmQzZCZjcmlkPXdseWVtZTV5JndwPSR7QVVDVElPTl9NQlJ9JmFpZD0xJndwYz1VU0Qmc2ZlPTEyMjc4OGUzJnB1aWQ9JnRkaWQ9YTlhYjFlZTEtNDBkNS00ZjUzLTkxOTgtM2Q0NzRiMmJjZWI0JnBpZD1wZnZnMDN3JmFnPWdxYjBxa2smYWR2PWxoenNqaTEmYnA9Mi42NzM0Nzg0Mjg1NDU5NyZjZj0xOTQzNTYxJmZxPTAmdGRfcz1oZWFsdGguZGV0aWsuY29tJnJjYXRzPSZtY2F0PWR2LTUxMDAwMjk4Jm1zdGU9Jm1mbGQ9NCZtc3NpPU5vbmUmbWZzaT1qdHlmdjNpcHc2JnVob3c9MTU2JmFnc2E9JnJnY289SW5kb25lc2lhJnJncmU9SmFrYXJ0YSZyZ21lPSZyZ2NpPUpha2FydGEmcmd6PSZzdmJ0dGQ9MSZkdD1Nb2JpbGUmb3NmPUFuZHJvaWQmb3M9QW5kcm9pZDYwJmJyPUNocm9tZSZybGFuZ3M9ZW4mbWxhbmc9JnN2cGlkPTI4MDEzNiZkaWQ9NDQ2NDguMDI3ZDcuMDgzOSZyY3h0PU90aGVyJmxhdD0tNi4xNzQxMDAmbG9uPTEwNi44Mjk2MDAmdG1wYz0zMS44NyZkYWlkPSZ2cD0wJm9zaT0mb3N2PSZidj0xJnN2c2NpZD0yOTU3NzMmbWs9U2Ftc3VuZyZtZGw9U00tRzkzMEYmdnBiPU91dHN0cmVhbSZjPU1BSTRBVUFCU0FCUUFWZ0ImZHVyPUNoa0tCelV5YnpOM2RtMFF2eHdpQ3dqY3dkTjNFZ1J1YjI1bENqOEtJbU5vWVhKblpTMWhiR3hFYjNWaWJHVldaWEpwWm5sQ2IzUkJkbTlwWkdGdVkyVWlHUWpuX19fX19fX19fXzhCRWd4a2IzVmliR1YyWlhKcFpua0tQZ29oWTJoaGNtZGxMVzFoZUVSdmRXSnNaVlpsY21sbWVVSnlZVzVrVTJGbVpYUjVJaGtJMl9fX19fX19fX19fQVJJTVpHOTFZbXhsZG1WeWFXWjVDazhLTG1Ob1lYSm5aUzFoYkd4RWIzVmliR1ZXWlhKcFpubFdhV1JsYjFacFpYZGhZbWxzYVhSNVZISmhZMnRwYm1jaUhRaTRfX19fX19fX19fOEJFZ3hrZGkxeVpYQnZjblJwYm1jcUFnZ0JFTDhjJmNycmVscj0mcGNtPTEmc2FpZD1mN2UzMjQxNTRjYmQxMWViODhlMDFmZmY0MjFlMDAwNyZpY3Q9VW5rbm93biZhdWN0PTMmaW09MSZzdj1zcG90eA..%26pie%3D&dup=fd1dc2d0-d3b1-4e01-ad6d-db4c6cd28b9b&DVP_TTD_1=pfvg03w&DVP_TTD_2=lhzsji1&DVP_TTD_3=gqb0qkk&DVP_TTD_4=5obalxv&DVP_TTD_6=spotx&DVP_HAS_VIEW=0&dvp_zjsver=0.20.16&dvp_psfts=1609566438290&dvp_psfst=ack&vstvr=2.0-i&dvp_media=2&app=[APPBUNDLE]&essd=[SERVERSIDE]",
+            "category": "2"
+          },
+          {
+            "type": "impression",
+            "beacon_url": "https://vtrk.doubleverify.com/?v=1&t=event&tid=ZW-12000000&ec=vast&cid=fd1dc2d0-d3b1-4e01-ad6d-db4c6cd28b9b&el=https%3A%2F%2Finsight.adsrvr.org%2Fenduser%2Fvast%2F%3Fiid%3Dd403aa1d-ed5a-4716-9690-d8b918a72d3d%26crid%3Dwlyeme5y%26wp%3D%24%7BAUCTION_MBR%7D%26aid%3D1%26wpc%3DUSD%26sfe%3D122788e3%26puid%3D%26tdid%3Da9ab1ee1-40d5-4f53-9198-3d474b2bceb4%26pid%3Dpfvg03w%26ag%3Dgqb0qkk%26adv%3Dlhzsji1%26sig%3D1ijKSz_dj2sPz-qeWGraQHELqsd0whM1n2lj76J3QLes.%26bp%3D2.67347842854597%26cf%3D1943561%26fq%3D0%26td_s%3Dhealth.detik.com%26rcats%3D%26mcat%3Ddv-51000298%26mste%3D%26mfld%3D4%26mssi%3DNone%26mfsi%3Djtyfv3ipw6%26uhow%3D156%26agsa%3D%26rgco%3DIndonesia%26rgre%3DJakarta%26rgme%3D%26rgci%3DJakarta%26rgz%3D%26svbttd%3D1%26dt%3DMobile%26osf%3DAndroid%26os%3DAndroid60%26br%3DChrome%26rlangs%3Den%26mlang%3D%26svpid%3D280136%26did%3D44648.027d7.0839%26rcxt%3DOther%26lat%3D-6.174100%26lon%3D106.829600%26tmpc%3D31.87%26daid%3D%26vp%3D0%26osi%3D%26osv%3D%26bv%3D1%26svscid%3D295773%26mk%3DSamsung%26mdl%3DSM-G930F%26vpb%3DOutstream%26dc%3D14%26vcc%3DCAEQPBg8MggIAwgCCAUICToECAEIAkABSAFQAogBAqAB3gKoAc4ByAEB0AED6AEF8AEB-AEBgAIDigIICAIIBQgDCAaaAgIIAqACAqgCAsACAA..%26sv%3Dspotx%26pidi%3D2045%26advi%3D82436%26cmpi%3D1566873%26agi%3D7668711%26cridi%3D16734565%26svi%3D13%26cmp%3D5obalxv%26stf%3D1%26prid%3D280b6a1f-309b-4a3e-b951-0141e833e9dd%26vrtd%3D14%2C15%26tsig%3DIiZ8tXLQA9duaGY7_Kzcsy8dZVFpGZlk-LVfhVs0zrE.%26c%3DMAI4AUABSABQAVgB%26dur%3DChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c%26durs%3DAeNIZx%26crrelr%3D%26pcm%3D1%26said%3Df7e324154cbd11eb88e01fff421e0007%26ict%3DUnknown%26auct%3D3%26im%3D1&ea=impression&cm114=2&cd111=inline&cd117=3&cd190=818052&cd191=DV140326&cd192=TTD&cd193=vidview&cd194=818053&cd196=2&cd188=sgp1&cd189=droplet&cd182=vpaid-transformer%400.20.16&cd143=[TIMESTAMP]&z=16095664383076549710",
+            "category": "2"
+          },
+          {
+            "type": "creativeView",
+            "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1082179516%7E%7E0%7E%7E%7E%5ECreativeView.Linear.2082882007%7E0%7E2082882007%7E01000&pos=7858&ebRandom=8588292035482206226&dg=1075646820&ta=-1&usercookie=u2=33b5dd68-499a-4fbe-893f-58b287ebee08&sessionid=7647076920622432783",
+            "category": "2"
+          },
+          {
+            "type": "creativeView",
+            "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&0&interactionsStr=1082179516%7E%7E0%5EebAdStart%7E0%7E0%7E1%7E0%7E1%7E2082882007%7E0&pos=7858&ebRandom=8588292035482206226&dg=1075646820&ta=-1&usercookie=u2=33b5dd68-499a-4fbe-893f-58b287ebee08&sessionid=7647076920622432783",
+            "category": "2"
+          },
+          {
+            "type": "start",
+            "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1082179516%7E%7E0%7E%7E%7E%5EebVideoStarted%7E0%7E2082882007%7E01010&pos=7858&ebRandom=8588292035482206226&dg=1075646820&ta=-1&usercookie=u2=33b5dd68-499a-4fbe-893f-58b287ebee08&sessionid=7647076920622432783",
+            "category": "2"
+          },
+          {
+            "type": "firstQuartile",
+            "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1082179516%7E%7E0%7E%7E%7E%5Eeb25Per_Played%7E0%7E2082882007%7E01010&pos=7858&ebRandom=8588292035482206226&dg=1075646820&ta=-1&usercookie=u2=33b5dd68-499a-4fbe-893f-58b287ebee08&sessionid=7647076920622432783",
+            "category": "2"
+          },
+          {
+            "type": "midpoint",
+            "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1082179516%7E%7E0%7E%7E%7E%5Eeb50Per_Played%7E0%7E2082882007%7E01010&pos=7858&ebRandom=8588292035482206226&dg=1075646820&ta=-1&usercookie=u2=33b5dd68-499a-4fbe-893f-58b287ebee08&sessionid=7647076920622432783",
+            "category": "2"
+          },
+          {
+            "type": "thirdQuartile",
+            "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1082179516%7E%7E0%7E%7E%7E%5Eeb75Per_Played%7E0%7E2082882007%7E01010&pos=7858&ebRandom=8588292035482206226&dg=1075646820&ta=-1&usercookie=u2=33b5dd68-499a-4fbe-893f-58b287ebee08&sessionid=7647076920622432783",
+            "category": "2"
+          },
+          {
+            "type": "complete",
+            "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1082179516%7E%7E0%7E%7E%7E%5EebVideoFullPlay%7E0%7E2082882007%7E01010&pos=7858&ebRandom=8588292035482206226&dg=1075646820&ta=-1&usercookie=u2=33b5dd68-499a-4fbe-893f-58b287ebee08&sessionid=7647076920622432783",
+            "category": "2"
+          },
+          {
+            "type": "mute",
+            "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1082179516%7E%7E0%7E%7E%7E%5EebVideoMute%7E0%7E2082882007%7E01110&pos=7858&ebRandom=8588292035482206226&dg=1075646820&ta=-1&usercookie=u2=33b5dd68-499a-4fbe-893f-58b287ebee08&sessionid=7647076920622432783",
+            "category": "2"
+          },
+          {
+            "type": "unmute",
+            "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1082179516%7E%7E0%7E%7E%7E%5EebVideoUnmute%7E0%7E2082882007%7E01110&pos=7858&ebRandom=8588292035482206226&dg=1075646820&ta=-1&usercookie=u2=33b5dd68-499a-4fbe-893f-58b287ebee08&sessionid=7647076920622432783",
+            "category": "2"
+          },
+          {
+            "type": "pause",
+            "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1082179516%7E%7E0%7E%7E%7E%5EebVideoPause%7E0%7E2082882007%7E01110&pos=7858&ebRandom=8588292035482206226&dg=1075646820&ta=-1&usercookie=u2=33b5dd68-499a-4fbe-893f-58b287ebee08&sessionid=7647076920622432783",
+            "category": "2"
+          },
+          {
+            "type": "fullscreen",
+            "beacon_url": "https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1082179516%7E%7E0%7E%7E%7E%5EebFSStart%7E0%7E2082882007%7E01110&pos=7858&ebRandom=8588292035482206226&dg=1075646820&ta=-1&usercookie=u2=33b5dd68-499a-4fbe-893f-58b287ebee08&sessionid=7647076920622432783",
+            "category": "2"
+          },
+          {
+            "type": "firstQuartile",
+            "beacon_url": "https://tps.doubleverify.com/event.png?vstevt=4&dup=2bc0e973-66fa-4a61-8c3e-540bbc7561ee",
+            "category": "2"
+          },
+          {
+            "type": "midpoint",
+            "beacon_url": "https://tps.doubleverify.com/event.png?vstevt=6&dup=2bc0e973-66fa-4a61-8c3e-540bbc7561ee",
+            "category": "2"
+          },
+          {
+            "type": "thirdQuartile",
+            "beacon_url": "https://tps.doubleverify.com/event.png?vstevt=8&dup=2bc0e973-66fa-4a61-8c3e-540bbc7561ee",
+            "category": "2"
+          },
+          {
+            "type": "complete",
+            "beacon_url": "https://tps.doubleverify.com/event.png?vstevt=10&dup=2bc0e973-66fa-4a61-8c3e-540bbc7561ee",
+            "category": "2"
+          },
+          {
+            "type": "start",
+            "beacon_url": "https://tps.doubleverify.com/event.png?vstevt=0&dup=2bc0e973-66fa-4a61-8c3e-540bbc7561ee",
+            "category": "2"
+          },
+          {
+            "type": "pause",
+            "beacon_url": "https://tps.doubleverify.com/event.png?vstevt=22&dup=2bc0e973-66fa-4a61-8c3e-540bbc7561ee",
+            "category": "2"
+          },
+          {
+            "type": "resume",
+            "beacon_url": "https://tps.doubleverify.com/event.png?vstevt=23&dup=2bc0e973-66fa-4a61-8c3e-540bbc7561ee",
+            "category": "2"
+          },
+          {
+            "type": "mute",
+            "beacon_url": "https://tps.doubleverify.com/event.png?vstevt=30&dup=2bc0e973-66fa-4a61-8c3e-540bbc7561ee",
+            "category": "2"
+          },
+          {
+            "type": "unmute",
+            "beacon_url": "https://tps.doubleverify.com/event.png?vstevt=31&dup=2bc0e973-66fa-4a61-8c3e-540bbc7561ee",
+            "category": "2"
+          },
+          {
+            "type": "complete",
+            "beacon_url": "https://vtrk.doubleverify.com/?v=1&t=event&tid=ZW-12000000&ec=vast&cid=2bc0e973-66fa-4a61-8c3e-540bbc7561ee&el=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fc%3D23%26cn%3Ddisplay%26pli%3D1076092973%26ord%3D%5Btimestamp%5D&ea=complete&cm114=3&cd111=inline&cd117=2&cd190=15425320&cd191=1074105803&cd192=1073890163&cd193=1076092973&cd195=1&cd196=3&cd188=sgp1&cd189=droplet&cd182=vpaid-transformer%400.20.16&cd141=%5BAPIFRAMEWORKS%5D&cd142=1609566438295&cd143=[TIMESTAMP]&z=16095664383062282516",
+            "category": "2"
+          },
+          {
+            "type": "creativeView",
+            "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=creativeView&imp=d403aa1d-ed5a-4716-9690-d8b918a72d3d&ag=gqb0qkk&crid=wlyeme5y&cf=1943561&fq=0&td_s=health.detik.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=None&mfsi=jtyfv3ipw6&sv=spotx&uhow=156&agsa=&wp=${AUCTION_MBR}&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.027d7.0839&rcxt=Other&tmpc=31.87&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=Outstream&c=MAI4AUABSABQAVgB&dur=ChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c&durs=AeNIZx&crrelr=&npt=&svscid=295773&mk=Samsung&mdl=SM-G930F&pcm=1&ict=Unknown&said=f7e324154cbd11eb88e01fff421e0007&auct=3&sfe=122788e3&vp=0",
+            "category": "2"
+          },
+          {
+            "type": "start",
+            "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=start&imp=d403aa1d-ed5a-4716-9690-d8b918a72d3d&ag=gqb0qkk&crid=wlyeme5y&cf=1943561&fq=0&td_s=health.detik.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=None&mfsi=jtyfv3ipw6&sv=spotx&uhow=156&agsa=&wp=${AUCTION_MBR}&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.027d7.0839&rcxt=Other&tmpc=31.87&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=Outstream&c=MAI4AUABSABQAVgB&dur=ChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c&durs=AeNIZx&crrelr=&npt=&svscid=295773&mk=Samsung&mdl=SM-G930F&pcm=1&ict=Unknown&said=f7e324154cbd11eb88e01fff421e0007&auct=3&sfe=122788e3&vp=0&ast=[ASSETURI]",
+            "category": "2"
+          },
+          {
+            "type": "midpoint",
+            "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=midpoint&imp=d403aa1d-ed5a-4716-9690-d8b918a72d3d&ag=gqb0qkk&crid=wlyeme5y&cf=1943561&fq=0&td_s=health.detik.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=None&mfsi=jtyfv3ipw6&sv=spotx&uhow=156&agsa=&wp=${AUCTION_MBR}&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.027d7.0839&rcxt=Other&tmpc=31.87&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=Outstream&c=MAI4AUABSABQAVgB&dur=ChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c&durs=AeNIZx&crrelr=&npt=&svscid=295773&mk=Samsung&mdl=SM-G930F&pcm=1&ict=Unknown&said=f7e324154cbd11eb88e01fff421e0007&auct=3&sfe=122788e3&vp=0",
+            "category": "2"
+          },
+          {
+            "type": "firstQuartile",
+            "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=firstQuartile&imp=d403aa1d-ed5a-4716-9690-d8b918a72d3d&ag=gqb0qkk&crid=wlyeme5y&cf=1943561&fq=0&td_s=health.detik.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=None&mfsi=jtyfv3ipw6&sv=spotx&uhow=156&agsa=&wp=${AUCTION_MBR}&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.027d7.0839&rcxt=Other&tmpc=31.87&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=Outstream&c=MAI4AUABSABQAVgB&dur=ChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c&durs=AeNIZx&crrelr=&npt=&svscid=295773&mk=Samsung&mdl=SM-G930F&pcm=1&ict=Unknown&said=f7e324154cbd11eb88e01fff421e0007&auct=3&sfe=122788e3&vp=0",
+            "category": "2"
+          },
+          {
+            "type": "thirdQuartile",
+            "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=thirdQuartile&imp=d403aa1d-ed5a-4716-9690-d8b918a72d3d&ag=gqb0qkk&crid=wlyeme5y&cf=1943561&fq=0&td_s=health.detik.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=None&mfsi=jtyfv3ipw6&sv=spotx&uhow=156&agsa=&wp=${AUCTION_MBR}&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.027d7.0839&rcxt=Other&tmpc=31.87&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=Outstream&c=MAI4AUABSABQAVgB&dur=ChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c&durs=AeNIZx&crrelr=&npt=&svscid=295773&mk=Samsung&mdl=SM-G930F&pcm=1&ict=Unknown&said=f7e324154cbd11eb88e01fff421e0007&auct=3&sfe=122788e3&vp=0",
+            "category": "2"
+          },
+          {
+            "type": "complete",
+            "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=complete&imp=d403aa1d-ed5a-4716-9690-d8b918a72d3d&ag=gqb0qkk&crid=wlyeme5y&cf=1943561&fq=0&td_s=health.detik.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=None&mfsi=jtyfv3ipw6&sv=spotx&uhow=156&agsa=&wp=${AUCTION_MBR}&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.027d7.0839&rcxt=Other&tmpc=31.87&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=Outstream&c=MAI4AUABSABQAVgB&dur=ChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c&durs=AeNIZx&crrelr=&npt=&svscid=295773&mk=Samsung&mdl=SM-G930F&pcm=1&ict=Unknown&said=f7e324154cbd11eb88e01fff421e0007&auct=3&sfe=122788e3&vp=0",
+            "category": "2"
+          },
+          {
+            "type": "mute",
+            "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=mute&imp=d403aa1d-ed5a-4716-9690-d8b918a72d3d&ag=gqb0qkk&crid=wlyeme5y&cf=1943561&fq=0&td_s=health.detik.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=None&mfsi=jtyfv3ipw6&sv=spotx&uhow=156&agsa=&wp=${AUCTION_MBR}&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.027d7.0839&rcxt=Other&tmpc=31.87&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=Outstream&c=MAI4AUABSABQAVgB&dur=ChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c&durs=AeNIZx&crrelr=&npt=&svscid=295773&mk=Samsung&mdl=SM-G930F&pcm=1&ict=Unknown&said=f7e324154cbd11eb88e01fff421e0007&auct=3&sfe=122788e3&vp=0",
+            "category": "2"
+          },
+          {
+            "type": "unmute",
+            "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=unmute&imp=d403aa1d-ed5a-4716-9690-d8b918a72d3d&ag=gqb0qkk&crid=wlyeme5y&cf=1943561&fq=0&td_s=health.detik.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=None&mfsi=jtyfv3ipw6&sv=spotx&uhow=156&agsa=&wp=${AUCTION_MBR}&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.027d7.0839&rcxt=Other&tmpc=31.87&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=Outstream&c=MAI4AUABSABQAVgB&dur=ChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c&durs=AeNIZx&crrelr=&npt=&svscid=295773&mk=Samsung&mdl=SM-G930F&pcm=1&ict=Unknown&said=f7e324154cbd11eb88e01fff421e0007&auct=3&sfe=122788e3&vp=0",
+            "category": "2"
+          },
+          {
+            "type": "pause",
+            "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=pause&imp=d403aa1d-ed5a-4716-9690-d8b918a72d3d&ag=gqb0qkk&crid=wlyeme5y&cf=1943561&fq=0&td_s=health.detik.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=None&mfsi=jtyfv3ipw6&sv=spotx&uhow=156&agsa=&wp=${AUCTION_MBR}&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.027d7.0839&rcxt=Other&tmpc=31.87&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=Outstream&c=MAI4AUABSABQAVgB&dur=ChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c&durs=AeNIZx&crrelr=&npt=&svscid=295773&mk=Samsung&mdl=SM-G930F&pcm=1&ict=Unknown&said=f7e324154cbd11eb88e01fff421e0007&auct=3&sfe=122788e3&vp=0",
+            "category": "2"
+          },
+          {
+            "type": "rewind",
+            "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=rewind&imp=d403aa1d-ed5a-4716-9690-d8b918a72d3d&ag=gqb0qkk&crid=wlyeme5y&cf=1943561&fq=0&td_s=health.detik.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=None&mfsi=jtyfv3ipw6&sv=spotx&uhow=156&agsa=&wp=${AUCTION_MBR}&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.027d7.0839&rcxt=Other&tmpc=31.87&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=Outstream&c=MAI4AUABSABQAVgB&dur=ChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c&durs=AeNIZx&crrelr=&npt=&svscid=295773&mk=Samsung&mdl=SM-G930F&pcm=1&ict=Unknown&said=f7e324154cbd11eb88e01fff421e0007&auct=3&sfe=122788e3&vp=0",
+            "category": "2"
+          },
+          {
+            "type": "resume",
+            "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=resume&imp=d403aa1d-ed5a-4716-9690-d8b918a72d3d&ag=gqb0qkk&crid=wlyeme5y&cf=1943561&fq=0&td_s=health.detik.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=None&mfsi=jtyfv3ipw6&sv=spotx&uhow=156&agsa=&wp=${AUCTION_MBR}&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.027d7.0839&rcxt=Other&tmpc=31.87&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=Outstream&c=MAI4AUABSABQAVgB&dur=ChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c&durs=AeNIZx&crrelr=&npt=&svscid=295773&mk=Samsung&mdl=SM-G930F&pcm=1&ict=Unknown&said=f7e324154cbd11eb88e01fff421e0007&auct=3&sfe=122788e3&vp=0",
+            "category": "2"
+          },
+          {
+            "type": "fullscreen",
+            "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=fullscreen&imp=d403aa1d-ed5a-4716-9690-d8b918a72d3d&ag=gqb0qkk&crid=wlyeme5y&cf=1943561&fq=0&td_s=health.detik.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=None&mfsi=jtyfv3ipw6&sv=spotx&uhow=156&agsa=&wp=${AUCTION_MBR}&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.027d7.0839&rcxt=Other&tmpc=31.87&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=Outstream&c=MAI4AUABSABQAVgB&dur=ChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c&durs=AeNIZx&crrelr=&npt=&svscid=295773&mk=Samsung&mdl=SM-G930F&pcm=1&ict=Unknown&said=f7e324154cbd11eb88e01fff421e0007&auct=3&sfe=122788e3&vp=0",
+            "category": "2"
+          },
+          {
+            "type": "expand",
+            "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=expand&imp=d403aa1d-ed5a-4716-9690-d8b918a72d3d&ag=gqb0qkk&crid=wlyeme5y&cf=1943561&fq=0&td_s=health.detik.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=None&mfsi=jtyfv3ipw6&sv=spotx&uhow=156&agsa=&wp=${AUCTION_MBR}&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.027d7.0839&rcxt=Other&tmpc=31.87&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=Outstream&c=MAI4AUABSABQAVgB&dur=ChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c&durs=AeNIZx&crrelr=&npt=&svscid=295773&mk=Samsung&mdl=SM-G930F&pcm=1&ict=Unknown&said=f7e324154cbd11eb88e01fff421e0007&auct=3&sfe=122788e3&vp=0",
+            "category": "2"
+          },
+          {
+            "type": "collapse",
+            "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=collapse&imp=d403aa1d-ed5a-4716-9690-d8b918a72d3d&ag=gqb0qkk&crid=wlyeme5y&cf=1943561&fq=0&td_s=health.detik.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=None&mfsi=jtyfv3ipw6&sv=spotx&uhow=156&agsa=&wp=${AUCTION_MBR}&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.027d7.0839&rcxt=Other&tmpc=31.87&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=Outstream&c=MAI4AUABSABQAVgB&dur=ChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c&durs=AeNIZx&crrelr=&npt=&svscid=295773&mk=Samsung&mdl=SM-G930F&pcm=1&ict=Unknown&said=f7e324154cbd11eb88e01fff421e0007&auct=3&sfe=122788e3&vp=0",
+            "category": "2"
+          },
+          {
+            "type": "acceptInvitation",
+            "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=acceptInvitation&imp=d403aa1d-ed5a-4716-9690-d8b918a72d3d&ag=gqb0qkk&crid=wlyeme5y&cf=1943561&fq=0&td_s=health.detik.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=None&mfsi=jtyfv3ipw6&sv=spotx&uhow=156&agsa=&wp=${AUCTION_MBR}&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.027d7.0839&rcxt=Other&tmpc=31.87&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=Outstream&c=MAI4AUABSABQAVgB&dur=ChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c&durs=AeNIZx&crrelr=&npt=&svscid=295773&mk=Samsung&mdl=SM-G930F&pcm=1&ict=Unknown&said=f7e324154cbd11eb88e01fff421e0007&auct=3&sfe=122788e3&vp=0",
+            "category": "2"
+          },
+          {
+            "type": "close",
+            "beacon_url": "https://insight.adsrvr.org/enduser/video/?ve=close&imp=d403aa1d-ed5a-4716-9690-d8b918a72d3d&ag=gqb0qkk&crid=wlyeme5y&cf=1943561&fq=0&td_s=health.detik.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=None&mfsi=jtyfv3ipw6&sv=spotx&uhow=156&agsa=&wp=${AUCTION_MBR}&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.027d7.0839&rcxt=Other&tmpc=31.87&vrtd=14,15&osi=&osv=&daid=&dnr=0&vpb=Outstream&c=MAI4AUABSABQAVgB&dur=ChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c&durs=AeNIZx&crrelr=&npt=&svscid=295773&mk=Samsung&mdl=SM-G930F&pcm=1&ict=Unknown&said=f7e324154cbd11eb88e01fff421e0007&auct=3&sfe=122788e3&vp=0",
+            "category": "2"
+          },
+          {
+            "type": "firstQuartile",
+            "beacon_url": "https://tps.doubleverify.com/event.png?vstevt=4&dup=fd1dc2d0-d3b1-4e01-ad6d-db4c6cd28b9b",
+            "category": "2"
+          },
+          {
+            "type": "midpoint",
+            "beacon_url": "https://tps.doubleverify.com/event.png?vstevt=6&dup=fd1dc2d0-d3b1-4e01-ad6d-db4c6cd28b9b",
+            "category": "2"
+          },
+          {
+            "type": "thirdQuartile",
+            "beacon_url": "https://tps.doubleverify.com/event.png?vstevt=8&dup=fd1dc2d0-d3b1-4e01-ad6d-db4c6cd28b9b",
+            "category": "2"
+          },
+          {
+            "type": "complete",
+            "beacon_url": "https://tps.doubleverify.com/event.png?vstevt=10&dup=fd1dc2d0-d3b1-4e01-ad6d-db4c6cd28b9b",
+            "category": "2"
+          },
+          {
+            "type": "start",
+            "beacon_url": "https://tps.doubleverify.com/event.png?vstevt=0&dup=fd1dc2d0-d3b1-4e01-ad6d-db4c6cd28b9b",
+            "category": "2"
+          },
+          {
+            "type": "pause",
+            "beacon_url": "https://tps.doubleverify.com/event.png?vstevt=22&dup=fd1dc2d0-d3b1-4e01-ad6d-db4c6cd28b9b",
+            "category": "2"
+          },
+          {
+            "type": "resume",
+            "beacon_url": "https://tps.doubleverify.com/event.png?vstevt=23&dup=fd1dc2d0-d3b1-4e01-ad6d-db4c6cd28b9b",
+            "category": "2"
+          },
+          {
+            "type": "mute",
+            "beacon_url": "https://tps.doubleverify.com/event.png?vstevt=30&dup=fd1dc2d0-d3b1-4e01-ad6d-db4c6cd28b9b",
+            "category": "2"
+          },
+          {
+            "type": "unmute",
+            "beacon_url": "https://tps.doubleverify.com/event.png?vstevt=31&dup=fd1dc2d0-d3b1-4e01-ad6d-db4c6cd28b9b",
+            "category": "2"
+          },
+          {
+            "type": "complete",
+            "beacon_url": "https://vtrk.doubleverify.com/?v=1&t=event&tid=ZW-12000000&ec=vast&cid=fd1dc2d0-d3b1-4e01-ad6d-db4c6cd28b9b&el=https%3A%2F%2Finsight.adsrvr.org%2Fenduser%2Fvast%2F%3Fiid%3Dd403aa1d-ed5a-4716-9690-d8b918a72d3d%26crid%3Dwlyeme5y%26wp%3D%24%7BAUCTION_MBR%7D%26aid%3D1%26wpc%3DUSD%26sfe%3D122788e3%26puid%3D%26tdid%3Da9ab1ee1-40d5-4f53-9198-3d474b2bceb4%26pid%3Dpfvg03w%26ag%3Dgqb0qkk%26adv%3Dlhzsji1%26sig%3D1ijKSz_dj2sPz-qeWGraQHELqsd0whM1n2lj76J3QLes.%26bp%3D2.67347842854597%26cf%3D1943561%26fq%3D0%26td_s%3Dhealth.detik.com%26rcats%3D%26mcat%3Ddv-51000298%26mste%3D%26mfld%3D4%26mssi%3DNone%26mfsi%3Djtyfv3ipw6%26uhow%3D156%26agsa%3D%26rgco%3DIndonesia%26rgre%3DJakarta%26rgme%3D%26rgci%3DJakarta%26rgz%3D%26svbttd%3D1%26dt%3DMobile%26osf%3DAndroid%26os%3DAndroid60%26br%3DChrome%26rlangs%3Den%26mlang%3D%26svpid%3D280136%26did%3D44648.027d7.0839%26rcxt%3DOther%26lat%3D-6.174100%26lon%3D106.829600%26tmpc%3D31.87%26daid%3D%26vp%3D0%26osi%3D%26osv%3D%26bv%3D1%26svscid%3D295773%26mk%3DSamsung%26mdl%3DSM-G930F%26vpb%3DOutstream%26dc%3D14%26vcc%3DCAEQPBg8MggIAwgCCAUICToECAEIAkABSAFQAogBAqAB3gKoAc4ByAEB0AED6AEF8AEB-AEBgAIDigIICAIIBQgDCAaaAgIIAqACAqgCAsACAA..%26sv%3Dspotx%26pidi%3D2045%26advi%3D82436%26cmpi%3D1566873%26agi%3D7668711%26cridi%3D16734565%26svi%3D13%26cmp%3D5obalxv%26stf%3D1%26prid%3D280b6a1f-309b-4a3e-b951-0141e833e9dd%26vrtd%3D14%2C15%26tsig%3DIiZ8tXLQA9duaGY7_Kzcsy8dZVFpGZlk-LVfhVs0zrE.%26c%3DMAI4AUABSABQAVgB%26dur%3DChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c%26durs%3DAeNIZx%26crrelr%3D%26pcm%3D1%26said%3Df7e324154cbd11eb88e01fff421e0007%26ict%3DUnknown%26auct%3D3%26im%3D1&ea=complete&cm114=2&cd111=inline&cd117=3&cd190=818052&cd191=DV140326&cd192=TTD&cd193=vidview&cd194=818053&cd196=2&cd188=sgp1&cd189=droplet&cd182=vpaid-transformer%400.20.16&cd143=[TIMESTAMP]&z=16095664383076549710",
+            "category": "2"
+          },
+          {
+            "type": "click",
+            "beacon_url": "https://vtrk.doubleverify.com/?v=1&t=event&tid=ZW-12000000&ec=vast&cid=2bc0e973-66fa-4a61-8c3e-540bbc7561ee&el=https%3A%2F%2Fbs.serving-sys.com%2FServing%2FadServer.bs%3Fc%3D23%26cn%3Ddisplay%26pli%3D1076092973%26ord%3D%5Btimestamp%5D&ea=click&cm114=3&cd111=inline&cd117=2&cd190=15425320&cd191=1074105803&cd192=1073890163&cd193=1076092973&cd195=1&cd196=3&cd188=sgp1&cd189=droplet&cd182=vpaid-transformer%400.20.16&cd141=%5BAPIFRAMEWORKS%5D&cd142=1609566438295&cd143=[TIMESTAMP]&z=16095664383062282516",
+            "category": "2"
+          },
+          {
+            "type": "click",
+            "beacon_url": "https://insight.adsrvr.org/track/clk?imp=d403aa1d-ed5a-4716-9690-d8b918a72d3d&ag=gqb0qkk&sfe=122788e3&sig=IiZ8tXLQA9duaGY7_Kzcsy8dZVFpGZlk-LVfhVs0zrE.&crid=wlyeme5y&cf=1943561&fq=0&td_s=health.detik.com&rcats=&mcat=dv-51000298&mste=&mfld=4&mssi=None&mfsi=jtyfv3ipw6&sv=spotx&uhow=156&agsa=&wp=${AUCTION_MBR}&rgco=Indonesia&rgre=Jakarta&rgme=&rgci=Jakarta&rgz=&dt=Mobile&osf=Android&os=Android60&br=Chrome&svpid=280136&rlangs=en&mlang=&did=44648.027d7.0839&rcxt=Other&tmpc=31.87&vrtd=14,15&osi=&osv=&daid=&dnr=1&vpb=Outstream&c=MAI4AUABSABQAVgB&dur=ChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c&durs=AeNIZx&crrelr=&npt=&svscid=295773&mk=Samsung&mdl=SM-G930F&pcm=1&ict=Unknown&said=f7e324154cbd11eb88e01fff421e0007&auct=3&r=",
+            "category": "2"
+          },
+          {
+            "type": "click",
+            "beacon_url": "https://vtrk.doubleverify.com/?v=1&t=event&tid=ZW-12000000&ec=vast&cid=fd1dc2d0-d3b1-4e01-ad6d-db4c6cd28b9b&el=https%3A%2F%2Finsight.adsrvr.org%2Fenduser%2Fvast%2F%3Fiid%3Dd403aa1d-ed5a-4716-9690-d8b918a72d3d%26crid%3Dwlyeme5y%26wp%3D%24%7BAUCTION_MBR%7D%26aid%3D1%26wpc%3DUSD%26sfe%3D122788e3%26puid%3D%26tdid%3Da9ab1ee1-40d5-4f53-9198-3d474b2bceb4%26pid%3Dpfvg03w%26ag%3Dgqb0qkk%26adv%3Dlhzsji1%26sig%3D1ijKSz_dj2sPz-qeWGraQHELqsd0whM1n2lj76J3QLes.%26bp%3D2.67347842854597%26cf%3D1943561%26fq%3D0%26td_s%3Dhealth.detik.com%26rcats%3D%26mcat%3Ddv-51000298%26mste%3D%26mfld%3D4%26mssi%3DNone%26mfsi%3Djtyfv3ipw6%26uhow%3D156%26agsa%3D%26rgco%3DIndonesia%26rgre%3DJakarta%26rgme%3D%26rgci%3DJakarta%26rgz%3D%26svbttd%3D1%26dt%3DMobile%26osf%3DAndroid%26os%3DAndroid60%26br%3DChrome%26rlangs%3Den%26mlang%3D%26svpid%3D280136%26did%3D44648.027d7.0839%26rcxt%3DOther%26lat%3D-6.174100%26lon%3D106.829600%26tmpc%3D31.87%26daid%3D%26vp%3D0%26osi%3D%26osv%3D%26bv%3D1%26svscid%3D295773%26mk%3DSamsung%26mdl%3DSM-G930F%26vpb%3DOutstream%26dc%3D14%26vcc%3DCAEQPBg8MggIAwgCCAUICToECAEIAkABSAFQAogBAqAB3gKoAc4ByAEB0AED6AEF8AEB-AEBgAIDigIICAIIBQgDCAaaAgIIAqACAqgCAsACAA..%26sv%3Dspotx%26pidi%3D2045%26advi%3D82436%26cmpi%3D1566873%26agi%3D7668711%26cridi%3D16734565%26svi%3D13%26cmp%3D5obalxv%26stf%3D1%26prid%3D280b6a1f-309b-4a3e-b951-0141e833e9dd%26vrtd%3D14%2C15%26tsig%3DIiZ8tXLQA9duaGY7_Kzcsy8dZVFpGZlk-LVfhVs0zrE.%26c%3DMAI4AUABSABQAVgB%26dur%3DChkKBzUybzN3dm0QvxwiCwjcwdN3EgRub25lCj8KImNoYXJnZS1hbGxEb3VibGVWZXJpZnlCb3RBdm9pZGFuY2UiGQjn__________8BEgxkb3VibGV2ZXJpZnkKPgohY2hhcmdlLW1heERvdWJsZVZlcmlmeUJyYW5kU2FmZXR5IhkI2___________ARIMZG91YmxldmVyaWZ5Ck8KLmNoYXJnZS1hbGxEb3VibGVWZXJpZnlWaWRlb1ZpZXdhYmlsaXR5VHJhY2tpbmciHQi4__________8BEgxkdi1yZXBvcnRpbmcqAggBEL8c%26durs%3DAeNIZx%26crrelr%3D%26pcm%3D1%26said%3Df7e324154cbd11eb88e01fff421e0007%26ict%3DUnknown%26auct%3D3%26im%3D1&ea=click&cm114=2&cd111=inline&cd117=3&cd190=818052&cd191=DV140326&cd192=TTD&cd193=vidview&cd194=818053&cd196=2&cd188=sgp1&cd189=droplet&cd182=vpaid-transformer%400.20.16&cd143=[TIMESTAMP]&z=16095664383076549710",
+            "category": "2"
+          }
+        ]
+      },
+      "ad_parameters": "{\"mediaFiles\":[{\"width\":640,\"height\":360,\"type\":\"application/javascript\",\"apiFramework\":\"VPAID\",\"delivery\":\"progressive\",\"uri\":\"https://vpaid.doubleverify.com/js/vpaid-transformer/0.20.16/vpaid-transformer-no-csw.js#%7B%22wrapperId%22%3A%2212000000%22%2C%22customDimensions%22%3A%7B%22111%22%3A%22inline%22%2C%22117%22%3A2%2C%22190%22%3A%2215425320%22%2C%22191%22%3A%221074105803%22%2C%22192%22%3A%221073890163%22%2C%22193%22%3A%221076092973%22%2C%22195%22%3A%221%22%2C%22196%22%3A%223%22%7D%2C%22customMetrics%22%3A%7B%22114%22%3A3%7D%2C%22adServingId%22%3A%222bc0e973-66fa-4a61-8c3e-540bbc7561ee%22%2C%22trackingHost%22%3A%22vtrk.doubleverify.com%22%7D\"}],\"adParameters\":\"{\\\"mediaFiles\\\":[{\\\"id\\\":\\\"2082911085\\\",\\\"height\\\":360,\\\"width\\\":640,\\\"bitrate\\\":1386,\\\"type\\\":\\\"video/mp4\\\",\\\"delivery\\\":\\\"progressive\\\",\\\"maintainAspectRatio\\\":\\\"true\\\",\\\"scalable\\\":\\\"true\\\",\\\"uri\\\":\\\"https://secure-ds.serving-sys.com/resources/PROD/asset/28246/VIDEO/20201216/Catch%20all%20female%20LSM%207%20_58942021164859637.MP4\\\"},{\\\"id\\\":\\\"2082911090\\\",\\\"height\\\":360,\\\"width\\\":640,\\\"bitrate\\\":1525,\\\"type\\\":\\\"video/mp4\\\",\\\"delivery\\\":\\\"progressive\\\",\\\"maintainAspectRatio\\\":\\\"true\\\",\\\"scalable\\\":\\\"true\\\",\\\"uri\\\":\\\"https://secure-ds.serving-sys.com/resources/PROD/asset/28246/VIDEO/20201216/Catch%20all%20female%20LSM%207%20_58942020896424178.MP4\\\"},{\\\"id\\\":\\\"2082911097\\\",\\\"height\\\":360,\\\"width\\\":640,\\\"bitrate\\\":1822,\\\"type\\\":\\\"video/mp4\\\",\\\"delivery\\\":\\\"progressive\\\",\\\"maintainAspectRatio\\\":\\\"true\\\",\\\"scalable\\\":\\\"true\\\",\\\"uri\\\":\\\"https://secure-ds.serving-sys.com/resources/PROD/asset/28246/VIDEO/20201216/Catch%20all%20female%20LSM%207%20_58942020896424160.MP4\\\"}],\\\"clickThroughUrl\\\":\\\"https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1082179516%7E%7E0%7E%7E%7E%5EClick.Linear.2082882007%7E0%7E2082882007%7E11100&pos=7858&ebRandom=8588292035482206226&dg=1075646820&ta=-1&usercookie=u2=33b5dd68-499a-4fbe-893f-58b287ebee08&sessionid=7647076920622432783&rtu=$$https://brand-id.shortlyst.com/rexona/15925?utm_source=TTD_Web&utm_medium=Web&utm_campaign=Rexona_Mystique_Jan21_Upper&utm_term=CatchAllFemaleUC-UC-UnileverCloud&utm_content=15s$$\\\",\\\"duration\\\":15,\\\"customDimensions\\\":{\\\"111\\\":\\\"inline\\\",\\\"117\\\":2,\\\"190\\\":\\\"15425320\\\",\\\"191\\\":\\\"1074105803\\\",\\\"192\\\":\\\"1073890163\\\",\\\"193\\\":\\\"1076092973\\\",\\\"195\\\":\\\"1\\\",\\\"196\\\":\\\"3\\\"},\\\"customMetrics\\\":{\\\"114\\\":3},\\\"plugins\\\":[{\\\"id\\\":\\\"dv\\\",\\\"config\\\":{\\\"msrapi\\\":\\\"jsVpaid\\\",\\\"ctx\\\":\\\"15425320\\\",\\\"cmp\\\":\\\"1074105803\\\",\\\"sid\\\":\\\"1073890163\\\",\\\"plc\\\":\\\"1076092973\\\",\\\"adsrv\\\":\\\"166\\\",\\\"prr\\\":\\\"1\\\",\\\"turl\\\":\\\"\\\",\\\"dup\\\":\\\"2bc0e973-66fa-4a61-8c3e-540bbc7561ee\\\",\\\"DVP_PROG_REP\\\":\\\"1\\\",\\\"DVP_DV_TT\\\":\\\"4\\\",\\\"DVP_PP_ID\\\":\\\"2\\\",\\\"DVP_DV_CT\\\":\\\"2\\\",\\\"DVP_PP_IMP_ID\\\":\\\"d403aa1d-ed5a-4716-9690-d8b918a72d3d\\\",\\\"DVP_PP_UID\\\":\\\"a9ab1ee1-40d5-4f53-9198-3d474b2bceb4\\\",\\\"DVP_PP_DEAL_ID\\\":\\\"44648.027d7.0839\\\",\\\"DVP_TTD_1\\\":\\\"pfvg03w\\\",\\\"DVP_TTD_2\\\":\\\"lhzsji1\\\",\\\"DVP_TTD_3\\\":\\\"gqb0qkk\\\",\\\"DVP_TTD_4\\\":\\\"5obalxv\\\",\\\"DVP_TTD_5\\\":\\\"wlyeme5y\\\",\\\"DVP_TTD_6\\\":\\\"spotx\\\",\\\"DVP_TTD_7\\\":\\\"dv-51000298\\\",\\\"DVP_TTD_8\\\":\\\"280136\\\",\\\"DVP_C5\\\":\\\"health.detik.com\\\",\\\"dvp_zjsver\\\":\\\"0.20.16\\\",\\\"gdpr_consent\\\":[\\\"\\\"],\\\"gdpr\\\":\\\"0\\\",\\\"vssd\\\":\\\"-2\\\",\\\"dvp_psfts\\\":1609566438296,\\\"dvp_psfst\\\":\\\"ack\\\",\\\"vstvr\\\":\\\"2.0-i\\\",\\\"blk\\\":\\\"1\\\",\\\"dvp_blk\\\":\\\"1\\\"}}],\\\"trackingHost\\\":\\\"vtrk.doubleverify.com\\\",\\\"adServingId\\\":\\\"2bc0e973-66fa-4a61-8c3e-540bbc7561ee\\\",\\\"wrapperId\\\":\\\"12000000\\\"}\",\"clickThroughUrl\":\"https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1082179516%7E%7E0%7E%7E%7E%5EClick.Linear.2082882007%7E0%7E2082882007%7E11100&pos=7858&ebRandom=8588292035482206226&dg=1075646820&ta=-1&usercookie=u2=33b5dd68-499a-4fbe-893f-58b287ebee08&sessionid=7647076920622432783&rtu=$$https://brand-id.shortlyst.com/rexona/15925?utm_source=TTD_Web&utm_medium=Web&utm_campaign=Rexona_Mystique_Jan21_Upper&utm_term=CatchAllFemaleUC-UC-UnileverCloud&utm_content=15s$$\",\"duration\":15,\"customDimensions\":{\"111\":\"inline\",\"117\":3,\"190\":\"818052\",\"191\":\"DV140326\",\"192\":\"TTD\",\"193\":\"vidview\",\"194\":\"818053\",\"196\":\"2\"},\"customMetrics\":{\"114\":2},\"plugins\":[{\"id\":\"dv\",\"config\":{\"msrapi\":\"jsVpaid\",\"ctx\":\"818052\",\"cmp\":\"DV140326\",\"sid\":\"TTD\",\"plc\":\"vidview\",\"advid\":\"818053\",\"adsrv\":\"166\",\"rtsurl\":\"https://insight.adsrvr.org/enduser/dv/?rtb=aWlkPWQ0MDNhYTFkLWVkNWEtNDcxNi05NjkwLWQ4YjkxOGE3MmQzZCZjcmlkPXdseWVtZTV5JndwPSR7QVVDVElPTl9NQlJ9JmFpZD0xJndwYz1VU0Qmc2ZlPTEyMjc4OGUzJnB1aWQ9JnRkaWQ9YTlhYjFlZTEtNDBkNS00ZjUzLTkxOTgtM2Q0NzRiMmJjZWI0JnBpZD1wZnZnMDN3JmFnPWdxYjBxa2smYWR2PWxoenNqaTEmYnA9Mi42NzM0Nzg0Mjg1NDU5NyZjZj0xOTQzNTYxJmZxPTAmdGRfcz1oZWFsdGguZGV0aWsuY29tJnJjYXRzPSZtY2F0PWR2LTUxMDAwMjk4Jm1zdGU9Jm1mbGQ9NCZtc3NpPU5vbmUmbWZzaT1qdHlmdjNpcHc2JnVob3c9MTU2JmFnc2E9JnJnY289SW5kb25lc2lhJnJncmU9SmFrYXJ0YSZyZ21lPSZyZ2NpPUpha2FydGEmcmd6PSZzdmJ0dGQ9MSZkdD1Nb2JpbGUmb3NmPUFuZHJvaWQmb3M9QW5kcm9pZDYwJmJyPUNocm9tZSZybGFuZ3M9ZW4mbWxhbmc9JnN2cGlkPTI4MDEzNiZkaWQ9NDQ2NDguMDI3ZDcuMDgzOSZyY3h0PU90aGVyJmxhdD0tNi4xNzQxMDAmbG9uPTEwNi44Mjk2MDAmdG1wYz0zMS44NyZkYWlkPSZ2cD0wJm9zaT0mb3N2PSZidj0xJnN2c2NpZD0yOTU3NzMmbWs9U2Ftc3VuZyZtZGw9U00tRzkzMEYmdnBiPU91dHN0cmVhbSZjPU1BSTRBVUFCU0FCUUFWZ0ImZHVyPUNoa0tCelV5YnpOM2RtMFF2eHdpQ3dqY3dkTjNFZ1J1YjI1bENqOEtJbU5vWVhKblpTMWhiR3hFYjNWaWJHVldaWEpwWm5sQ2IzUkJkbTlwWkdGdVkyVWlHUWpuX19fX19fX19fXzhCRWd4a2IzVmliR1YyWlhKcFpua0tQZ29oWTJoaGNtZGxMVzFoZUVSdmRXSnNaVlpsY21sbWVVSnlZVzVrVTJGbVpYUjVJaGtJMl9fX19fX19fX19fQVJJTVpHOTFZbXhsZG1WeWFXWjVDazhLTG1Ob1lYSm5aUzFoYkd4RWIzVmliR1ZXWlhKcFpubFdhV1JsYjFacFpYZGhZbWxzYVhSNVZISmhZMnRwYm1jaUhRaTRfX19fX19fX19fOEJFZ3hrZGkxeVpYQnZjblJwYm1jcUFnZ0JFTDhjJmNycmVscj0mcGNtPTEmc2FpZD1mN2UzMjQxNTRjYmQxMWViODhlMDFmZmY0MjFlMDAwNyZpY3Q9VW5rbm93biZhdWN0PTMmaW09MSZzdj1zcG90eA..&pie=\",\"dup\":\"fd1dc2d0-d3b1-4e01-ad6d-db4c6cd28b9b\",\"DVP_TTD_1\":\"pfvg03w\",\"DVP_TTD_2\":\"lhzsji1\",\"DVP_TTD_3\":\"gqb0qkk\",\"DVP_TTD_4\":\"5obalxv\",\"DVP_TTD_6\":\"spotx\",\"DVP_HAS_VIEW\":\"0\",\"dvp_zjsver\":\"0.20.16\",\"dvp_psfts\":1609566438290,\"dvp_psfst\":\"ack\",\"vstvr\":\"2.0-i\",\"dvp_media\":\"2\"}}],\"trackingHost\":\"vtrk.doubleverify.com\",\"adServingId\":\"fd1dc2d0-d3b1-4e01-ad6d-db4c6cd28b9b\",\"wrapperId\":\"12000000\"}"
+    }
+  }]]></AdParameters>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="application/javascript" bitrate="2461" width="960" height="540" apiFramework="VPAID"><![CDATA[https://vpaid.doubleverify.com/js/vpaid-transformer/0.20.16/vpaid-transformer-no-csw.js#%7B%22wrapperId%22%3A%2212000000%22%2C%22customDimensions%22%3A%7B%22111%22%3A%22inline%22%2C%22117%22%3A2%2C%22190%22%3A%2215425320%22%2C%22191%22%3A%221074105803%22%2C%22192%22%3A%221073890163%22%2C%22193%22%3A%221076092973%22%2C%22195%22%3A%221%22%2C%22196%22%3A%223%22%7D%2C%22customMetrics%22%3A%7B%22114%22%3A3%7D%2C%22adServingId%22%3A%222bc0e973-66fa-4a61-8c3e-540bbc7561ee%22%2C%22trackingHost%22%3A%22vtrk.doubleverify.com%22%7D]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+      <Extensions>
+        <Extension type="Pricing">
+          <Price model="CPM" currency="USD" source="spotxchange"><![CDATA[1.5]]></Price>
+        </Extension>
+        <Extension type="SpotX-Count">
+          <total_available><![CDATA[9]]></total_available>
+        </Extension>
+        <Extension type="Spotx-Regs">
+          <GDPR>0</GDPR>
+        </Extension>
+        <Extension type="Spotx-User">
+          <consent>2</consent>
+        </Extension>
+      </Extensions>
+    </InLine>
+  </Ad>
+</VAST>
