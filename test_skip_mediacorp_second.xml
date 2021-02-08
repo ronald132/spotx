@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<VAST version="3.0">
+  <Ad>
+    <InLine>
+      <AdSystem>SpotX</AdSystem>
+      <AdTitle>3min_Steady_Eng_subs</AdTitle>
+      <Description></Description>
+      <Impression>
+        <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_impression ]]>
+      </Impression>
+      <Creatives>
+        <Creative sequence="1">
+          <Linear skipoffset="00:00:15">
+            <Duration>00:03:00</Duration>
+            <TrackingEvents>
+              <Tracking event="start">
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_start ]]>
+              </Tracking>
+              <Tracking event="firstQuartile">
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_firstQuartile ]]>
+              </Tracking>
+              <Tracking event="midpoint">
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_midpoint ]]>
+              </Tracking>
+              <Tracking event="thirdQuartile">
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_thirdQuartile ]]>
+              </Tracking>
+              <Tracking event="complete">
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_complete ]]>
+              </Tracking>
+              <Tracking event="skip">
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_skip ]]>
+              </Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough>
+                <![CDATA[ https://www.youtube.com/playlist?list=PLH2CR4s1lqyi6IpHSrjtHabvV8ffyQMNn ]]>
+              </ClickThrough>
+              <ClickTracking>
+                <![CDATA[ https://cdn.spotxcdn.com/website/integration_test/beacons/tracking.html?vast_VideoClickTracking ]]>
+              </ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="480" height="360"><![CDATA[https://cdn.spotxcdn.com/s3/creative-library/e/9/e9df93b0e911ba768a22d13993a06026.mp4]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+      <Extensions/>
+    </InLine>
+  </Ad>
+</VAST>
